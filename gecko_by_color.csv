@@ -1,0 +1,3188 @@
+,Color,Traits,Image Name
+0,['dark'],['pinstripe'],2702167.jpeg
+1,['red'],"['dalmatian', 'super dalmatian', 'ink spot', 'red spot']",2702191.jpeg
+2,['yellow'],"['dalmatian', 'harlequin']",2077235.jpeg
+3,"['cream', 'dark']",['extreme harlequin'],1563067.jpeg
+4,['red'],['harlequin'],2702154.jpeg
+5,['dark'],['partial pinstripe'],2702137.jpeg
+6,['yellow'],"['fringing', 'kneecaps']",2036716.jpeg
+7,['yellow'],"['extreme harlequin', 'snowflake', 'fringing', 'kneecaps']",2036706.jpeg
+8,['yellow'],"['extreme harlequin', 'kneecaps', 'tri-color']",2036694.jpeg
+9,['dark'],[],2702124.jpeg
+10,['red'],['lilly white'],2571375.jpeg
+11,['dark'],"['snowflake', 'tri-color', 'drippy']",2657086.jpeg
+12,['dark'],"['snowflake', 'tri-color', 'drippy']",2657052.jpeg
+13,['cream'],"['fringing', 'kneecaps']",2036670.jpeg
+14,['red'],['patternless'],2522623.jpeg
+15,['yellow'],[],2036610.jpeg
+16,['cream'],"['dalmatian', 'ink spot']",2036567.jpeg
+17,['red'],['dalmatian'],2649126.jpeg
+18,['dark'],"['extreme harlequin', 'harlequin', 'tri-color']",1389179.jpeg
+19,['yellow'],"['fringing', 'kneecaps']",2036545.jpeg
+20,['cream'],"['extreme harlequin', 'pinstripe', 'tri-color']",2036535.jpeg
+21,['dark'],"['extreme harlequin', 'harlequin', 'tri-color']",2369583.jpeg
+22,['red'],"['dalmatian', 'phantom']",2649047.jpeg
+23,['red'],"['lilly white', 'phantom']",2701835.jpeg
+24,"['cream', 'dark']",['extreme harlequin'],2231655.jpeg
+25,['red'],"['lilly white', 'phantom']",2701835.jpeg
+26,"['cream', 'dark']",['extreme harlequin'],2231655.jpeg
+27,['dark'],"['pinstripe', 'crowned', 'drippy']",2701814.jpeg
+28,"['dark', 'yellow']",['extreme harlequin'],2701796.jpeg
+29,['red'],[],2261870.jpeg
+30,"['dark', 'yellow']","['extreme harlequin', 'pos orange', 'pos black']",2144238.jpeg
+31,['red'],['super dalmatian'],2570961.jpeg
+32,['red'],['extreme harlequin'],1441282.jpeg
+33,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2036464.jpeg
+34,['yellow'],"['quad-stripe', 'drippy']",2570891.jpeg
+35,['red'],"['extreme harlequin', 'white tip']",2273613.jpeg
+36,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2036464.jpeg
+37,['yellow'],"['quad-stripe', 'drippy']",2570891.jpeg
+38,['red'],"['extreme harlequin', 'white tip']",2273613.jpeg
+39,['red'],['dalmatian'],2522291.jpeg
+40,['yellow'],"['super dalmatian', 'ink spot', 'oil spot', 'fringing', 'kneecaps']",2036459.jpeg
+41,"['cream', 'yellow']","['quad-stripe', 'fringing', 'kneecaps']",2036452.jpeg
+42,['yellow'],"['fringing', 'kneecaps']",2036450.jpeg
+43,['red'],['harlequin'],2701715.jpeg
+44,['dark'],"['pinstripe', 'white out', 'tangerine']",2701701.jpeg
+45,['red'],['snowflake'],2701698.jpeg
+46,['yellow'],"['extreme harlequin', 'reverse pinstripe', 'portholes']",1657685.jpeg
+47,"['cream', 'yellow']",[],2478698.jpeg
+48,['yellow'],"['dalmatian', 'super dalmatian', 'ink spot']",2289179.jpeg
+49,['lavender'],"['extreme harlequin', 'tri-color']",2701586.jpeg
+50,['dark'],['harlequin'],1654825.jpeg
+51,"['red', 'yellow']","['blonde', 'phantom']",2701564.jpeg
+52,['dark'],"['harlequin', 'partial pinstripe', 'tri-color']",2522025.jpeg
+53,"['dark', 'red']","['harlequin', 'quad-stripe']",1654812.jpeg
+54,['red'],"['dalmatian', 'harlequin']",2636096.jpeg
+55,['dark'],"['extreme harlequin', 'tri-color', 'drippy']",1611710.jpeg
+56,['yellow'],"['pinstripe', 'reverse pinstripe', 'white wall', 'creamsicle']",1747336.jpeg
+57,['red'],['harlequin'],1747524.jpeg
+58,['dark'],[],2216198.jpeg
+59,['dark'],[],2215460.jpeg
+60,['dark'],['snowflake'],2701480.jpeg
+61,['red'],['quad-stripe'],2320812.jpeg
+62,['dark'],"['partial pinstripe', 'pinstripe']",2701392.jpeg
+63,['dark'],"['partial pinstripe', 'pinstripe']",2333654.jpeg
+64,['red'],"['dalmatian', 'phantom']",1994244.jpeg
+65,['dark'],"['pinstripe', 'empty back', 'axanthic']",2701078.jpeg
+66,['red'],['quad-stripe'],2320812.jpeg
+67,['dark'],"['partial pinstripe', 'pinstripe']",2701392.jpeg
+68,['dark'],"['partial pinstripe', 'pinstripe']",2333654.jpeg
+69,['cream'],"['extreme harlequin', 'snowflake', 'drippy']",2642936.jpeg
+70,['red'],"['dalmatian', 'phantom']",1994244.jpeg
+71,['dark'],"['pinstripe', 'empty back', 'axanthic']",2701078.jpeg
+72,['red'],['tri-color'],2701074.jpeg
+73,['red'],['lilly white'],2701051.jpeg
+74,"['lavender', 'red', 'yellow']",['harlequin'],2464969.jpeg
+75,['red'],"['pinstripe', 'drippy']",2584955.jpeg
+76,['dark'],['pinstripe'],2584948.jpeg
+77,['dark'],['pinstripe'],2584941.jpeg
+78,['red'],['flame'],2700955.jpeg
+79,['red'],['quad-stripe'],2584924.jpeg
+80,"['cream', 'dark']","['extreme harlequin', 'tangerine']",2464946.jpeg
+81,['lavender'],"['quad-stripe', 'drippy']",2584918.jpeg
+82,['dark'],['extreme harlequin'],2584908.jpeg
+83,['lavender'],['partial pinstripe'],2584900.jpeg
+84,['cream'],"['super dalmatian', 'ink spot']",1876812.jpeg
+85,['dark'],['extreme harlequin'],2584884.jpeg
+86,['cream'],"['super dalmatian', 'ink spot']",1876785.jpeg
+87,['cream'],"['super dalmatian', 'ink spot']",1876780.jpeg
+88,['dark'],"['extreme harlequin', 'white out', 'white wall', 'tri-color', 'drippy']",2614324.jpeg
+89,['cream'],"['super dalmatian', 'ink spot']",1876767.jpeg
+90,['cream'],['harlequin'],2464838.jpeg
+91,['cream'],"['super dalmatian', 'ink spot']",1876760.jpeg
+92,['dark'],"['extreme harlequin', 'tri-color', 'drippy']",2614275.jpeg
+93,['dark'],"['extreme harlequin', 'white wall', 'drippy']",2614202.jpeg
+94,['dark'],"['extreme harlequin', 'white out', 'snowflake', 'white wall', 'drippy', 'white tip']",2614197.jpeg
+95,"['cream', 'dark']",['extreme harlequin'],2464751.jpeg
+96,['dark'],"['extreme harlequin', 'white out', 'snowflake', 'white wall', 'drippy', 'white tip']",2614113.jpeg
+97,['red'],"['harlequin', 'snowflake']",2561270.jpeg
+98,['red'],['extreme harlequin'],2700544.jpeg
+99,['lavender'],[],2700537.jpeg
+100,['red'],['super dalmatian'],2700531.jpeg
+101,['red'],['super dalmatian'],2700526.jpeg
+102,['lavender'],['extreme harlequin'],2201281.jpeg
+103,"['cream', 'dark']","['extreme harlequin', 'harlequin', 'tri-color', 'drippy']",2477774.jpeg
+104,"['cream', 'yellow']",[],2569381.jpeg
+105,['red'],"['portholes', 'phantom']",2613926.jpeg
+106,['red'],['dalmatian'],2122462.jpeg
+107,['red'],"['super dalmatian', 'tiger', 'ink spot', 'oil spot', 'furred']",2035341.jpeg
+108,['red'],"['fringing', 'kneecaps', 'phantom']",2063686.jpeg
+109,['red'],"['pinstripe', 'fringing', 'kneecaps', 'white wall']",2035292.jpeg
+110,['yellow'],[],2063680.jpeg
+111,['dark'],['partial pinstripe'],2122391.jpeg
+112,['yellow'],['dalmatian'],2223213.jpeg
+113,"['cream', 'dark']",['harlequin'],2417577.jpeg
+114,['yellow'],"['extreme harlequin', 'tri-color']",2063613.jpeg
+115,['yellow'],"['pinstripe', 'fringing', 'kneecaps']",2063597.jpeg
+116,['red'],"['dalmatian', 'red spot', 'patternless']",2368231.jpeg
+117,"['cream', 'red']","['extreme harlequin', 'fringing', 'kneecaps']",2035173.jpeg
+118,['dark'],['tri-color'],2569019.jpeg
+119,['red'],"['extreme harlequin', 'pinstripe', 'snowflake', 'drippy']",2700107.jpeg
+120,"['cream', 'dark']",['quad-stripe'],2246497.jpeg
+121,['yellow'],"['extreme harlequin', 'fringing']",2063589.jpeg
+122,['cream'],['extreme harlequin'],2063551.jpeg
+123,['yellow'],['extreme harlequin'],2063531.jpeg
+124,['dark'],['phantom'],2063535.jpeg
+125,['yellow'],"['extreme harlequin', 'pinstripe', 'tri-color']",2063525.jpeg
+126,['yellow'],[],2063496.jpeg
+127,"['red', 'yellow']","['harlequin', 'snowflake']",2063492.jpeg
+128,['cream'],['harlequin'],2063485.jpeg
+129,['yellow'],['extreme harlequin'],2063480.jpeg
+130,"['cream', 'lavender']",['pinstripe'],2634716.jpeg
+131,['yellow'],['peppered'],2634616.jpeg
+132,['red'],"['66% het axanthic', 'phantom']",2699683.jpeg
+133,['yellow'],[],2034842.jpeg
+134,['yellow'],"['extreme harlequin', 'tri-color']",2034836.jpeg
+135,['yellow'],"['quad-stripe', 'soft scale', 'phantom']",2634537.jpeg
+136,['lavender'],"['dalmatian', 'harlequin', 'solid back']",2063362.jpeg
+137,['yellow'],['extreme harlequin'],2063355.jpeg
+138,['yellow'],"['extreme harlequin', 'tri-color']",2063346.jpeg
+139,['yellow'],['extreme harlequin'],2063341.jpeg
+140,['yellow'],"['harlequin', 'reverse pinstripe', 'snowflake', 'fringing', 'kneecaps']",2063335.jpeg
+141,['yellow'],['extreme harlequin'],2063330.jpeg
+142,['yellow'],['extreme harlequin'],2034684.jpeg
+143,['red'],"['harlequin', 'snowflake']",2034676.jpeg
+144,['red'],"['66% het axanthic', 'phantom']",2699455.jpeg
+145,['yellow'],"['fringing', 'kneecaps']",2034673.jpeg
+146,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'drippy']",2034670.jpeg
+147,"['red', 'yellow']",['harlequin'],2034657.jpeg
+148,['dark'],"['brindle', 'fringing']",2034649.jpeg
+149,['dark'],['pinstripe'],2148527.jpeg
+150,['yellow'],['super dalmatian'],2034583.jpeg
+151,['lavender'],"['harlequin', 'quad-stripe']",2699300.jpeg
+152,['yellow'],"['dalmatian', 'pinstripe', 'quad-stripe']",2699295.jpeg
+153,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps']",2034567.jpeg
+154,['red'],"['dalmatian', 'super dalmatian', 'portholes']",2148505.jpeg
+155,['yellow'],"['extreme harlequin', 'tri-color']",2063187.jpeg
+156,['cream'],['solid back'],2063122.jpeg
+157,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2063116.jpeg
+158,['red'],"['harlequin', 'tri-color']",2148465.jpeg
+159,['dark'],['tri-color'],2699246.jpeg
+160,['cream'],"['extreme harlequin', 'snowflake', 'fringing', 'kneecaps']",2063077.jpeg
+161,"['lavender', 'yellow']","['extreme harlequin', 'snowflake']",2063058.jpeg
+162,['yellow'],[],2063050.jpeg
+163,"['cream', 'yellow']","['extreme harlequin', 'tri-color', 'drippy']",2063041.jpeg
+164,['yellow'],"['fringing', 'kneecaps', 'tri-color']",2061744.jpeg
+165,['red'],"['harlequin', 'pinstripe']",1677446.jpeg
+166,['cream'],"['quad-stripe', 'fringing', 'kneecaps']",2063034.jpeg
+167,"['cream', 'lavender', 'yellow']","['extreme harlequin', 'portholes', 'fringing', 'kneecaps', 'tri-color']",2063009.jpeg
+168,['red'],['pinstripe'],2090159.jpeg
+169,['red'],['pinstripe'],1769228.jpeg
+170,['dark'],"['partial pinstripe', 'phantom']",2332423.jpeg
+171,['dark'],"['partial pinstripe', 'phantom']",2332400.jpeg
+172,['yellow'],"['brindle', 'partial pinstripe', 'phantom']",2332356.jpeg
+173,['red'],"['harlequin', 'pinstripe', 'tiger']",2291608.jpeg
+174,['red'],['portholes'],2633920.jpeg
+175,['lavender'],"['extreme harlequin', 'harlequin', 'drippy']",2633910.jpeg
+176,"['lavender', 'yellow']",[],2633884.jpeg
+177,['red'],[],2570666.jpeg
+178,['red'],[],2567568.jpeg
+179,['red'],"['dalmatian', 'super dalmatian', 'tiger', 'red spot', 'portholes', 'fringing', 'kneecaps']",2567566.jpeg
+180,['red'],"['dalmatian', 'harlequin', 'partial pinstripe', 'red spot', 'fringing', 'kneecaps']",2567559.jpeg
+181,['dark'],"['pinstripe', 'quad-stripe']",2698671.jpeg
+182,"['cream', 'red']",['harlequin'],2698669.jpeg
+183,['yellow'],['tiger'],2698659.jpeg
+184,['red'],"['extreme harlequin', 'partial pinstripe']",2698653.jpeg
+185,"['cream', 'lavender']","['white out', 'drippy']",1874649.jpeg
+186,['red'],"['dalmatian', 'super dalmatian']",2698646.jpeg
+187,"['cream', 'dark']","['brindle', 'harlequin', 'tri-color']",2698632.jpeg
+188,"['lavender', 'yellow']","['extreme harlequin', 'harlequin']",2646202.jpeg
+189,['lavender'],['pinstripe'],2646187.jpeg
+190,"['cream', 'dark']","['harlequin', 'pinstripe']",2698586.jpeg
+191,"['cream', 'dark', 'red']","['harlequin', 'partial pinstripe', 'tri-color']",2698566.jpeg
+192,"['cream', 'dark']","['pinstripe', 'quad-stripe']",2698552.jpeg
+193,['dark'],['tri-color'],2581992.jpeg
+194,['red'],"['partial pinstripe', 'drippy']",2581984.jpeg
+195,['dark'],"['pinstripe', 'tri-color']",2581977.jpeg
+196,['dark'],"['brindle', 'harlequin']",2698547.jpeg
+197,['dark'],[],2581968.jpeg
+198,['dark'],"['dalmatian', 'quad-stripe']",2581957.jpeg
+199,['red'],"['lilly white', '66% het axanthic', 'phantom']",2416457.jpeg
+200,"['dark', 'lavender']",['partial pinstripe'],2581950.jpeg
+201,['lavender'],['quad-stripe'],2581914.jpeg
+202,['red'],[],2567317.jpeg
+203,['dark'],"['extreme harlequin', 'pinstripe']",2581813.jpeg
+204,['dark'],"['extreme harlequin', 'snowflake']",2470277.jpeg
+205,['yellow'],['dalmatian'],2698501.jpeg
+206,['yellow'],"['dalmatian', 'flame']",2698449.jpeg
+207,['yellow'],['dalmatian'],2698441.jpeg
+208,['yellow'],['dalmatian'],2698426.jpeg
+209,['dark'],"['extreme harlequin', 'fringing', 'kneecaps', 'drippy']",2602662.jpeg
+210,['red'],"['dalmatian', 'super dalmatian', 'red spot', 'phantom']",2277360.jpeg
+211,['dark'],"['portholes', 'phantom']",2566929.jpeg
+212,['red'],[],2597562.jpeg
+213,"['cream', 'red']",['harlequin'],2120815.jpeg
+214,"['lavender', 'red', 'yellow']",['harlequin'],2698188.jpeg
+215,['red'],"['66% het axanthic', 'phantom']",2698153.jpeg
+216,['lavender'],"['dalmatian', 'pinstripe', 'quad-stripe', 'pinstripe', 'lavender albino']",2698124.jpeg
+217,['red'],['pinstripe'],2147145.jpeg
+218,['dark'],['harlequin'],2698117.jpeg
+219,['dark'],['partial pinstripe'],2556480.jpeg
+220,['yellow'],"['dalmatian', 'portholes', 'phantom']",2077841.jpeg
+221,['red'],['lilly white'],2368474.jpeg
+222,['red'],"['dalmatian', 'portholes', 'phantom']",2497344.jpeg
+223,['lavender'],"['extreme harlequin', 'pinstripe']",2698112.jpeg
+224,['red'],['patternless'],2387946.jpeg
+225,['red'],['patternless'],2387902.jpeg
+226,['dark'],"['extreme harlequin', 'tri-color', 'drippy']",2698073.jpeg
+227,"['dark', 'red']","['dalmatian', 'super dalmatian', 'red spot']",2147089.jpeg
+228,"['dark', 'red']","['dalmatian', 'super dalmatian']",2147052.jpeg
+229,['yellow'],['flame'],2698024.jpeg
+230,['red'],"['extreme harlequin', 'harlequin', 'tri-color']",2366878.jpeg
+231,['dark'],"['dalmatian', 'harlequin', 'partial pinstripe']",2640029.jpeg
+232,['dark'],"['harlequin', 'partial pinstripe']",2640018.jpeg
+233,['yellow'],"['reverse pinstripe', 'portholes']",2640013.jpeg
+234,['yellow'],"['reverse pinstripe', 'tiger', 'kneecaps']",2640006.jpeg
+235,"['cream', 'dark']","['brindle', 'harlequin']",2697882.jpeg
+236,['dark'],"['pinstripe', 'portholes', 'normal']",2146925.jpeg
+237,['yellow'],"['pinstripe', 'phantom']",2366805.jpeg
+238,['cream'],"['harlequin', 'red spot']",2216291.jpeg
+239,['red'],"['portholes', 'phantom']",2019152.jpeg
+240,['dark'],['harlequin'],2005401.jpeg
+241,['red'],"['dalmatian', 'flame', 'super dalmatian']",2006190.jpeg
+242,['red'],"['dalmatian', 'super dalmatian']",2697698.jpeg
+243,['yellow'],"['harlequin', 'pinstripe', 'drippy']",2645366.jpeg
+244,['yellow'],['tiger'],2566226.jpeg
+245,['dark'],['extreme harlequin'],2697647.jpeg
+246,['red'],['dalmatian'],2697617.jpeg
+247,['yellow'],"['pinstripe', 'quad-stripe']",2645320.jpeg
+248,['yellow'],[],2697600.jpeg
+249,['dark'],['phantom'],2697581.jpeg
+250,['dark'],"['dalmatian', 'harlequin']",2271143.jpeg
+251,['dark'],"['partial pinstripe', 'white tip']",2185145.jpeg
+252,['cream'],"['harlequin', 'tri-color']",2461555.jpeg
+253,"['lavender', 'yellow']",['harlequin'],2632174.jpeg
+254,['red'],"['dalmatian', 'phantom']",2565918.jpeg
+255,"['dark', 'lavender']",[],2366580.jpeg
+256,['dark'],"['extreme harlequin', 'harlequin', 'pinstripe', 'white wall', 'white tip']",2366574.jpeg
+257,['cream'],"['portholes', 'tri-color']",2224184.jpeg
+258,['red'],"['dalmatian', 'tiger']",2224166.jpeg
+259,['dark'],"['extreme harlequin', 'drippy']",2049350.jpeg
+260,"['dark', 'lavender']",['pinstripe'],2366525.jpeg
+261,['yellow'],"['pinstripe', 'drippy']",2366509.jpeg
+262,['red'],"['portholes', 'fringing', 'phantom']",2128895.jpeg
+263,"['cream', 'dark', 'red']","['pinstripe', 'tri-color']",2443373.jpeg
+264,['red'],"['dalmatian', 'phantom']",2218330.jpeg
+265,['yellow'],"['harlequin', 'pinstripe', 'fringing']",2015722.jpeg
+266,['yellow'],"['flame', 'harlequin', 'snowflake', 'axanthic']",2461112.jpeg
+267,"['cream', 'lavender']","['pinstripe', 'snowflake', 'drippy']",2237019.jpeg
+268,['cream'],[],2217986.jpeg
+269,"['dark', 'red']",['flame'],2023804.jpeg
+270,['cream'],['tri-color'],2215882.jpeg
+271,['dark'],['drippy'],2631623.jpeg
+272,['dark'],"['harlequin', 'quad-stripe', 'white out', 'white wall', 'tri-color']",2540313.jpeg
+273,['dark'],"['harlequin', 'quad-stripe', 'white out']",2540308.jpeg
+274,['red'],['lilly white'],1675707.jpeg
+275,['red'],['lilly white'],1675700.jpeg
+276,"['dark', 'lavender']",['pinstripe'],2370915.jpeg
+277,['yellow'],"['harlequin', 'drippy']",2644536.jpeg
+278,"['cream', 'red']",['harlequin'],2696321.jpeg
+279,['red'],"['brindle', 'kneecaps']",2631172.jpeg
+280,['yellow'],['dalmatian'],2631135.jpeg
+281,"['dark', 'red']","['extreme harlequin', 'harlequin', 'white wall', 'tri-color']",2696276.jpeg
+282,['yellow'],"['harlequin', 'pinstripe']",2696225.jpeg
+283,['red'],"['pinstripe', 'quad-stripe']",2631087.jpeg
+284,['lavender'],['pinstripe'],1654286.jpeg
+285,['cream'],"['extreme harlequin', 'drippy']",2631061.jpeg
+286,['dark'],['extreme harlequin'],2696133.jpeg
+287,['red'],"['dalmatian', 'flame', 'het phantom', 'tiger']",2650428.jpeg
+288,['lavender'],['harlequin'],2696072.jpeg
+289,['lavender'],['harlequin'],2696059.jpeg
+290,['red'],['pinstripe'],2564861.jpeg
+291,['dark'],"['pinstripe', 'quad-stripe']",2644398.jpeg
+292,['red'],['portholes'],2564790.jpeg
+293,['red'],['portholes'],2564776.jpeg
+294,['lavender'],['harlequin'],2564765.jpeg
+295,['dark'],"['dalmatian', 'pinstripe', 'tri-color']",2630893.jpeg
+296,['yellow'],"['partial pinstripe', 'quad-stripe']",2644295.jpeg
+297,['red'],"['extreme harlequin', 'harlequin']",2595507.jpeg
+298,['dark'],[],2595427.jpeg
+299,"['cream', 'yellow']","['dalmatian', 'partial pinstripe']",2327619.jpeg
+300,['red'],"['soft scale', 'phantom']",2370345.jpeg
+301,['red'],"['dalmatian', 'soft scale', 'phantom']",2370331.jpeg
+302,['red'],['pinstripe'],2370326.jpeg
+303,"['dark', 'lavender']",['white out'],2370324.jpeg
+304,"['dark', 'lavender']","['white wall', 'empty back', 'super stripe']",2370321.jpeg
+305,['red'],"['dalmatian', 'red spot', 'phantom']",2370315.jpeg
+306,['dark'],"['brindle', 'dalmatian']",2564363.jpeg
+307,['red'],"['extreme harlequin', 'snowflake']",2309550.jpeg
+308,['red'],['portholes'],2309533.jpeg
+309,['red'],['harlequin'],2309526.jpeg
+310,['red'],"['extreme harlequin', 'drippy']",2578825.jpeg
+311,['yellow'],['quad-stripe'],2630551.jpeg
+312,['yellow'],['dalmatian'],2330829.jpeg
+313,['yellow'],"['pinstripe', 'reverse pinstripe', 'white tip', 'phantom']",2388442.jpeg
+314,['red'],"['harlequin', 'partial pinstripe', 'pinstripe', 'portholes']",2042643.jpeg
+315,['red'],"['portholes', 'phantom']",2630504.jpeg
+316,['yellow'],"['dalmatian', 'empty back', 'phantom']",2493011.jpeg
+317,['yellow'],"['tiger', 'patternless']",2042634.jpeg
+318,['red'],"['super dalmatian', 'red spot']",2459689.jpeg
+319,['red'],"['pinstripe', 'tri-color']",2695406.jpeg
+320,['red'],"['harlequin', 'partial pinstripe']",2695394.jpeg
+321,['red'],"['dalmatian', 'red spot']",2695388.jpeg
+322,['lavender'],"['harlequin', 'pinstripe']",2695387.jpeg
+323,"['cream', 'dark']","['dalmatian', 'partial pinstripe', 'pinstripe', 'crowned']",2630422.jpeg
+324,['red'],['red spot'],2016523.jpeg
+325,['dark'],"['super dalmatian', 'tri-color']",2003502.jpeg
+326,['red'],"['dalmatian', 'partial pinstripe']",2290239.jpeg
+327,['lavender'],['quad-stripe'],2630383.jpeg
+328,['dark'],[],2473346.jpeg
+329,['red'],"['dalmatian', 'partial pinstripe']",2290212.jpeg
+330,['yellow'],"['pinstripe', 'reverse pinstripe', 'crowned', 'white wall', 'drippy']",2297211.jpeg
+331,['red'],['dalmatian'],2290190.jpeg
+332,"['cream', 'red']","['harlequin', 'partial pinstripe']",2695169.jpeg
+333,['red'],"['white out', 'drippy']",2649681.jpeg
+334,['lavender'],"['dalmatian', 'flame', 'super dalmatian', 'bi-color']",2246747.jpeg
+335,['dark'],"['pinstripe', 'portholes']",2021309.jpeg
+336,"['red', 'yellow']","['extreme harlequin', 'pin-dashed', 'fringing', 'kneecaps', 'phantom']",2004761.jpeg
+337,['lavender'],"['pinstripe', 'drippy']",2515160.jpeg
+338,['lavender'],"['pinstripe', 'tri-color']",2515134.jpeg
+339,['red'],"['harlequin', 'snowflake', 'fringing', 'kneecaps', 'crowned', 'drippy', 'white tip']",2352699.jpeg
+340,['dark'],['harlequin'],2515120.jpeg
+341,['dark'],"['tri-color', 'phantom']",1641206.jpeg
+342,['dark'],['harlequin'],2670280.jpeg
+343,['yellow'],"['pinstripe', 'quad-stripe']",2694946.jpeg
+344,"['red', 'yellow']","['pinstripe', 'drippy']",2643728.jpeg
+345,"['cream', 'dark']",['harlequin'],2594557.jpeg
+346,"['cream', 'red']","['dalmatian', 'extreme harlequin']",2694814.jpeg
+347,"['cream', 'red']",[],2221293.jpeg
+348,"['cream', 'dark']",['harlequin'],2563471.jpeg
+349,['red'],['phantom'],2670248.jpeg
+350,['dark'],"['harlequin', 'partial pinstripe', 'pinstripe', 'portholes']",2042209.jpeg
+351,['red'],"['super dalmatian', 'red spot', 'portholes', 'fringing']",2003338.jpeg
+352,['cream'],['harlequin'],2670007.jpeg
+353,['red'],[],2594106.jpeg
+354,['lavender'],"['extreme harlequin', 'snowflake', 'blonde', 'drippy']",2232693.jpeg
+355,['red'],"['dalmatian', 'extreme harlequin', 'harlequin', 'pinstripe']",2694098.jpeg
+356,['red'],"['extreme harlequin', 'harlequin']",2311985.jpeg
+357,['lavender'],"['extreme harlequin', 'harlequin', 'snowflake', 'blonde']",2309033.jpeg
+358,['cream'],['extreme harlequin'],2694046.jpeg
+359,['yellow'],['harlequin'],2693931.jpeg
+360,['red'],"['red spot', 'portholes']",2469444.jpeg
+361,['yellow'],"['harlequin', 'pinstripe']",1900602.jpeg
+362,"['cream', 'yellow']","['extreme harlequin', 'harlequin']",1641190.jpeg
+363,['dark'],[],2675939.jpeg
+364,['red'],[],2677258.jpeg
+365,"['olive', 'yellow']","['brindle', 'portholes', 'fringing']",2693862.jpeg
+366,['dark'],['pinstripe'],2514028.jpeg
+367,['dark'],['harlequin'],2514020.jpeg
+368,"['cream', 'red']",['harlequin'],2562452.jpeg
+369,['lavender'],"['extreme harlequin', 'harlequin', 'pin-dashed', 'snowflake', 'portholes', 'fringing', 'kneecaps']",2329656.jpeg
+370,['red'],['harlequin'],2472274.jpeg
+371,['dark'],"['extreme harlequin', 'pin-dashed']",2629159.jpeg
+372,['dark'],"['pos portholes', 'patternless']",2041521.jpeg
+373,['yellow'],"['dalmatian', 'tiger', 'phantom']",2041512.jpeg
+374,['red'],['brindle'],2608089.jpeg
+375,"['cream', 'red']","['brindle', 'harlequin']",2402018.jpeg
+376,['dark'],['harlequin'],2693456.jpeg
+377,"['cream', 'dark']","['harlequin', 'partial pinstripe']",2000370.jpeg
+378,['dark'],"['dalmatian', 'harlequin']",2562181.jpeg
+379,['red'],"['dalmatian', 'pos super dalmatian', 'ink spot']",2250612.jpeg
+380,['red'],"['dalmatian', 'pinstripe']",2472003.jpeg
+381,"['dark', 'red']",['extreme harlequin'],2479385.jpeg
+382,"['dark', 'red']",['extreme harlequin'],2479389.jpeg
+383,"['dark', 'red']",['extreme harlequin'],2479381.jpeg
+384,['dark'],"['dalmatian', 'flame']",2017092.jpeg
+385,['yellow'],"['extreme harlequin', 'harlequin']",2016582.jpeg
+386,"['cream', 'yellow']","['extreme harlequin', 'harlequin']",2005000.jpeg
+387,"['dark', 'red']",[],2469499.jpeg
+388,['dark'],[],2595647.jpeg
+389,['dark'],[],2218089.jpeg
+390,['red'],['phantom'],2595503.jpeg
+391,['dark'],[],2670033.jpeg
+392,['dark'],[],2675605.jpeg
+393,"['cream', 'dark']","['harlequin', 'pinstripe', 'pos quad-stripe']",2693097.jpeg
+394,['red'],['dalmatian'],2457760.jpeg
+395,['red'],"['harlequin', 'pinstripe']",2329129.jpeg
+396,['red'],[],2561863.jpeg
+397,['red'],['portholes'],2561854.jpeg
+398,['red'],['extreme harlequin'],2561840.jpeg
+399,['dark'],"['extreme harlequin', 'harlequin', 'partial pinstripe', 'tri-color']",2692791.jpeg
+400,['red'],"['dalmatian', 'red spot']",2497717.jpeg
+401,['dark'],"['harlequin', 'partial pinstripe']",2628481.jpeg
+402,['red'],['dalmatian'],2328931.jpeg
+403,['red'],['dalmatian'],2328925.jpeg
+404,['dark'],['dalmatian'],2328920.jpeg
+405,['dark'],[],2328905.jpeg
+406,"['cream', 'lavender']","['extreme harlequin', 'white wall', 'drippy']",2642090.jpeg
+407,"['cream', 'dark']","['dalmatian', 'extreme harlequin']",2327624.jpeg
+408,['red'],['dalmatian'],2328885.jpeg
+409,['red'],[],2457523.jpeg
+410,['dark'],"['extreme harlequin', 'white wall', 'tri-color']",2440209.jpeg
+411,['yellow'],['pinstripe'],2178909.jpeg
+412,['yellow'],"['dalmatian', 'super dalmatian', 'oil spot']",2634918.jpeg
+413,['red'],"['dalmatian', 'super dalmatian', 'oil spot']",2634917.jpeg
+414,['red'],['patternless'],2178854.jpeg
+415,['dark'],"['quad-stripe', 'soft scale', 'phantom']",2294394.jpeg
+416,['red'],"['dalmatian', 'phantom']",2407445.jpeg
+417,['red'],"['empty back', 'phantom', 'patternless']",2561396.jpeg
+418,['cream'],[],2692332.jpeg
+419,['red'],"['dalmatian', 'phantom']",2407446.jpeg
+420,['red'],"['dalmatian', 'red spot']",2310993.jpeg
+421,"['dark', 'red']",['harlequin'],2246831.jpeg
+422,['red'],['phantom'],2596776.jpeg
+423,['dark'],['phantom'],1629588.jpeg
+424,['cream'],['harlequin'],2596688.jpeg
+425,['yellow'],"['lilly white', 'phantom']",2470986.jpeg
+426,"['cream', 'dark']",['pinstripe'],2194177.jpeg
+427,"['cream', 'dark', 'yellow']","['extreme harlequin', 'tri-color']",2104169.jpeg
+428,"['cream', 'dark']",['extreme harlequin'],2691936.jpeg
+429,"['cream', 'dark']","['extreme harlequin', 'harlequin']",2691913.jpeg
+430,['dark'],[],2691920.jpeg
+431,['red'],['phantom'],2691901.jpeg
+432,['dark'],"['extreme harlequin', 'harlequin']",2691893.jpeg
+433,['red'],"['lilly white', 'phantom']",2449710.jpeg
+434,['red'],['flame'],2008483.jpeg
+435,['yellow'],['pinstripe'],2328352.jpeg
+436,['red'],['tri-color'],2249499.jpeg
+437,['red'],"['flame', 'harlequin', 'partial pinstripe', 'fringing', 'kneecaps', 'empty back']",2691826.jpeg
+438,['red'],"['brindle', 'dalmatian', 'oil spot', 'red spot', 'portholes', 'fringing', 'phantom']",2691812.jpeg
+439,['cream'],['extreme harlequin'],2691754.jpeg
+440,['dark'],['dalmatian'],2182439.jpeg
+441,['dark'],"['harlequin', 'normal']",2142221.jpeg
+442,['red'],"['extreme harlequin', 'harlequin', 'tri-color']",2142082.jpeg
+443,['dark'],['harlequin'],2021485.jpeg
+444,['red'],['flame'],2023639.jpeg
+445,['red'],['phantom'],2216119.jpeg
+446,['dark'],"['mocha', 'phantom']",2022781.jpeg
+447,['red'],[],2449885.jpeg
+448,"['cream', 'red']","['pinstripe', 'white out', 'creamsicle', 'cold fusion']",2492328.jpeg
+449,['dark'],"['super dalmatian', 'white out', 'portholes', 'soft scale', 'phantom']",2439314.jpeg
+450,['red'],"['harlequin', 'tiger']",2337438.jpeg
+451,['yellow'],"['harlequin', 'partial pinstripe']",2367621.jpeg
+452,"['dark', 'red']","['partial pinstripe', 'pinstripe']",2241071.jpeg
+453,['red'],['kneecaps'],2691593.jpeg
+454,['red'],['dalmatian'],2439178.jpeg
+455,['red'],['harlequin'],2185791.jpeg
+456,['dark'],[],2691504.jpeg
+457,['red'],"['dalmatian', 'phantom']",2691472.jpeg
+458,['lavender'],"['harlequin', 'pin-dashed', 'tri-color']",2176440.jpeg
+459,['dark'],"['dalmatian', 'pinstripe']",2307139.jpeg
+460,['dark'],['dalmatian'],1922611.jpeg
+461,['dark'],"['harlequin', 'pinstripe']",2184940.jpeg
+462,['dark'],"['extreme harlequin', 'partial pinstripe', 'furred']",1950443.jpeg
+463,"['cream', 'red']","['extreme harlequin', 'pinstripe']",2402160.jpeg
+464,['red'],['harlequin'],2274949.jpeg
+465,['lavender'],['harlequin'],2387759.jpeg
+466,['red'],"['fringing', 'kneecaps', 'tri-color']",2468430.jpeg
+467,['lavender'],['harlequin'],2411847.jpeg
+468,['dark'],"['harlequin', 'tri-color']",2510391.jpeg
+469,['red'],['dalmatian'],2456494.jpeg
+470,['dark'],[],2308372.jpeg
+471,['red'],['harlequin'],2522861.jpeg
+472,['yellow'],['pinstripe'],2512990.jpeg
+473,['red'],"['dalmatian', 'super dalmatian', 'red spot']",2510741.jpeg
+474,['yellow'],"['dalmatian', 'tiger', 'ink spot']",2510451.jpeg
+475,['red'],"['harlequin', 'portholes', 'tangerine']",2502294.jpeg
+476,['red'],"['harlequin', 'partial pinstripe']",2501970.jpeg
+477,"['dark', 'red']","['pinstripe', 'tailless']",2477071.jpeg
+478,['red'],[],2471066.jpeg
+479,['red'],['dalmatian'],2466820.jpeg
+480,['dark'],['harlequin'],2466931.jpeg
+481,['lavender'],['harlequin'],2460988.jpeg
+482,"['cream', 'yellow']",[],2457223.jpeg
+483,['dark'],['harlequin'],2388532.jpeg
+484,['red'],['dalmatian'],2318109.jpeg
+485,"['cream', 'yellow']",['dalmatian'],2253334.jpeg
+486,['red'],"['dalmatian', 'super dalmatian', 'ink spot', 'cluster spots']",2206812.jpeg
+487,['dark'],['pinstripe'],2189095.jpeg
+488,"['dark', 'red']",['harlequin'],2180251.jpeg
+489,['yellow'],['harlequin'],636243.jpeg
+490,['red'],"['harlequin', 'tri-color']",1622653.jpeg
+491,"['cream', 'red', 'yellow']",['pinstripe'],1186462.jpeg
+492,['red'],['dalmatian'],1995171.jpeg
+493,['red'],['pinstripe'],1221056.jpeg
+494,"['cream', 'red']","['extreme harlequin', 'drippy']",1861638.jpeg
+495,['red'],"['flame', 'portholes']",1920484.jpeg
+496,['dark'],"['pinstripe', 'quad-stripe']",2055710.jpeg
+497,['red'],"['harlequin', 'portholes']",2015527.jpeg
+498,['lavender'],['harlequin'],1970831.jpeg
+499,['dark'],['harlequin'],1970435.jpeg
+500,['cream'],[],2111735.jpeg
+501,['yellow'],"['pinstripe', 'reverse pinstripe']",2134619.jpeg
+502,['lavender'],['harlequin'],1611580.jpeg
+503,['dark'],"['harlequin', 'tailless', 'tipped crests', 'tri-color']",1600664.jpeg
+504,['dark'],['pinstripe'],1188527.jpeg
+505,['yellow'],['dalmatian'],1971198.jpeg
+506,['lavender'],"['pinstripe', 'quad-stripe']",1222377.jpeg
+507,['yellow'],"['extreme harlequin', 'tri-color']",1412354.jpeg
+508,['cream'],['pinstripe'],1219616.jpeg
+509,['dark'],['harlequin'],1371929.jpeg
+510,['cream'],"['dalmatian', 'quad-stripe', 'portholes']",1809332.jpeg
+511,['red'],"['dalmatian', 'ink spot', 'red spot']",1849938.jpeg
+512,['red'],['phantom'],2108894.jpeg
+513,"['cream', 'red', 'yellow']","['tiger', 'white wall', 'creamsicle']",1127768.jpeg
+514,['red'],['portholes'],2153970.jpeg
+515,['red'],['partial pinstripe'],1219660.jpeg
+516,['dark'],"['harlequin', 'pinstripe']",1702095.jpeg
+517,['lavender'],[],1467037.jpeg
+518,['red'],"['bold stripe tigers', 'dalmatian', 'super dalmatian', 'tiger']",2057419.jpeg
+519,['red'],['ink spot'],2112991.jpeg
+520,['red'],['harlequin'],1924489.jpeg
+521,['cream'],['pinstripe'],1224032.jpeg
+522,"['cream', 'lavender']","['extreme harlequin', 'harlequin']",1913470.jpeg
+523,['cream'],"['pinstripe', 'quad-stripe']",1222297.jpeg
+524,['yellow'],['brindle'],1078107.jpeg
+525,"['cream', 'dark']","['harlequin', 'pos solid back', 'tri-color']",2458452.jpeg
+526,['red'],"['lilly white', 'phantom']",2012445.jpeg
+527,['red'],['harlequin'],2506258.jpeg
+528,['red'],"['dalmatian', 'harlequin']",1763552.jpeg
+529,['yellow'],"['harlequin', 'tailless']",1108728.jpeg
+530,['dark'],['pinstripe'],1613193.jpeg
+531,['yellow'],['harlequin'],845100.jpeg
+532,['red'],"['extreme harlequin', 'drippy']",1163354.jpeg
+533,['red'],"['dalmatian', 'peppered', 'super dalmatian', 'red spot']",2131284.jpeg
+534,['dark'],['harlequin'],1618798.jpeg
+535,['lavender'],"['harlequin', 'white tip']",992460.jpeg
+536,['red'],"['harlequin', 'pinstripe']",1729798.jpeg
+537,['red'],"['extreme harlequin', 'harlequin', 'tri-color']",1400325.jpeg
+538,['red'],['tri-color'],2111766.jpeg
+539,['red'],"['crowned', 'bi-color']",2015543.jpeg
+540,['dark'],"['extreme harlequin', 'harlequin', 'pinstripe', 'tipped crests']",1819068.jpeg
+541,['cream'],['harlequin'],950977.jpeg
+542,['red'],['lilly white'],2342499.jpeg
+543,['lavender'],"['het phantom', 'pinstripe', 'quad-stripe', 'kneecaps']",2058773.jpeg
+544,['yellow'],"['dalmatian', 'extreme harlequin']",2321535.jpeg
+545,['red'],['portholes'],2206540.jpeg
+546,"['cream', 'red']","['extreme harlequin', 'pinstripe', 'bi-color']",2342564.jpeg
+547,['lavender'],['harlequin'],2381254.jpeg
+548,['red'],['lilly white'],2319550.jpeg
+549,"['cream', 'dark']",['pos dalmatian'],2362706.jpeg
+550,['yellow'],['super dalmatian'],1401586.jpeg
+551,['dark'],"['portholes', 'fringing', 'blushing', 'tri-color']",1163526.jpeg
+552,['yellow'],['dalmatian'],2353199.jpeg
+553,['red'],"['dalmatian', 'red spot']",2275721.jpeg
+554,['yellow'],[],2216677.jpeg
+555,['red'],[],1944361.jpeg
+556,['yellow'],"['extreme harlequin', 'harlequin', 'portholes']",1636378.jpeg
+557,['red'],"['lilly white', 'phantom']",2336570.jpeg
+558,['dark'],"['brindle', 'tiger', 'portholes']",2278321.jpeg
+559,['dark'],[],2253470.jpeg
+560,['lavender'],"['harlequin', 'partial pinstripe', 'kneecaps']",2059659.jpeg
+561,"['cream', 'red']","['extreme harlequin', 'harlequin', 'drippy']",1185642.jpeg
+562,['yellow'],"['dalmatian', 'phantom']",2326560.jpeg
+563,['yellow'],"['tiger', 'phantom']",1459011.jpeg
+564,['dark'],"['harlequin', 'pinstripe']",2340028.jpeg
+565,"['dark', 'red']","['extreme harlequin', 'harlequin']",2180230.jpeg
+566,"['cream', 'dark']","['dalmatian', 'red spot']",2345417.jpeg
+567,['red'],['dalmatian'],2308382.jpeg
+568,"['dark', 'red']",['harlequin'],2180379.jpeg
+569,['lavender'],"['harlequin', 'partial pinstripe', 'kneecaps', 'tri-color']",2053931.jpeg
+570,['red'],"['dalmatian', 'pinstripe', 'portholes', 'empty back', 'phantom']",2369961.jpeg
+571,['yellow'],"['reverse pinstripe', 'phantom']",2343781.jpeg
+572,"['cream', 'dark', 'red']","['dalmatian', 'harlequin']",2321423.jpeg
+573,['cream'],"['dalmatian', 'quad-stripe', 'portholes']",1809334.jpeg
+574,['dark'],"['dalmatian', 'tiger']",1957176.jpeg
+575,"['lavender', 'red']","['harlequin', 'partial pinstripe']",2379653.jpeg
+576,['lavender'],['tri-color'],2285432.jpeg
+577,['red'],"['quad-stripe', 'drippy']",1587511.jpeg
+578,['red'],"['dalmatian', 'red spot', 'cluster spots']",2206527.jpeg
+579,['yellow'],['tri-color'],2264924.jpeg
+580,['yellow'],"['brindle', 'phantom']",2475511.jpeg
+581,['red'],"['portholes', 'phantom', 'patternless']",2339947.jpeg
+582,['red'],"['partial pinstripe', 'lilly white', 'phantom']",2317217.jpeg
+583,['red'],['harlequin'],2336575.jpeg
+584,['yellow'],[],2281076.jpeg
+585,['red'],"['extreme harlequin', 'pinstripe']",2338481.jpeg
+586,['red'],"['dalmatian', 'super dalmatian', 'ink spot', 'red spot']",2331632.jpeg
+587,['yellow'],"['dalmatian', 'empty back', 'phantom']",2356274.jpeg
+588,"['cream', 'red']",[],2331304.jpeg
+589,['red'],['harlequin'],2185446.jpeg
+590,['dark'],['pinstripe'],2370934.jpeg
+591,"['cream', 'lavender']","['pos extreme harlequin', 'harlequin', 'drippy']",2203202.jpeg
+592,['red'],"['pinstripe', 'tri-color']",2361835.jpeg
+593,"['cream', 'red']","['harlequin', 'tailless', 'blushing']",2381000.jpeg
+594,['red'],['dalmatian'],2362727.jpeg
+595,['red'],[],2438241.jpeg
+596,['red'],['tri-color'],2176094.jpeg
+597,['dark'],['pinstripe'],2216369.jpeg
+598,['cream'],['dalmatian'],2332702.jpeg
+599,['lavender'],['harlequin'],2326586.jpeg
+600,['cream'],[],2218640.jpeg
+601,['red'],['flame'],2457915.jpeg
+602,['red'],"['dalmatian', 'harlequin']",2234786.jpeg
+603,['dark'],['harlequin'],2185398.jpeg
+604,['yellow'],['tri-color'],2361797.jpeg
+605,['dark'],['harlequin'],2074753.jpeg
+606,['red'],"['extreme harlequin', 'pinstripe']",2507828.jpeg
+607,['lavender'],['harlequin'],2494941.jpeg
+608,['red'],['portholes'],2502027.jpeg
+609,"['cream', 'dark']",[],2185438.jpeg
+610,['red'],['tri-color'],2332841.jpeg
+611,['dark'],['extreme harlequin'],2271111.jpeg
+612,['red'],['phantom'],2490381.jpeg
+613,['cream'],['brindle'],2291133.jpeg
+614,['yellow'],['quad-stripe'],2451150.jpeg
+615,"['cream', 'red']",['pinstripe'],2488766.jpeg
+616,['red'],['tiger'],2312599.jpeg
+617,['dark'],"['harlequin', 'pinstripe']",2431228.jpeg
+618,['red'],[],2421620.jpeg
+619,['lavender'],['pinstripe'],2391633.jpeg
+620,['red'],"['tailless', 'portholes', 'soft scale', 'phantom']",2402068.jpeg
+621,['dark'],"['flame', 'het phantom']",2363380.jpeg
+622,['red'],['harlequin'],2338059.jpeg
+623,"['dark', 'lavender']",['harlequin'],2206590.jpeg
+624,['dark'],['harlequin'],2442054.jpeg
+625,['dark'],[],2218349.jpeg
+626,['lavender'],['harlequin'],2494655.jpeg
+627,['red'],['pinstripe'],2334785.jpeg
+628,"['cream', 'red']","['harlequin', 'pin-dashed', 'tailless']",2380945.jpeg
+629,['lavender'],"['dalmatian', 'pinstripe']",2321576.jpeg
+630,['dark'],['pinstripe'],2340040.jpeg
+631,"['lavender', 'yellow']","['pinstripe', 'portholes']",2345861.jpeg
+632,['red'],"['dalmatian', 'phantom']",2406768.jpeg
+633,"['dark', 'red']",['harlequin'],2180214.jpeg
+634,['dark'],['pinstripe'],2513002.jpeg
+635,['red'],"['flame', 'portholes', 'fringing', 'kneecaps', 'blushing', 'bi-color']",2549344.jpeg
+636,['red'],[],2326679.jpeg
+637,['red'],"['pinstripe', 'quad-stripe', 'tiger']",2258787.jpeg
+638,['dark'],"['extreme harlequin', 'partial pinstripe', 'kneecaps', 'tri-color']",2413541.jpeg
+639,['red'],['patternless'],2320433.jpeg
+640,['dark'],"['extreme harlequin', 'tri-color']",2474051.jpeg
+641,['red'],"['flame', 'harlequin', 'portholes']",2235250.jpeg
+642,['yellow'],"['dalmatian', 'phantom']",2326575.jpeg
+643,"['cream', 'dark']",['pinstripe'],1195983.jpeg
+644,['dark'],['dalmatian'],2492682.jpeg
+645,['yellow'],"['super dalmatian', 'ink spot']",2552371.jpeg
+646,['red'],"['lilly white', 'phantom']",2351584.jpeg
+647,['yellow'],['dalmatian'],1810622.jpeg
+648,['dark'],['harlequin'],2388536.jpeg
+649,['dark'],['harlequin'],2388505.jpeg
+650,['dark'],"['extreme harlequin', 'drippy']",1809323.jpeg
+651,['dark'],"['harlequin', 'pinstripe']",2469113.jpeg
+652,['dark'],"['harlequin', 'pinstripe']",2340014.jpeg
+653,['red'],['pinstripe'],2542317.jpeg
+654,['red'],"['lilly white', 'phantom']",2479769.jpeg
+655,['dark'],"['extreme harlequin', 'harlequin', 'lilly white', 'phantom']",2437105.jpeg
+656,"['cream', 'red']","['extreme harlequin', 'het phantom', 'snowflake', 'drippy']",1566663.jpeg
+657,['dark'],"['extreme harlequin', 'tri-color']",2474189.jpeg
+658,"['cream', 'lavender']","['dalmatian', 'harlequin', 'pinstripe', 'tailless']",2239949.jpeg
+659,['red'],[],2399531.jpeg
+660,['red'],['lilly white'],2308342.jpeg
+661,['red'],"['dalmatian', 'phantom']",2526487.jpeg
+662,['cream'],"['harlequin', 'pin-dashed', 'portholes']",2055726.jpeg
+663,['dark'],['extreme harlequin'],2539777.jpeg
+664,['dark'],['partial pinstripe'],2184562.jpeg
+665,['yellow'],"['harlequin', 'pin-dashed']",2176250.jpeg
+666,['red'],['super dalmatian'],2285476.jpeg
+667,['red'],['phantom'],2472790.jpeg
+668,['dark'],"['extreme harlequin', 'harlequin', 'pinstripe']",2012893.jpeg
+669,['red'],['flame'],2406852.jpeg
+670,['yellow'],"['dalmatian', 'tiger']",2553559.jpeg
+671,"['cream', 'dark']",[],2308394.jpeg
+672,['dark'],['pinstripe'],2477099.jpeg
+673,"['cream', 'red']","['extreme harlequin', 'harlequin', 'super dalmatian', 'red spot']",2407068.jpeg
+674,['yellow'],"['brindle', 'partial pinstripe', 'pinstripe', 'quad-stripe', 'tiger', 'kneecaps', 'tangerine', 'phantom']",2058783.jpeg
+675,['red'],[],1384729.jpeg
+676,['dark'],[],2468021.jpeg
+677,['dark'],"['brindle', 'harlequin']",2337015.jpeg
+678,['yellow'],[],2232016.jpeg
+679,['yellow'],['phantom'],2423557.jpeg
+680,['red'],"['dalmatian', 'harlequin']",2234906.jpeg
+681,['lavender'],"['extreme harlequin', 'harlequin', 'snowflake']",2347324.jpeg
+682,['lavender'],[],2499551.jpeg
+683,['red'],['patternless'],1630605.jpeg
+684,['dark'],['dalmatian'],2492254.jpeg
+685,['dark'],['harlequin'],1401651.jpeg
+686,['lavender'],['tri-color'],2541830.jpeg
+687,['yellow'],['brindle'],2519342.jpeg
+688,['dark'],"['extreme harlequin', 'harlequin']",2462970.jpeg
+689,['dark'],['pinstripe'],2210539.jpeg
+690,['red'],[],2408752.jpeg
+691,"['cream', 'dark', 'lavender']","['dalmatian', 'extreme harlequin', 'solid back']",2288824.jpeg
+692,['lavender'],"['harlequin', 'pinstripe']",2525228.jpeg
+693,['red'],[],2467933.jpeg
+694,['yellow'],"['super dalmatian', 'tiger', 'ink spot', 'phantom']",1950501.jpeg
+695,['lavender'],"['harlequin', 'drippy']",2332883.jpeg
+696,['red'],['dalmatian'],2479744.jpeg
+697,['red'],['harlequin'],2354648.jpeg
+698,['dark'],"['harlequin', 'tri-color']",2354544.jpeg
+699,['red'],['phantom'],2519350.jpeg
+700,"['dark', 'red']","['lilly white', 'phantom']",2379554.jpeg
+701,"['olive', 'red']","['super dalmatian', 'red spot', 'phantom']",2412436.jpeg
+702,['dark'],"['extreme harlequin', 'white out']",2387032.jpeg
+703,['yellow'],"['pos brindle', 'blushing']",2308562.jpeg
+704,['yellow'],"['super dalmatian', 'ink spot']",2403838.jpeg
+705,"['cream', 'dark']",['harlequin'],1759165.jpeg
+706,['red'],"['dalmatian', 'phantom']",2553419.jpeg
+707,['red'],"['extreme harlequin', 'pinstripe', 'tri-color', 'drippy']",2455252.jpeg
+708,['red'],"['extreme harlequin', 'tri-color']",2246613.jpeg
+709,"['cream', 'red']",[],2291141.jpeg
+710,['red'],"['dalmatian', 'ink spot', 'red spot']",2493910.jpeg
+711,['cream'],"['dalmatian', 'harlequin', 'pin-dashed', 'tailless', 'tiger', 'red spot']",2381127.jpeg
+712,['yellow'],"['brindle', 'dalmatian']",2409000.jpeg
+713,['cream'],"['extreme harlequin', 'harlequin']",2467599.jpeg
+714,['red'],['tiger'],2312646.jpeg
+715,['cream'],"['dalmatian', 'quad-stripe', 'portholes', 'drippy']",1809330.jpeg
+716,['red'],"['dalmatian', 'red spot']",2499268.jpeg
+717,['dark'],"['partial pinstripe', 'pin-dashed']",2275739.jpeg
+718,['yellow'],"['dalmatian', 'super dalmatian']",2545473.jpeg
+719,['dark'],"['pinstripe', 'quad-stripe']",2554580.jpeg
+720,['yellow'],['tiger'],2202629.jpeg
+721,['red'],[],2462993.jpeg
+722,['dark'],"['harlequin', 'tri-color']",2292275.jpeg
+723,['yellow'],['dalmatian'],2516115.jpeg
+724,['red'],"['pinstripe', 'phantom', 'patternless']",2338489.jpeg
+725,['dark'],"['harlequin', 'phantom']",2408234.jpeg
+726,['red'],"['partial pinstripe', 'het phantom', 'quad-stripe', 'drippy']",2485412.jpeg
+727,['dark'],"['harlequin', 'het phantom']",2525112.jpeg
+728,['dark'],"['harlequin', 'portholes', 'drippy']",2204662.jpeg
+729,"['dark', 'lavender']","['harlequin', 'snowflake', 'drippy']",2450803.jpeg
+730,['cream'],"['dalmatian', 'quad-stripe', 'portholes', 'drippy']",1809337.jpeg
+731,['yellow'],"['quad-stripe', 'drippy']",2551384.jpeg
+732,"['dark', 'red']","['pin-dashed', 'portholes', 'bi-color', 'phantom']",2381076.jpeg
+733,['lavender'],[],2326450.jpeg
+734,"['cream', 'dark']",['harlequin'],1759171.jpeg
+735,['yellow'],"['brindle', 'dalmatian']",2448306.jpeg
+736,['red'],['flame'],2184902.jpeg
+737,['dark'],"['harlequin', 'drippy']",2388467.jpeg
+738,"['cream', 'dark']",['pinstripe'],2404514.jpeg
+739,['red'],"['harlequin', 'het phantom', 'pin-dashed', 'portholes']",2097688.jpeg
+740,['red'],['harlequin'],1213990.jpeg
+741,"['dark', 'red']",['harlequin'],2180242.jpeg
+742,['dark'],['tri-color'],2446280.jpeg
+743,"['dark', 'olive']","['extreme harlequin', 'harlequin', 'crowned']",2250073.jpeg
+744,['lavender'],['dalmatian'],2475797.jpeg
+745,"['dark', 'red']",[],2437204.jpeg
+746,['dark'],['harlequin'],2510360.jpeg
+747,['red'],[],2472745.jpeg
+748,['lavender'],"['dalmatian', 'flame', 'harlequin']",651877.jpeg
+749,['red'],"['flame', 'het phantom']",2363413.jpeg
+750,"['cream', 'yellow']","['brindle', 'extreme harlequin', 'harlequin']",2193295.jpeg
+751,['red'],"['tri-color', 'lilly white']",2539689.jpeg
+752,['dark'],"['pinstripe', 'tri-color']",2450215.jpeg
+753,['lavender'],['pinstripe'],2353541.jpeg
+754,['yellow'],"['dalmatian', 'quad-stripe', 'portholes']",2453128.jpeg
+755,['dark'],['tri-color'],2376962.jpeg
+756,"['red', 'yellow']",['dalmatian'],2331741.jpeg
+757,['dark'],['pinstripe'],2548665.jpeg
+758,['dark'],[],2548566.jpeg
+759,['yellow'],['pinstripe'],2084181.jpeg
+760,['dark'],"['extreme harlequin', 'partial pinstripe', 'pos portholes', 'pos lavender', 'tri-color']",2288967.jpeg
+761,['dark'],[],2316183.jpeg
+762,['dark'],['flame'],2335599.jpeg
+763,['yellow'],"['brindle', 'portholes']",2337564.jpeg
+764,['yellow'],[],2395616.jpeg
+765,['red'],[],2542268.jpeg
+766,['dark'],['quad-stripe'],2426355.jpeg
+767,['lavender'],"['dalmatian', 'harlequin', 'partial pinstripe', 'drippy']",2274750.jpeg
+768,['red'],['harlequin'],2417346.jpeg
+769,['yellow'],"['brindle', 'pinstripe']",2161603.jpeg
+770,['red'],"['harlequin', 'pin-dashed', 'pinstripe', 'blushing']",2098679.jpeg
+771,['red'],"['brindle', 'dalmatian', 'portholes']",2129405.jpeg
+772,['yellow'],['brindle'],2189069.jpeg
+773,['dark'],['tri-color'],2362724.jpeg
+774,['red'],['harlequin'],2536921.jpeg
+775,['lavender'],['quad-stripe'],2510475.jpeg
+776,['dark'],['pinstripe'],2559819.jpeg
+777,['dark'],"['pos extreme harlequin', 'harlequin']",2346869.jpeg
+778,['dark'],"['dalmatian', 'super dalmatian', 'oil spot', 'red spot']",2545150.jpeg
+779,['red'],[],2379543.jpeg
+780,['red'],"['lilly white', 'phantom']",2379483.jpeg
+781,['yellow'],['dalmatian'],2542278.jpeg
+782,['red'],"['harlequin', 'pinstripe']",2542288.jpeg
+783,"['cream', 'dark']","['partial pinstripe', 'pinstripe']",2551582.jpeg
+784,['yellow'],"['dalmatian', 'pinstripe', 'phantom']",1366725.jpeg
+785,['lavender'],[],2482358.jpeg
+786,['yellow'],"['partial pinstripe', 'portholes']",2382402.jpeg
+787,"['cream', 'lavender']","['dalmatian', 'pinstripe', 'quad-stripe', 'fringing', 'kneecaps']",2390680.jpeg
+788,['red'],[],2230135.jpeg
+789,"['dark', 'red', 'yellow']","['extreme harlequin', 'harlequin', 'tri-color']",2557246.jpeg
+790,['dark'],"['harlequin', 'pinstripe', 'quad-stripe']",2340052.jpeg
+791,['dark'],['partial pinstripe'],2548535.jpeg
+792,"['cream', 'dark']",[],2216609.jpeg
+793,['red'],[],2390555.jpeg
+794,['red'],['pinstripe'],2518253.jpeg
+795,['yellow'],"['brindle', 'dalmatian']",2448300.jpeg
+796,['dark'],"['white out', 'tri-color']",2423570.jpeg
+797,"['cream', 'dark']",['pinstripe'],2549121.jpeg
+798,['red'],['dalmatian'],1705217.jpeg
+799,['red'],['dalmatian'],1705217.jpeg
+800,"['dark', 'red']","['tri-color', 'white tip']",2364151.jpeg
+801,['red'],['harlequin'],2522838.jpeg
+802,['dark'],['quad-stripe'],2381143.jpeg
+803,"['cream', 'dark']",[],2396932.jpeg
+804,['dark'],[],2397124.jpeg
+805,['dark'],"['extreme harlequin', 'drippy']",1809333.jpeg
+806,['cream'],"['tipped crests', 'pos lavender', 'tri-color']",1049107.jpeg
+807,['dark'],[],2547647.jpeg
+808,['yellow'],"['empty back', 'phantom']",2554362.jpeg
+809,['yellow'],"['partial pinstripe', 'reverse pinstripe', 'portholes', 'kneecaps', 'phantom']",2158236.jpeg
+810,['dark'],['tiger'],2548511.jpeg
+811,['yellow'],['tiger'],2553822.jpeg
+812,['dark'],"['harlequin', 'partial pinstripe']",2549589.jpeg
+813,"['cream', 'dark']",[],2396893.jpeg
+814,"['cream', 'dark']",['tri-color'],2185459.jpeg
+815,['dark'],['harlequin'],2522897.jpeg
+816,['red'],"['dalmatian', 'harlequin', 'pinstripe']",1646117.jpeg
+817,['lavender'],"['partial pinstripe', 'fringing', 'furred']",2558467.jpeg
+818,['red'],['tri-color'],2443683.jpeg
+819,['red'],"['harlequin', 'tri-color']",2382365.jpeg
+820,['yellow'],[],2457596.jpeg
+821,['red'],"['harlequin', 'tiger', 'patternless']",2302353.jpeg
+822,['dark'],"['harlequin', 'quad-stripe']",2437547.jpeg
+823,['yellow'],"['brindle', 'dalmatian']",2363390.jpeg
+824,['dark'],['harlequin'],2438268.jpeg
+825,"['cream', 'dark']",[],2396883.jpeg
+826,['red'],[],2390598.jpeg
+827,"['dark', 'lavender']",['extreme harlequin'],2548470.jpeg
+828,['red'],['brindle'],2387418.jpeg
+829,['cream'],['quad-stripe'],2275018.jpeg
+830,['red'],['harlequin'],2403128.jpeg
+831,['yellow'],['pinstripe'],2344298.jpeg
+832,['red'],['harlequin'],2446306.jpeg
+833,['red'],['tiger'],2477102.jpeg
+834,['red'],[],2472712.jpeg
+835,['yellow'],['pinstripe'],2388481.jpeg
+836,['red'],"['extreme harlequin', 'snowflake', 'soft scale']",2358056.jpeg
+837,['red'],"['flame', 'harlequin', 'partial pinstripe']",2313319.jpeg
+838,['cream'],['creamsicle'],2445312.jpeg
+839,['red'],"['pinstripe', 'phantom']",2395006.jpeg
+840,['yellow'],"['brindle', 'tiger']",2345870.jpeg
+841,['red'],"['white wall', 'tri-color', 'drippy']",2539970.jpeg
+842,['dark'],['tri-color'],2376959.jpeg
+843,['red'],"['tri-color', 'lilly white']",2443670.jpeg
+844,['cream'],['brindle'],2291139.jpeg
+845,['red'],"['harlequin', 'white wall']",2536505.jpeg
+846,"['cream', 'lavender', 'yellow']",['extreme harlequin'],2140243.jpeg
+847,['cream'],[],2539710.jpeg
+848,['red'],['dalmatian'],2457276.jpeg
+849,['cream'],['extreme harlequin'],2501470.jpeg
+850,['dark'],"['harlequin', 'pinstripe']",2549573.jpeg
+851,['yellow'],"['brindle', 'portholes']",2176494.jpeg
+852,['dark'],[],2548453.jpeg
+853,"['cream', 'red']",['flame'],2390576.jpeg
+854,"['dark', 'red']","['dalmatian', 'red spot', 'portholes', 'fringing']",2445351.jpeg
+855,"['cream', 'dark']",['harlequin'],2458439.jpeg
+856,['red'],['harlequin'],2185237.jpeg
+857,['yellow'],"['extreme harlequin', 'portholes']",2557519.jpeg
+858,['red'],"['dalmatian', 'red spot', 'patternless']",2402179.jpeg
+859,"['red', 'yellow']","['brindle', 'tiger']",2493865.jpeg
+860,"['cream', 'dark']","['harlequin', 'quad-stripe']",2340006.jpeg
+861,['lavender'],"['harlequin', 'drippy']",2185366.jpeg
+862,['yellow'],"['brindle', 'harlequin']",2345879.jpeg
+863,['lavender'],['extreme harlequin'],2385365.jpeg
+864,['red'],['harlequin'],2387425.jpeg
+865,['dark'],"['chevron', 'dalmatian']",2307161.jpeg
+866,['dark'],"['harlequin', 'pinstripe']",2408952.jpeg
+867,['yellow'],['harlequin'],2467019.jpeg
+868,['yellow'],"['dalmatian', 'empty back', 'phantom']",2539586.jpeg
+869,['yellow'],"['brindle', 'dalmatian']",2409016.jpeg
+870,['red'],['harlequin'],2423550.jpeg
+871,['lavender'],['pinstripe'],2326521.jpeg
+872,['yellow'],[],2326563.jpeg
+873,['dark'],"['harlequin', 'pin-dashed', 'portholes']",2423544.jpeg
+874,"['cream', 'red', 'yellow']",['extreme harlequin'],2521555.jpeg
+875,['dark'],"['extreme harlequin', 'tri-color']",2437260.jpeg
+876,['red'],"['dalmatian', 'harlequin', 'pinstripe']",968946.jpeg
+877,"['dark', 'yellow']","['harlequin', 'portholes']",2553506.jpeg
+878,['red'],['dalmatian'],2335136.jpeg
+879,['yellow'],[],2345896.jpeg
+880,['yellow'],['harlequin'],2392899.jpeg
+881,['red'],"['harlequin', 'tri-color']",2387000.jpeg
+882,['red'],['partial pinstripe'],2408827.jpeg
+883,['dark'],['harlequin'],2437069.jpeg
+884,['red'],['tri-color'],2559967.jpeg
+885,['red'],[],2518349.jpeg
+886,['red'],"['flame', 'portholes']",2234916.jpeg
+887,['red'],"['dalmatian', 'portholes', 'phantom']",2553138.jpeg
+888,['red'],"['pinstripe', 'pos quad-stripe']",1920662.jpeg
+889,['yellow'],"['brindle', 'flame']",2161594.jpeg
+890,['dark'],"['harlequin', 'tri-color']",2354555.jpeg
+891,['red'],['harlequin'],2506251.jpeg
+892,['red'],"['dalmatian', 'pos super dalmatian', 'red spot']",2510782.jpeg
+893,['red'],"['partial pinstripe', 'red spot', 'portholes', 'phantom']",2394992.jpeg
+894,['cream'],['brindle'],2291125.jpeg
+895,['yellow'],"['pinstripe', 'reverse pinstripe']",2134635.jpeg
+896,"['cream', 'dark']",[],2396917.jpeg
+897,['red'],[],2216631.jpeg
+898,['red'],['portholes'],2502042.jpeg
+899,['red'],"['extreme harlequin', 'harlequin']",2555420.jpeg
+900,['lavender'],"['dalmatian', 'harlequin', 'tiger', 'tri-color']",2475786.jpeg
+901,['dark'],['harlequin'],2526616.jpeg
+902,['lavender'],"['partial pinstripe', 'peppered', 'portholes', 'fringing', 'kneecaps', 'tri-color']",2545518.jpeg
+903,"['red', 'yellow']",['dalmatian'],2331730.jpeg
+904,['red'],"['dalmatian', 'super dalmatian', 'red spot']",2366150.jpeg
+905,['cream'],['extreme harlequin'],2354719.jpeg
+906,['red'],"['pinstripe', 'phantom']",2510581.jpeg
+907,['dark'],['pinstripe'],2224289.jpeg
+908,['yellow'],"['dalmatian', 'phantom']",2512126.jpeg
+909,['olive'],"['dalmatian', 'super dalmatian', 'cluster spots']",2691048.jpeg
+910,['yellow'],"['reverse pinstripe', 'phantom']",2260453.jpeg
+911,"['cream', 'dark']","['brindle', 'harlequin', 'tri-color']",2000359.jpeg
+912,['yellow'],"['quad-stripe', 'white wall', 'drippy']",2249064.jpeg
+913,['yellow'],['partial pinstripe'],2327994.jpeg
+914,['red'],[],2690905.jpeg
+915,['dark'],['harlequin'],2395976.jpeg
+916,['dark'],"['harlequin', 'drippy']",2395954.jpeg
+917,['red'],"['extreme harlequin', 'harlequin']",2690897.jpeg
+918,['red'],"['extreme harlequin', 'harlequin']",2690891.jpeg
+919,['lavender'],['extreme harlequin'],2690886.jpeg
+920,['yellow'],"['pinstripe', 'quad-stripe']",2534471.jpeg
+921,['lavender'],['pinstripe'],2690882.jpeg
+922,['lavender'],['pinstripe'],2690875.jpeg
+923,['lavender'],['pinstripe'],2690872.jpeg
+924,['red'],['portholes'],2559329.jpeg
+925,['lavender'],[],2690812.jpeg
+926,['lavender'],['pinstripe'],2690803.jpeg
+927,['dark'],"['pinstripe', 'quad-stripe']",2327911.jpeg
+928,['red'],"['dalmatian', 'red spot', 'portholes']",2626721.jpeg
+929,['red'],"['lilly white', 'phantom']",2626708.jpeg
+930,"['dark', 'red']",['extreme harlequin'],1694231.jpeg
+931,['red'],"['dalmatian', 'super dalmatian', 'ink spot', 'red spot']",2131286.jpeg
+932,"['cream', 'red']",['harlequin'],2605181.jpeg
+933,['red'],['phantom'],2626568.jpeg
+934,['dark'],['fringing'],2626566.jpeg
+935,['red'],"['lilly white', 'phantom']",2626554.jpeg
+936,['dark'],"['extreme harlequin', 'pos extreme harlequin', 'portholes', 'drippy']",2131304.jpeg
+937,['lavender'],['extreme harlequin'],2690446.jpeg
+938,"['cream', 'dark']","['brindle', 'harlequin', 'tri-color']",2690419.jpeg
+939,['dark'],[],2626475.jpeg
+940,['dark'],"['bold stripe tigers', 'dalmatian', 'tiger', 'portholes']",2690369.jpeg
+941,['yellow'],"['pinstripe', 'tiger']",2574540.jpeg
+942,['red'],"['harlequin', 'pinstripe']",2640275.jpeg
+943,"['red', 'yellow']","['pin-dashed', 'tiger']",2574520.jpeg
+944,"['cream', 'dark']","['dalmatian', 'harlequin']",2690268.jpeg
+945,['red'],"['dalmatian', 'portholes', 'fringing', 'kneecaps']",2574501.jpeg
+946,['dark'],['harlequin'],2626167.jpeg
+947,['dark'],"['dalmatian', 'harlequin', 'pinstripe', 'quad-stripe']",2626157.jpeg
+948,['dark'],"['harlequin', 'partial pinstripe', 'pinstripe', 'quad-stripe']",2626145.jpeg
+949,['yellow'],"['pinstripe', 'portholes', 'phantom']",2690022.jpeg
+950,['red'],['pinstripe'],2689957.jpeg
+951,['red'],"['dalmatian', 'portholes', 'phantom']",1996414.jpeg
+952,['cream'],"['extreme harlequin', 'pinstripe', 'snowflake']",2689893.jpeg
+953,['dark'],"['bold stripe tigers', 'tiger', 'portholes']",2689891.jpeg
+954,"['cream', 'dark']","['harlequin', 'partial pinstripe']",2689858.jpeg
+955,['dark'],"['dalmatian', 'pin-dashed']",2689848.jpeg
+956,['red'],"['harlequin', 'pinstripe']",2410341.jpeg
+957,['cream'],"['harlequin', 'pinstripe']",2410304.jpeg
+958,['yellow'],['dalmatian'],2437671.jpeg
+959,['dark'],"['partial pinstripe', 'white wall', 'tri-color']",2574141.jpeg
+960,['cream'],"['dalmatian', 'harlequin', 'pinstripe']",2410252.jpeg
+961,['yellow'],['phantom'],2689701.jpeg
+962,"['dark', 'red']","['extreme harlequin', 'pinstripe', 'tri-color']",2689460.jpeg
+963,['lavender'],['pinstripe'],2689412.jpeg
+964,['dark'],['pinstripe'],2409992.jpeg
+965,"['red', 'yellow']",['het axanthic'],2409941.jpeg
+966,['yellow'],"['dalmatian', 'tiger']",2509926.jpeg
+967,['red'],['dalmatian'],2455604.jpeg
+968,['red'],"['pinstripe', 'tri-color']",2625492.jpeg
+969,['dark'],"['harlequin', 'partial pinstripe']",2532982.jpeg
+970,['red'],['pinstripe'],1754053.jpeg
+971,['red'],['phantom'],2688835.jpeg
+972,['red'],"['extreme harlequin', 'harlequin', 'creamsicle']",2437029.jpeg
+973,['yellow'],"['dalmatian', 'phantom']",2398748.jpeg
+974,['dark'],[],2573449.jpeg
+975,['dark'],[],2573438.jpeg
+976,['red'],"['dalmatian', 'ink spot']",2411840.jpeg
+977,['red'],['pinstripe'],2259745.jpeg
+978,"['cream', 'red']",[],2535480.jpeg
+979,['red'],[],2474928.jpeg
+980,['red'],['pinstripe'],2222564.jpeg
+981,['red'],['partial pinstripe'],2246660.jpeg
+982,['cream'],"['harlequin', 'pinstripe', 'snowflake']",2625249.jpeg
+983,['yellow'],"['dalmatian', 'pinstripe']",2625241.jpeg
+984,['red'],"['portholes', 'het axanthic', 'phantom']",2573411.jpeg
+985,['red'],['brindle'],2625236.jpeg
+986,['red'],"['soft scale', 'phantom']",2573403.jpeg
+987,['red'],[],2222431.jpeg
+988,"['cream', 'dark']","['harlequin', 'pinstripe']",2212543.jpeg
+989,"['cream', 'dark']","['harlequin', 'pinstripe']",2212370.jpeg
+990,"['cream', 'dark', 'lavender']","['pinstripe', 'drippy']",2431812.jpeg
+991,['dark'],['harlequin'],2625052.jpeg
+992,['red'],"['dalmatian', 'pinstripe']",1751738.jpeg
+993,['yellow'],"['pinstripe', 'phantom']",1751726.jpeg
+994,"['cream', 'dark']",['harlequin'],2366137.jpeg
+995,['red'],"['lilly white', '50% het axanthic']",1430183.jpeg
+996,['dark'],"['harlequin', 'kneecaps', 'tangerine']",2454896.jpeg
+997,['yellow'],"['dalmatian', 'tiger']",2454893.jpeg
+998,"['red', 'yellow']","['dalmatian', 'ink spot']",2454882.jpeg
+999,['yellow'],['dalmatian'],2454872.jpeg
+1000,['red'],['tri-color'],2688201.jpeg
+1001,['red'],"['extreme harlequin', 'pinstripe', 'quad-stripe']",2603003.jpeg
+1002,['dark'],"['dalmatian', 'harlequin', 'quad-stripe', 'tangerine']",2454833.jpeg
+1003,['red'],['extreme harlequin'],2554106.jpeg
+1004,['cream'],['flame'],2554084.jpeg
+1005,['dark'],"['pos dalmatian', 'extreme harlequin', 'tri-color']",2688125.jpeg
+1006,['red'],"['extreme harlequin', 'partial pinstripe', 'tri-color']",2688112.jpeg
+1007,['red'],"['extreme harlequin', 'tri-color']",2688106.jpeg
+1008,['red'],['extreme harlequin'],2688100.jpeg
+1009,"['cream', 'red']","['brindle', 'dalmatian', 'harlequin']",2688064.jpeg
+1010,['dark'],['harlequin'],2688063.jpeg
+1011,['dark'],"['harlequin', 'pinstripe', 'drippy']",2688017.jpeg
+1012,['red'],"['pinstripe', 'phantom']",2688008.jpeg
+1013,['red'],['harlequin'],2688000.jpeg
+1014,['yellow'],"['extreme harlequin', 'super dalmatian']",2687859.jpeg
+1015,['red'],"['portholes', 'bi-color']",2687804.jpeg
+1016,['dark'],"['white wall', 'tri-color']",2624309.jpeg
+1017,['yellow'],['phantom'],2687631.jpeg
+1018,['dark'],"['harlequin', 'pinstripe', 'quad-stripe']",2049339.jpeg
+1019,['dark'],"['harlequin', 'pinstripe', 'quad-stripe']",1989383.jpeg
+1020,['dark'],"['harlequin', 'pinstripe', 'portholes']",1989380.jpeg
+1021,['dark'],"['harlequin', 'pinstripe']",2265349.jpeg
+1022,['dark'],"['harlequin', 'pinstripe', 'quad-stripe']",2265356.jpeg
+1023,['cream'],"['harlequin', 'pinstripe']",1989388.jpeg
+1024,['dark'],"['harlequin', 'pinstripe']",2049351.jpeg
+1025,['dark'],"['harlequin', 'pinstripe', 'portholes']",2260202.jpeg
+1026,['dark'],"['harlequin', 'pinstripe', 'quad-stripe']",2049317.jpeg
+1027,['dark'],"['harlequin', 'pinstripe', 'quad-stripe']",2262030.jpeg
+1028,['dark'],"['harlequin', 'pinstripe', 'portholes']",2260169.jpeg
+1029,['dark'],"['harlequin', 'pinstripe']",1985014.jpeg
+1030,['dark'],"['harlequin', 'pinstripe', 'portholes']",1544287.jpeg
+1031,['dark'],"['harlequin', 'pinstripe', 'portholes']",2049323.jpeg
+1032,['dark'],"['flame', 'harlequin', 'portholes']",1661722.jpeg
+1033,['dark'],"['harlequin', 'pinstripe']",2049346.jpeg
+1034,['dark'],"['dalmatian', 'harlequin', 'pinstripe']",1984983.jpeg
+1035,['dark'],"['harlequin', 'pinstripe']",2262032.jpeg
+1036,['dark'],"['harlequin', 'partial pinstripe']",2262039.jpeg
+1037,['dark'],"['harlequin', 'pinstripe']",2049331.jpeg
+1038,['dark'],"['harlequin', 'pinstripe', 'portholes']",2265351.jpeg
+1039,['dark'],"['harlequin', 'pinstripe']",2049342.jpeg
+1040,"['dark', 'red']",['tri-color'],2624237.jpeg
+1041,"['dark', 'red']","['extreme harlequin', 'harlequin', 'tri-color']",2624236.jpeg
+1042,['dark'],"['phantom', 'patternless']",1754572.jpeg
+1043,['red'],"['super dalmatian', 'red spot']",2454255.jpeg
+1044,['red'],[],2624121.jpeg
+1045,['red'],"['super dalmatian', 'ink spot', 'red spot']",2454220.jpeg
+1046,['red'],[],2624099.jpeg
+1047,['dark'],['harlequin'],2316595.jpeg
+1048,['red'],[],2315405.jpeg
+1049,['yellow'],"['extreme harlequin', 'drippy']",2025459.jpeg
+1050,['olive'],['patternless'],2571987.jpeg
+1051,['red'],['dalmatian'],2571979.jpeg
+1052,['dark'],"['extreme harlequin', 'harlequin', 'pos harlequin', 'kneecaps']",2454029.jpeg
+1053,['red'],['dalmatian'],2571923.jpeg
+1054,['red'],"['flame', 'tiger']",2454005.jpeg
+1055,['red'],"['snowflake', 'portholes', 'fringing', 'kneecaps', 'phantom']",2365471.jpeg
+1056,['yellow'],['extreme harlequin'],2365467.jpeg
+1057,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps']",2365463.jpeg
+1058,['yellow'],['extreme harlequin'],2365460.jpeg
+1059,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps']",2365456.jpeg
+1060,['yellow'],['extreme harlequin'],2365454.jpeg
+1061,['dark'],['pinstripe'],2630234.jpeg
+1062,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps']",2365426.jpeg
+1063,['yellow'],"['extreme harlequin', 'fringing', 'tri-color']",2365405.jpeg
+1064,['dark'],['harlequin'],2623588.jpeg
+1065,['yellow'],[],2548865.jpeg
+1066,['red'],['extreme harlequin'],2530591.jpeg
+1067,['yellow'],"['harlequin', 'tiger']",2629935.jpeg
+1068,['red'],['harlequin'],2623433.jpeg
+1069,['red'],['harlequin'],2112491.jpeg
+1070,['yellow'],"['dalmatian', 'pinstripe', 'phantom']",2629825.jpeg
+1071,['yellow'],"['bold stripe tigers', 'tiger']",2636680.jpeg
+1072,['red'],['super dalmatian'],2629811.jpeg
+1073,['red'],"['dalmatian', 'red spot', 'cluster spots']",2629789.jpeg
+1074,['red'],['phantom'],2587730.jpeg
+1075,['lavender'],['harlequin'],2587765.jpeg
+1076,"['red', 'yellow']","['dalmatian', 'ink spot']",2686386.jpeg
+1077,['dark'],"['pinstripe', 'tangerine']",2686366.jpeg
+1078,['yellow'],"['pinstripe', 'fringing']",2686343.jpeg
+1079,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2365038.jpeg
+1080,['yellow'],"['extreme harlequin', 'reverse pinstripe']",2365029.jpeg
+1081,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2365009.jpeg
+1082,['red'],"['portholes', 'phantom']",2308838.jpeg
+1083,['red'],"['dalmatian', 'flame']",2507373.jpeg
+1084,"['cream', 'dark']",['harlequin'],2530145.jpeg
+1085,['dark'],"['extreme harlequin', 'portholes']",2375215.jpeg
+1086,['lavender'],['white out'],2459090.jpeg
+1087,"['cream', 'dark']","['harlequin', 'tangerine', 'tri-color']",2458923.jpeg
+1088,['red'],"['dalmatian', 'super dalmatian', 'red spot', 'portholes']",2459332.jpeg
+1089,['red'],"['harlequin', 'pinstripe']",1715600.jpeg
+1090,['red'],"['harlequin', 'partial pinstripe']",1715603.jpeg
+1091,['yellow'],"['harlequin', 'pinstripe']",1715633.jpeg
+1092,['yellow'],['harlequin'],1715675.jpeg
+1093,['red'],"['harlequin', 'partial pinstripe']",1715684.jpeg
+1094,['red'],"['harlequin', 'partial pinstripe']",1715689.jpeg
+1095,['yellow'],"['pinstripe', 'tiger', 'phantom']",1391567.jpeg
+1096,['yellow'],['harlequin'],2364859.jpeg
+1097,['red'],['patternless'],1566130.jpeg
+1098,['red'],['lilly white'],2545129.jpeg
+1099,['dark'],['snowflake'],2585745.jpeg
+1100,['red'],"['pinstripe', 'fringing', 'kneecaps']",1937566.jpeg
+1101,['cream'],"['crowned', 'white wall', 'tri-color']",2251401.jpeg
+1102,"['red', 'yellow']",['tri-color'],2251484.jpeg
+1103,['dark'],"['portholes', 'buckskin', 'phantom']",2370846.jpeg
+1104,['red'],['cappuccino'],2622160.jpeg
+1105,"['cream', 'dark']","['harlequin', 'pinstripe']",2529934.jpeg
+1106,['red'],"['dalmatian', 'patternless']",1566076.jpeg
+1107,['red'],['bi-color'],1566060.jpeg
+1108,['red'],['flame'],2622758.jpeg
+1109,"['lavender', 'red']","['extreme harlequin', 'harlequin', 'tangerine', 'tri-color']",2336767.jpeg
+1110,['yellow'],[],2555127.jpeg
+1111,['yellow'],"['harlequin', 'ink spot']",2629230.jpeg
+1112,['yellow'],"['dalmatian', 'pinstripe']",2629225.jpeg
+1113,"['red', 'yellow']","['harlequin', 'kneecaps']",2629220.jpeg
+1114,['dark'],['harlequin'],2629216.jpeg
+1115,['dark'],"['dalmatian', 'harlequin', 'pinstripe', 'portholes', 'kneecaps']",2629214.jpeg
+1116,['dark'],['harlequin'],2629201.jpeg
+1117,['red'],"['dalmatian', 'quad-stripe', 'kneecaps']",2629198.jpeg
+1118,"['cream', 'dark']",['harlequin'],2629193.jpeg
+1119,['red'],"['pinstripe', 'kneecaps', 'bi-color', 'phantom']",2685366.jpeg
+1120,['yellow'],"['dalmatian', 'super dalmatian', 'ink spot', 'red spot']",2685360.jpeg
+1121,['red'],['extreme harlequin'],2364502.jpeg
+1122,['dark'],['pinstripe'],2600703.jpeg
+1123,['red'],['phantom'],2685314.jpeg
+1124,"['dark', 'red']","['super dalmatian', 'portholes']",2138907.jpeg
+1125,['red'],['tri-color'],1913219.jpeg
+1126,"['cream', 'yellow']","['harlequin', 'pinstripe']",2554998.jpeg
+1127,"['cream', 'red']","['harlequin', 'pinstripe', 'blushing']",2622486.jpeg
+1128,"['dark', 'red']","['portholes', 'phantom']",2622471.jpeg
+1129,"['dark', 'red']",['portholes'],2622465.jpeg
+1130,['lavender'],"['extreme harlequin', 'flame', 'tri-color']",2622458.jpeg
+1131,['lavender'],"['dalmatian', 'harlequin']",2685236.jpeg
+1132,['lavender'],"['harlequin', 'tiger']",2685233.jpeg
+1133,['red'],"['white out', 'soft scale', 'phantom']",2584906.jpeg
+1134,['lavender'],"['harlequin', 'drippy']",2404773.jpeg
+1135,"['cream', 'dark']","['pinstripe', 'drippy']",2619259.jpeg
+1136,['cream'],"['extreme harlequin', 'harlequin', 'snowflake', 'tri-color', 'drippy']",2404437.jpeg
+1137,['cream'],"['extreme harlequin', 'harlequin', 'pinstripe', 'snowflake', 'portholes', 'drippy']",2244287.jpeg
+1138,['red'],"['dalmatian', 'super dalmatian', 'ink spot', 'red spot', 'portholes']",2584863.jpeg
+1139,['red'],"['dalmatian', 'super dalmatian', 'red spot', 'portholes']",2584852.jpeg
+1140,['red'],"['dalmatian', 'super dalmatian', 'ink spot', 'red spot', 'portholes']",2584844.jpeg
+1141,['red'],[],2584816.jpeg
+1142,['red'],['pinstripe'],2685152.jpeg
+1143,['dark'],"['extreme harlequin', 'pinstripe', 'tri-color', 'drippy']",2685084.jpeg
+1144,['yellow'],"['dalmatian', 'super dalmatian']",2364265.jpeg
+1145,['red'],"['harlequin', 'tri-color']",2549103.jpeg
+1146,['red'],"['lilly white', 'phantom']",2685001.jpeg
+1147,['dark'],"['pinstripe', 'quad-stripe']",2569318.jpeg
+1148,['dark'],"['fringing', 'kneecaps', 'white wall', 'tri-color', 'empty back', 'white tip']",2569398.jpeg
+1149,['dark'],"['pinstripe', 'quad-stripe', 'fringing', 'kneecaps', 'crowned', 'empty back', 'white tip']",2569378.jpeg
+1150,['yellow'],"['pinstripe', 'reverse pinstripe', 'fringing', 'kneecaps']",2569427.jpeg
+1151,['dark'],"['pinstripe', 'fringing', 'kneecaps', 'crowned', 'tri-color', 'drippy']",2569481.jpeg
+1152,['lavender'],['tri-color'],2684873.jpeg
+1153,['dark'],['tri-color'],1534286.jpeg
+1154,"['cream', 'dark']",['harlequin'],2248145.jpeg
+1155,['dark'],[],1534180.jpeg
+1156,['red'],"['harlequin', 'partial pinstripe', 'tri-color']",2406541.jpeg
+1157,['red'],"['partial pinstripe', 'portholes', 'phantom']",2569343.jpeg
+1158,['dark'],[],2475420.jpeg
+1159,['yellow'],"['dalmatian', 'red spot', 'portholes', 'phantom']",2642342.jpeg
+1160,['lavender'],[],2236487.jpeg
+1161,['red'],"['super dalmatian', 'red spot']",2684607.jpeg
+1162,['red'],['dalmatian'],2155282.jpeg
+1163,['yellow'],"['extreme harlequin', 'drippy']",2155268.jpeg
+1164,['lavender'],['snowflake'],2684557.jpeg
+1165,['red'],"['extreme harlequin', 'harlequin', 'pinstripe']",2684528.jpeg
+1166,"['red', 'yellow']",['drippy'],2684516.jpeg
+1167,['dark'],"['pinstripe', 'quad-stripe', 'tri-color']",2684490.jpeg
+1168,"['lavender', 'yellow']","['harlequin', 'ink spot', 'fringing', 'kneecaps']",2080849.jpeg
+1169,['red'],"['partial pinstripe', 'pinstripe', 'quad-stripe']",1912580.jpeg
+1170,['yellow'],"['extreme harlequin', 'fringing']",2080835.jpeg
+1171,['yellow'],"['pinstripe', 'fringing', 'kneecaps']",2080821.jpeg
+1172,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2080812.jpeg
+1173,['lavender'],"['pinstripe', 'snowflake']",2080778.jpeg
+1174,['yellow'],['extreme harlequin'],2080773.jpeg
+1175,"['cream', 'dark']",['extreme harlequin'],1382910.jpeg
+1176,['yellow'],['extreme harlequin'],2080737.jpeg
+1177,['red'],"['portholes', 'phantom']",2684312.jpeg
+1178,"['lavender', 'yellow']","['extreme harlequin', 'furred']",2080717.jpeg
+1179,['red'],"['portholes', 'phantom']",2684300.jpeg
+1180,['yellow'],"['extreme harlequin', 'tri-color']",2080706.jpeg
+1181,['cream'],"['pinstripe', 'ink spot', 'fringing', 'kneecaps', 'cold fusion']",2363687.jpeg
+1182,['dark'],"['dalmatian', 'snowflake']",2684289.jpeg
+1183,['yellow'],"['quad-stripe', 'fringing', 'kneecaps', 'tri-color']",2363681.jpeg
+1184,['red'],"['dalmatian', 'harlequin', 'portholes']",2684276.jpeg
+1185,['yellow'],"['extreme harlequin', 'tri-color']",2080692.jpeg
+1186,['yellow'],"['extreme harlequin', 'tri-color']",2363676.jpeg
+1187,['yellow'],"['extreme harlequin', 'pinstripe', 'fringing', 'kneecaps', 'tri-color']",2363673.jpeg
+1188,['cream'],"['dalmatian', 'harlequin', 'ink spot', 'fringing', 'kneecaps', 'cold fusion']",2363668.jpeg
+1189,['dark'],"['extreme harlequin', 'harlequin', 'pinstripe', 'quad-stripe', 'snowflake', 'white wall', 'drippy']",2684261.jpeg
+1190,['yellow'],"['extreme harlequin', 'fringing', 'tri-color']",2363654.jpeg
+1191,['cream'],"['dalmatian', 'extreme harlequin', 'fringing', 'kneecaps']",2080673.jpeg
+1192,['dark'],"['dalmatian', 'pinstripe', 'white out', 'snowflake', 'portholes']",2684247.jpeg
+1193,['cream'],"['harlequin', 'fringing', 'kneecaps', 'cold fusion']",2363643.jpeg
+1194,['olive'],['partial pinstripe'],2583548.jpeg
+1195,['red'],"['extreme harlequin', 'harlequin', 'tri-color']",2621489.jpeg
+1196,"['cream', 'dark']","['harlequin', 'white out']",2684208.jpeg
+1197,['red'],['dalmatian'],2245217.jpeg
+1198,['red'],['quad-stripe'],2583530.jpeg
+1199,['yellow'],"['fringing', 'kneecaps']",2080632.jpeg
+1200,['red'],[],2621466.jpeg
+1201,"['cream', 'yellow']","['harlequin', 'fringing', 'kneecaps']",2080620.jpeg
+1202,['red'],"['white wall', 'tri-color', 'drippy']",2684161.jpeg
+1203,['yellow'],"['fringing', 'kneecaps', 'tri-color']",2080593.jpeg
+1204,"['cream', 'yellow']","['pinstripe', 'tri-color']",2080573.jpeg
+1205,['yellow'],['extreme harlequin'],2080564.jpeg
+1206,['cream'],['quad-stripe'],2080557.jpeg
+1207,"['cream', 'yellow']","['dalmatian', 'extreme harlequin', 'solid back']",2080551.jpeg
+1208,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2080544.jpeg
+1209,['yellow'],['pinstripe'],2080521.jpeg
+1210,['lavender'],"['extreme harlequin', 'harlequin', 'drippy']",2684065.jpeg
+1211,['cream'],['extreme harlequin'],2080485.jpeg
+1212,"['cream', 'yellow']","['extreme harlequin', 'tri-color']",2080475.jpeg
+1213,"['cream', 'lavender']",['extreme harlequin'],1883107.jpeg
+1214,['yellow'],"['extreme harlequin', 'snowflake', 'fringing', 'kneecaps']",2080459.jpeg
+1215,['red'],"['snowflake', 'white wall', 'drippy']",1893599.jpeg
+1216,"['cream', 'yellow']",['extreme harlequin'],2080422.jpeg
+1217,['yellow'],"['extreme harlequin', 'fringing']",2080414.jpeg
+1218,['yellow'],['extreme harlequin'],2080398.jpeg
+1219,"['cream', 'dark']","['harlequin', 'snowflake']",2316243.jpeg
+1220,['yellow'],"['pinstripe', 'tri-color']",2080382.jpeg
+1221,['yellow'],"['extreme harlequin', 'tri-color']",2080372.jpeg
+1222,['red'],[],2405970.jpeg
+1223,['dark'],"['partial pinstripe', 'pinstripe']",2597340.jpeg
+1224,['dark'],['quad-stripe'],2591432.jpeg
+1225,['olive'],"['dalmatian', 'red spot']",2573364.jpeg
+1226,['red'],['dalmatian'],2525892.jpeg
+1227,['red'],"['dalmatian', 'red spot', 'portholes']",2494715.jpeg
+1228,['red'],"['dalmatian', 'red spot', 'portholes']",2174789.jpeg
+1229,['red'],[],2683740.jpeg
+1230,['cream'],"['snowflake', 'fringing', 'kneecaps', 'cold fusion']",2079984.jpeg
+1231,['red'],[],2079973.jpeg
+1232,['cream'],"['snowflake', 'fringing', 'kneecaps', 'cold fusion']",2079953.jpeg
+1233,['cream'],"['snowflake', 'fringing', 'kneecaps', 'cold fusion']",2079953.jpeg
+1234,['red'],"['partial pinstripe', 'crowned', 'tri-color', 'drippy']",2242997.jpeg
+1235,['yellow'],"['snowflake', 'fringing', 'kneecaps', 'tri-color', 'cold fusion']",2079949.jpeg
+1236,['red'],"['pinstripe', 'snowflake', 'portholes', 'fringing', 'kneecaps', 'cold fusion']",2079944.jpeg
+1237,['red'],[],2582693.jpeg
+1238,"['cream', 'dark']",['quad-stripe'],2550607.jpeg
+1239,['lavender'],['extreme harlequin'],2218865.jpeg
+1240,['red'],"['dalmatian', 'ink spot']",2571818.jpeg
+1241,['red'],['pinstripe'],2328437.jpeg
+1242,['yellow'],['pinstripe'],2539449.jpeg
+1243,['yellow'],[],2539483.jpeg
+1244,['red'],['harlequin'],2427875.jpeg
+1245,['lavender'],['tri-color'],1534170.jpeg
+1246,"['cream', 'lavender']",['pinstripe'],2071644.jpeg
+1247,"['cream', 'lavender']",['pinstripe'],2071642.jpeg
+1248,['lavender'],['partial pinstripe'],2682957.jpeg
+1249,['yellow'],"['harlequin', 'pinstripe']",2551988.jpeg
+1250,['red'],[],2682929.jpeg
+1251,['yellow'],"['dalmatian', 'super dalmatian']",2128997.jpeg
+1252,['yellow'],"['dalmatian', 'pinstripe', 'quad-stripe', 'super dalmatian', 'phantom']",1859102.jpeg
+1253,['red'],"['pinstripe', 'phantom', 'patternless']",2272800.jpeg
+1254,['red'],['harlequin'],2272797.jpeg
+1255,['yellow'],['harlequin'],2619828.jpeg
+1256,['red'],"['pos red', 'pos tri-color', 'drippy']",2109779.jpeg
+1257,['dark'],"['harlequin', 'drippy']",2526574.jpeg
+1258,"['cream', 'red']",['harlequin'],2551833.jpeg
+1259,['dark'],"['snowflake', 'fringing', 'tri-color', 'drippy']",2109705.jpeg
+1260,['lavender'],['pinstripe'],2619739.jpeg
+1261,"['lavender', 'red']","['pinstripe', 'quad-stripe', 'tri-color']",2418234.jpeg
+1262,['dark'],[],2436929.jpeg
+1263,['dark'],['pinstripe'],2682786.jpeg
+1264,['dark'],"['fringing', 'tri-color']",2682779.jpeg
+1265,['dark'],['pinstripe'],2682748.jpeg
+1266,['dark'],['harlequin'],2526470.jpeg
+1267,['dark'],['pinstripe'],2682720.jpeg
+1268,['dark'],"['extreme harlequin', 'tri-color', 'drippy']",1988441.jpeg
+1269,"['cream', 'dark']","['extreme harlequin', 'tri-color']",2526342.jpeg
+1270,['dark'],"['extreme harlequin', 'harlequin', 'tri-color']",2450294.jpeg
+1271,['dark'],['tri-color'],2682530.jpeg
+1272,['dark'],['tri-color'],2682463.jpeg
+1273,['dark'],"['dalmatian', 'pinstripe', 'phantom']",1713444.jpeg
+1274,['dark'],"['pinstripe', 'quad-stripe']",2284533.jpeg
+1275,['dark'],['quad-stripe'],1713486.jpeg
+1276,['dark'],['pinstripe'],1570289.jpeg
+1277,"['cream', 'yellow']","['harlequin', 'snowflake']",2404938.jpeg
+1278,['red'],[],2682309.jpeg
+1279,"['cream', 'red']","['harlequin', 'crowned']",2375238.jpeg
+1280,"['dark', 'lavender']","['extreme harlequin', 'harlequin']",2526166.jpeg
+1281,['red'],"['dalmatian', 'harlequin']",2682283.jpeg
+1282,['red'],['phantom'],2536806.jpeg
+1283,['red'],"['dalmatian', 'portholes', 'phantom']",2536797.jpeg
+1284,['yellow'],"['brindle', 'dalmatian', 'super dalmatian']",2618819.jpeg
+1285,['lavender'],"['extreme harlequin', 'drippy']",2525638.jpeg
+1286,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2361830.jpeg
+1287,['red'],['dalmatian'],2525589.jpeg
+1288,['red'],['dalmatian'],2449821.jpeg
+1289,['red'],"['creamsicle', 'drippy']",2363568.jpeg
+1290,['lavender'],"['extreme harlequin', 'harlequin']",2494867.jpeg
+1291,"['dark', 'red']","['partial pinstripe', 'pinstripe']",2236065.jpeg
+1292,['dark'],['harlequin'],2474722.jpeg
+1293,['cream'],['pinstripe'],2492386.jpeg
+1294,['red'],"['extreme harlequin', 'harlequin', 'tri-color']",2563899.jpeg
+1295,['cream'],[],2618497.jpeg
+1296,['red'],['tangerine'],2525407.jpeg
+1297,['dark'],['phantom'],2361720.jpeg
+1298,['dark'],"['bi-color', 'phantom']",2361717.jpeg
+1299,['dark'],"['portholes', 'phantom']",2361701.jpeg
+1300,['red'],"['dalmatian', 'flame']",2681761.jpeg
+1301,['red'],"['fringing', 'kneecaps', 'phantom']",2361687.jpeg
+1302,"['cream', 'dark']",['extreme harlequin'],1987603.jpeg
+1303,['dark'],"['fringing', 'phantom']",2361672.jpeg
+1304,['dark'],['phantom'],2361660.jpeg
+1305,['red'],[],2618386.jpeg
+1306,['dark'],['pinstripe'],2681699.jpeg
+1307,['dark'],"['phantom', 'patternless']",2361617.jpeg
+1308,['yellow'],[],2361609.jpeg
+1309,['red'],"['super dalmatian', 'red spot']",2681640.jpeg
+1310,['lavender'],"['extreme harlequin', 'harlequin']",2618310.jpeg
+1311,"['cream', 'yellow']",[],2361585.jpeg
+1312,"['cream', 'red']","['dalmatian', 'harlequin', 'pinstripe']",2525221.jpeg
+1313,"['cream', 'yellow']",['fringing'],2361530.jpeg
+1314,['yellow'],[],2361523.jpeg
+1315,['lavender'],"['tangerine', 'empty back', 'super stripe']",2681469.jpeg
+1316,['dark'],['harlequin'],2524983.jpeg
+1317,['dark'],['harlequin'],2382606.jpeg
+1318,['red'],['harlequin'],2382671.jpeg
+1319,['yellow'],"['pinstripe', 'phantom']",2382619.jpeg
+1320,"['cream', 'dark']",[],1551428.jpeg
+1321,['yellow'],['harlequin'],2526093.jpeg
+1322,"['cream', 'dark']","['partial pinstripe', 'pinstripe']",2499743.jpeg
+1323,['dark'],"['portholes', 'tri-color']",2681186.jpeg
+1324,['red'],"['dalmatian', 'harlequin']",2199377.jpeg
+1325,['red'],"['portholes', 'phantom']",2681283.jpeg
+1326,['red'],"['super dalmatian', 'ink spot', 'oil spot', 'red spot']",2350771.jpeg
+1327,"['cream', 'dark', 'lavender']","['harlequin', 'snowflake', 'portholes']",2681260.jpeg
+1328,['red'],"['dalmatian', 'pos peppered']",2313969.jpeg
+1329,['red'],"['tri-color', 'soft scale', 'lilly white']",2348498.jpeg
+1330,['yellow'],"['pinstripe', 'reverse pinstripe', 'phantom']",2565690.jpeg
+1331,['lavender'],"['quad-stripe', 'drippy']",2524696.jpeg
+1332,"['cream', 'dark']","['extreme harlequin', 'harlequin']",2350748.jpeg
+1333,['dark'],"['pinstripe', 'tri-color']",1586687.jpeg
+1334,['yellow'],"['quad-stripe', 'phantom']",2565638.jpeg
+1335,['dark'],['extreme harlequin'],2324571.jpeg
+1336,['dark'],"['dalmatian', 'extreme harlequin', 'partial pinstripe', 'tri-color']",2324604.jpeg
+1337,['dark'],[],2536252.jpeg
+1338,['red'],['tri-color'],2470962.jpeg
+1339,['red'],['pinstripe'],2425960.jpeg
+1340,['dark'],"['pinstripe', 'tangerine']",2680686.jpeg
+1341,['dark'],"['pinstripe', 'portholes']",2680679.jpeg
+1342,['red'],['dalmatian'],2680674.jpeg
+1343,['dark'],"['flame', 'harlequin']",2680672.jpeg
+1344,['red'],"['extreme harlequin', 'harlequin']",2327889.jpeg
+1345,"['cream', 'dark']","['harlequin', 'partial pinstripe', 'pinstripe']",2494804.jpeg
+1346,['dark'],['pinstripe'],2491968.jpeg
+1347,['yellow'],['tiger'],2638544.jpeg
+1348,['yellow'],"['dalmatian', 'tiger']",2330931.jpeg
+1349,"['red', 'yellow']",[],2505297.jpeg
+1350,['lavender'],"['extreme harlequin', 'flame', 'harlequin', 'white out', 'snowflake', 'drippy']",2448513.jpeg
+1351,"['cream', 'dark']","['extreme harlequin', 'flame', 'harlequin', 'white out', 'snowflake']",2448485.jpeg
+1352,"['dark', 'olive']",['patternless'],2448492.jpeg
+1353,['lavender'],"['extreme harlequin', 'harlequin', 'snowflake', 'drippy']",2448519.jpeg
+1354,['yellow'],"['brindle', 'dalmatian', 'extreme harlequin', 'harlequin', 'pinstripe', 'snowflake', 'creamsicle', 'drippy']",2448482.jpeg
+1355,"['dark', 'olive']","['portholes', 'pos olive', 'patternless']",2448504.jpeg
+1356,"['dark', 'red', 'yellow']","['extreme harlequin', 'white out', 'tri-color', 'drippy']",2448563.jpeg
+1357,"['red', 'yellow']","['brindle', 'extreme harlequin', 'pinstripe', 'white out', 'snowflake', 'white wall', 'creamsicle', 'drippy']",2448546.jpeg
+1358,['lavender'],"['solid back', 'white wall', 'drippy']",1683927.jpeg
+1359,['red'],"['extreme harlequin', 'partial pinstripe', 'tri-color']",2680518.jpeg
+1360,['red'],[],2616892.jpeg
+1361,['red'],"['dalmatian', 'flame']",2564912.jpeg
+1362,['red'],"['super dalmatian', 'ink spot']",2348410.jpeg
+1363,['red'],['extreme harlequin'],2359752.jpeg
+1364,['red'],"['extreme harlequin', 'white out', 'white wall']",2348282.jpeg
+1365,['red'],"['super dalmatian', 'red spot', 'portholes']",2350764.jpeg
+1366,"['cream', 'dark']",['pinstripe'],2488775.jpeg
+1367,"['cream', 'red']",['harlequin'],2488754.jpeg
+1368,"['cream', 'lavender']","['extreme harlequin', 'drippy']",1773369.jpeg
+1369,['red'],"['lilly white', 'phantom']",2282487.jpeg
+1370,['dark'],"['harlequin', 'quad-stripe']",2404928.jpeg
+1371,"['cream', 'dark']",['extreme harlequin'],1878896.jpeg
+1372,['dark'],"['tri-color', 'drippy']",2436014.jpeg
+1373,['cream'],"['extreme harlequin', 'pinstripe']",2680213.jpeg
+1374,['dark'],"['pos olive', 'phantom']",2680181.jpeg
+1375,['cream'],['extreme harlequin'],1878712.jpeg
+1376,"['red', 'yellow']","['dalmatian', 'extreme harlequin', 'harlequin', 'super dalmatian', 'ink spot', 'blushing']",2616529.jpeg
+1377,"['red', 'yellow']","['pinstripe', 'quad-stripe', 'creamsicle']",2680170.jpeg
+1378,['yellow'],"['pinstripe', 'quad-stripe']",2680156.jpeg
+1379,['dark'],"['pin-dashed', 'portholes']",2559697.jpeg
+1380,['yellow'],"['pos brindle', 'dalmatian', 'oil spot', 'crowned', 'phantom']",2616386.jpeg
+1381,['lavender'],['extreme harlequin'],2321666.jpeg
+1382,['red'],"['extreme harlequin', 'crowned']",2679996.jpeg
+1383,['yellow'],"['dalmatian', 'super dalmatian', 'portholes']",2315802.jpeg
+1384,['lavender'],"['dalmatian', 'partial pinstripe', 'pinstripe', 'snowflake']",2679955.jpeg
+1385,['lavender'],"['harlequin', 'pinstripe', 'snowflake']",2679952.jpeg
+1386,['lavender'],"['dalmatian', 'partial pinstripe', 'pinstripe', 'quad-stripe']",2679921.jpeg
+1387,['red'],"['dalmatian', 'pinstripe']",2564142.jpeg
+1388,['dark'],['quad-stripe'],2679863.jpeg
+1389,['dark'],['tri-color'],2679771.jpeg
+1390,['dark'],['pos quad-stripe'],2679853.jpeg
+1391,['dark'],"['extreme harlequin', 'tri-color']",1878433.jpeg
+1392,['yellow'],"['empty back', 'phantom']",2679847.jpeg
+1393,['cream'],"['extreme harlequin', 'harlequin', 'tri-color']",2522009.jpeg
+1394,['yellow'],['quad-stripe'],2260991.jpeg
+1395,['yellow'],['quad-stripe'],2153961.jpeg
+1396,['red'],"['super dalmatian', 'red spot']",2623905.jpeg
+1397,['dark'],['dalmatian'],2679770.jpeg
+1398,['lavender'],['pinstripe'],2538039.jpeg
+1399,['dark'],[],2679745.jpeg
+1400,['red'],['harlequin'],2241641.jpeg
+1401,['cream'],"['harlequin', 'pinstripe']",2563933.jpeg
+1402,['red'],"['dalmatian', 'super dalmatian']",2523040.jpeg
+1403,['dark'],['phantom'],2679683.jpeg
+1404,['dark'],['tri-color'],2663302.jpeg
+1405,['dark'],"['pinstripe', 'quad-stripe', 'drippy']",2532626.jpeg
+1406,['red'],"['dalmatian', 'harlequin', 'portholes']",2679584.jpeg
+1407,['dark'],"['extreme harlequin', 'harlequin']",2668697.jpeg
+1408,['dark'],"['harlequin', 'pin-dashed', 'white tip']",2679576.jpeg
+1409,['dark'],[],2668673.jpeg
+1410,['dark'],[],2668679.jpeg
+1411,['dark'],"['extreme harlequin', 'harlequin']",2668707.jpeg
+1412,['dark'],"['extreme harlequin', 'harlequin']",2668733.jpeg
+1413,['dark'],['dalmatian'],2679551.jpeg
+1414,['yellow'],"['dalmatian', 'partial pinstripe', 'phantom']",2679541.jpeg
+1415,['dark'],"['pinstripe', 'quad-stripe']",2563594.jpeg
+1416,['red'],"['pinstripe', 'white wall', 'lilly white', 'empty back', 'pos het super stripe', 'super stripe']",2679470.jpeg
+1417,"['cream', 'dark']","['chevron', 'harlequin', 'drippy']",2679426.jpeg
+1418,"['dark', 'red']",['soft scale'],2578063.jpeg
+1419,['lavender'],"['pinstripe', 'white out', 'crowned']",2578059.jpeg
+1420,['dark'],"['pinstripe', 'tangerine']",2578053.jpeg
+1421,['red'],['harlequin'],2623352.jpeg
+1422,['yellow'],['snowflake'],2623326.jpeg
+1423,['dark'],"['harlequin', 'partial pinstripe']",2501411.jpeg
+1424,"['cream', 'dark']",[],2241141.jpeg
+1425,['yellow'],"['super dalmatian', 'tiger']",2330065.jpeg
+1426,['red'],[],2563113.jpeg
+1427,"['cream', 'yellow']","['pinstripe', 'drippy']",2679117.jpeg
+1428,"['cream', 'dark']","['pinstripe', 'drippy']",2679093.jpeg
+1429,['red'],['lilly white'],2303371.jpeg
+1430,['red'],['lilly white'],2303351.jpeg
+1431,['red'],['lilly white'],2303337.jpeg
+1432,['dark'],"['harlequin', 'portholes']",1588178.jpeg
+1433,['lavender'],"['extreme harlequin', 'drippy']",2215289.jpeg
+1434,"['cream', 'yellow']","['extreme harlequin', 'snowflake', 'fringing', 'kneecaps', 'tri-color']",2303266.jpeg
+1435,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2303256.jpeg
+1436,['red'],['dalmatian'],2251137.jpeg
+1437,"['cream', 'lavender']","['extreme harlequin', 'fringing', 'kneecaps']",2303188.jpeg
+1438,['red'],"['super dalmatian', 'ink spot']",2303160.jpeg
+1439,['red'],"['super dalmatian', 'ink spot', 'oil spot']",2303116.jpeg
+1440,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2303025.jpeg
+1441,['yellow'],"['extreme harlequin', 'tri-color']",2303015.jpeg
+1442,['dark'],"['harlequin', 'reverse pinstripe']",2614963.jpeg
+1443,['cream'],['pinstripe'],2201988.jpeg
+1444,"['cream', 'yellow']","['partial pinstripe', 'fringing', 'kneecaps']",2303000.jpeg
+1445,"['cream', 'yellow']","['extreme harlequin', 'pinstripe', 'fringing', 'kneecaps', 'tri-color']",2302996.jpeg
+1446,"['cream', 'red']","['extreme harlequin', 'fringing', 'kneecaps', 'white wall']",2302994.jpeg
+1447,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2302987.jpeg
+1448,['cream'],"['extreme harlequin', 'fringing']",2302976.jpeg
+1449,['dark'],[],2429733.jpeg
+1450,"['dark', 'olive']","['harlequin', 'pinstripe', 'fringing']",2678425.jpeg
+1451,['red'],"['lilly white', 'phantom']",2678370.jpeg
+1452,['red'],['harlequin'],2593765.jpeg
+1453,"['cream', 'lavender', 'red']","['flame', 'harlequin', 'pinstripe']",2678289.jpeg
+1454,"['cream', 'red']",['dalmatian'],2358664.jpeg
+1455,['red'],['super dalmatian'],2593597.jpeg
+1456,"['cream', 'red']",['extreme harlequin'],2593589.jpeg
+1457,['red'],['lilly white'],2312094.jpeg
+1458,['dark'],"['quad-stripe', 'tri-color']",2312081.jpeg
+1459,['red'],"['dalmatian', 'flame']",1692665.jpeg
+1460,['red'],"['dalmatian', 'flame']",1692663.jpeg
+1461,['red'],"['harlequin', 'lilly white']",2019438.jpeg
+1462,['red'],"['harlequin', 'partial pinstripe']",2342826.jpeg
+1463,['dark'],['extreme harlequin'],2343693.jpeg
+1464,['dark'],"['pinstripe', 'quad-stripe']",2545983.jpeg
+1465,['lavender'],['pinstripe'],2678161.jpeg
+1466,['lavender'],"['pinstripe', 'white out']",2678158.jpeg
+1467,['lavender'],"['pinstripe', 'white out']",2678153.jpeg
+1468,['red'],['harlequin'],2678152.jpeg
+1469,['lavender'],['harlequin'],2678151.jpeg
+1470,['dark'],['phantom'],2678144.jpeg
+1471,['lavender'],['harlequin'],2678121.jpeg
+1472,['red'],['lilly white'],2678060.jpeg
+1473,['yellow'],"['tiger', 'portholes']",2029834.jpeg
+1474,['red'],"['harlequin', 'partial pinstripe', 'pinstripe', 'portholes']",2029801.jpeg
+1475,['cream'],['quad-stripe'],2342669.jpeg
+1476,['lavender'],"['extreme harlequin', 'harlequin', 'pinstripe', 'snowflake', 'fringing', 'kneecaps', 'tri-color', 'drippy']",2149596.jpeg
+1477,['red'],"['extreme harlequin', 'lilly white']",2677876.jpeg
+1478,"['cream', 'dark', 'lavender', 'red', 'yellow']","['harlequin', 'pinstripe', 'drippy']",2677848.jpeg
+1479,['red'],"['dalmatian', 'portholes', 'phantom']",2677825.jpeg
+1480,['red'],['phantom'],2536313.jpeg
+1481,['red'],['phantom'],2536301.jpeg
+1482,['yellow'],"['dalmatian', 'super dalmatian', 'oil spot']",538861.jpeg
+1483,"['cream', 'red']",['tri-color'],2471477.jpeg
+1484,['dark'],['tri-color'],2471389.jpeg
+1485,['dark'],['phantom'],2677583.jpeg
+1486,['red'],['quad-stripe'],1463502.jpeg
+1487,['red'],['drippy'],2335343.jpeg
+1488,"['cream', 'red']","['tailless', 'portholes']",2467293.jpeg
+1489,"['cream', 'red']",['creamsicle'],2331909.jpeg
+1490,"['dark', 'lavender', 'olive']","['extreme harlequin', 'harlequin', 'pinstripe', 'white out', 'white wall', 'tri-color']",2677474.jpeg
+1491,['lavender'],"['quad-stripe', 'drippy']",2677453.jpeg
+1492,"['red', 'yellow']","['extreme harlequin', 'snowflake', 'fringing', 'kneecaps']",1928463.jpeg
+1493,['red'],"['portholes', 'fringing']",2677425.jpeg
+1494,['yellow'],"['dalmatian', 'pinstripe', 'quad-stripe', 'ink spot', 'crowned', 'phantom']",1711807.jpeg
+1495,['yellow'],"['pinstripe', 'snowflake']",1928392.jpeg
+1496,['yellow'],"['dalmatian', 'partial pinstripe', 'reverse pinstripe', 'ink spot', 'crowned', 'phantom']",1721815.jpeg
+1497,['dark'],['phantom'],2677385.jpeg
+1498,['red'],"['fringing', 'kneecaps', 'lilly white']",1928085.jpeg
+1499,['red'],"['dalmatian', 'ink spot']",1928127.jpeg
+1500,['red'],"['super dalmatian', 'ink spot', 'oil spot', 'portholes']",2677290.jpeg
+1501,['lavender'],['pinstripe'],2301840.jpeg
+1502,['red'],['dalmatian'],2233476.jpeg
+1503,['yellow'],"['pos het phantom', 'pinstripe', 'quad-stripe']",2217708.jpeg
+1504,['red'],['dalmatian'],2251960.jpeg
+1505,['red'],"['dalmatian', 'super dalmatian', 'red spot']",2253084.jpeg
+1506,['dark'],['extreme harlequin'],2253331.jpeg
+1507,['red'],"['super dalmatian', 'ink spot', 'red spot']",2253348.jpeg
+1508,['red'],['harlequin'],2372538.jpeg
+1509,['cream'],"['extreme harlequin', 'harlequin']",1323851.jpeg
+1510,['dark'],"['dalmatian', 'super dalmatian']",1324305.jpeg
+1511,['red'],['harlequin'],2368005.jpeg
+1512,['dark'],"['dalmatian', 'phantom']",2003419.jpeg
+1513,['red'],['white wall'],2376143.jpeg
+1514,['yellow'],"['pinstripe', 'quad-stripe']",2121624.jpeg
+1515,['dark'],"['flame', 'portholes']",1790658.jpeg
+1516,['red'],['harlequin'],2376154.jpeg
+1517,['yellow'],"['dalmatian', 'super dalmatian']",1487085.jpeg
+1518,['red'],"['chevron', 'harlequin', 'snowflake']",2256963.jpeg
+1519,['cream'],['harlequin'],2484566.jpeg
+1520,['red'],"['harlequin', 'pin-dashed']",2368388.jpeg
+1521,['red'],"['extreme harlequin', 'portholes', 'white wall']",2484450.jpeg
+1522,['lavender'],"['extreme harlequin', 'harlequin']",2368728.jpeg
+1523,['red'],['harlequin'],1487255.jpeg
+1524,['red'],"['dalmatian', 'super dalmatian']",2484344.jpeg
+1525,['dark'],['extreme harlequin'],2592127.jpeg
+1526,['red'],"['dalmatian', 'pos super dalmatian', 'red spot', 'phantom']",2677191.jpeg
+1527,['red'],[],2677166.jpeg
+1528,['yellow'],"['extreme harlequin', 'pinstripe', 'snowflake', 'fringing', 'kneecaps']",1928113.jpeg
+1529,['yellow'],"['super dalmatian', 'oil spot', 'furred']",1928110.jpeg
+1530,['red'],"['dalmatian', 'ink spot', 'oil spot']",1928063.jpeg
+1531,['yellow'],"['extreme harlequin', 'tri-color']",1928030.jpeg
+1532,['cream'],"['harlequin', 'blushing']",2104911.jpeg
+1533,['red'],"['harlequin', 'lilly white']",2080171.jpeg
+1534,['red'],['portholes'],2676887.jpeg
+1535,['red'],['snowflake'],2249573.jpeg
+1536,"['red', 'yellow']","['extreme harlequin', 'tiger']",2676727.jpeg
+1537,['dark'],"['extreme harlequin', 'harlequin', 'partial pinstripe', 'fringing', 'kneecaps']",2400727.jpeg
+1538,['red'],['lilly white'],2326887.jpeg
+1539,['red'],"['dalmatian', 'red spot', 'portholes', 'phantom']",2676711.jpeg
+1540,['dark'],['buckskin'],2447294.jpeg
+1541,['dark'],"['harlequin', 'tri-color']",2676618.jpeg
+1542,"['cream', 'yellow']","['extreme harlequin', 'tri-color']",1975650.jpeg
+1543,"['cream', 'lavender']","['quad-stripe', 'fringing', 'kneecaps']",1975636.jpeg
+1544,"['cream', 'red']","['extreme harlequin', 'fringing', 'kneecaps']",1975623.jpeg
+1545,['yellow'],"['extreme harlequin', 'tri-color']",1975595.jpeg
+1546,['red'],[],2612643.jpeg
+1547,['yellow'],"['pinstripe', 'portholes', 'crowned', 'phantom', 'patternless']",2676281.jpeg
+1548,['dark'],"['flame', 'partial pinstripe']",2612498.jpeg
+1549,['red'],"['dalmatian', 'red spot']",2612495.jpeg
+1550,"['cream', 'red']","['harlequin', 'drippy']",2612492.jpeg
+1551,['dark'],['partial pinstripe'],2612485.jpeg
+1552,"['cream', 'dark']","['harlequin', 'tri-color']",2612479.jpeg
+1553,['red'],"['harlequin', 'pinstripe']",2076582.jpeg
+1554,['red'],"['partial pinstripe', 'white wall']",2612444.jpeg
+1555,['red'],"['partial pinstripe', 'white wall']",2612439.jpeg
+1556,['red'],['partial pinstripe'],2612437.jpeg
+1557,['red'],['patternless'],2612413.jpeg
+1558,['yellow'],[],2612410.jpeg
+1559,['olive'],"['super dalmatian', 'red spot', 'soft scale', 'phantom']",2612366.jpeg
+1560,['olive'],"['dalmatian', 'red spot', 'soft scale', 'phantom']",2612360.jpeg
+1561,"['lavender', 'red']",[],2334190.jpeg
+1562,['red'],"['lilly white', 'phantom']",2676085.jpeg
+1563,['red'],['tri-color'],1616463.jpeg
+1564,['red'],"['dalmatian', 'bi-color']",2327962.jpeg
+1565,['yellow'],"['brindle', 'crowned']",2233000.jpeg
+1566,"['cream', 'red']","['brindle', 'harlequin']",2400214.jpeg
+1567,['yellow'],['phantom'],2676025.jpeg
+1568,"['cream', 'dark']","['harlequin', 'pinstripe']",2492667.jpeg
+1569,['cream'],"['pos lavender', 'pos tri-color', 'drippy']",2400116.jpeg
+1570,['cream'],"['extreme harlequin', 'drippy']",2327912.jpeg
+1571,['lavender'],['harlequin'],2676016.jpeg
+1572,"['cream', 'dark']","['extreme harlequin', 'harlequin', 'partial pinstripe', 'pinstripe']",2521942.jpeg
+1573,['red'],"['soft scale', 'phantom']",2675995.jpeg
+1574,"['cream', 'red']","['harlequin', 'white out']",2675992.jpeg
+1575,['red'],"['harlequin', 'tri-color']",2675990.jpeg
+1576,['cream'],"['extreme harlequin', 'pin-dashed']",2444613.jpeg
+1577,['lavender'],"['harlequin', 'white out']",2675986.jpeg
+1578,['lavender'],"['harlequin', 'white out']",2675982.jpeg
+1579,['lavender'],['harlequin'],2675979.jpeg
+1580,['lavender'],"['harlequin', 'tiger']",2675977.jpeg
+1581,['cream'],"['dalmatian', 'extreme harlequin', 'drippy']",2497829.jpeg
+1582,['dark'],"['extreme harlequin', 'tri-color', 'drippy']",2675972.jpeg
+1583,['lavender'],"['extreme harlequin', 'tangerine', 'drippy']",2497822.jpeg
+1584,['yellow'],"['dalmatian', 'phantom']",2675965.jpeg
+1585,['yellow'],"['brindle', 'pinstripe', 'quad-stripe', 'pos quad-stripe', 'reverse pinstripe', 'phantom']",2239048.jpeg
+1586,['yellow'],"['dalmatian', 'phantom']",2675961.jpeg
+1587,['red'],"['dalmatian', 'red spot', 'portholes', 'phantom']",2675956.jpeg
+1588,['lavender'],['harlequin'],2675949.jpeg
+1589,"['cream', 'red']","['harlequin', 'pos red', 'pos drippy', 'drippy']",2239019.jpeg
+1590,"['cream', 'red']","['harlequin', 'partial pinstripe', 'pos red', 'tri-color']",2239010.jpeg
+1591,['lavender'],"['extreme harlequin', 'solid back', 'drippy']",2249019.jpeg
+1592,"['cream', 'red']","['harlequin', 'pos red', 'pos tri-color', 'drippy']",2238999.jpeg
+1593,['cream'],"['harlequin', 'tiger']",2675930.jpeg
+1594,['red'],"['pos red', 'drippy']",2238987.jpeg
+1595,['cream'],"['extreme harlequin', 'drippy']",2665063.jpeg
+1596,['red'],"['portholes', 'tri-color']",2669547.jpeg
+1597,"['cream', 'dark']","['harlequin', 'drippy']",2238951.jpeg
+1598,['yellow'],"['brindle', 'pinstripe', 'quad-stripe', 'reverse pinstripe', 'phantom']",2238920.jpeg
+1599,['dark'],"['harlequin', 'pinstripe']",2308115.jpeg
+1600,['dark'],"['flame', 'harlequin', 'pinstripe', 'tiger']",2308234.jpeg
+1601,['red'],"['dalmatian', 'phantom']",2308072.jpeg
+1602,['dark'],"['harlequin', 'crowned']",2308088.jpeg
+1603,['yellow'],"['brindle', 'pinstripe', 'quad-stripe', 'reverse pinstripe', 'phantom']",2238888.jpeg
+1604,"['dark', 'red']","['harlequin', 'partial pinstripe', 'pinstripe']",2308193.jpeg
+1605,['dark'],"['harlequin', 'partial pinstripe', 'pinstripe']",2308135.jpeg
+1606,['lavender'],['extreme harlequin'],2238824.jpeg
+1607,['lavender'],"['extreme harlequin', 'pos lavender', 'drippy']",2238817.jpeg
+1608,['dark'],['harlequin'],2675774.jpeg
+1609,['yellow'],"['dalmatian', 'phantom']",2675754.jpeg
+1610,"['cream', 'dark']",['harlequin'],2319052.jpeg
+1611,['dark'],"['pinstripe', 'tri-color']",2675744.jpeg
+1612,['yellow'],['patternless'],2612041.jpeg
+1613,['dark'],['extreme harlequin'],2319048.jpeg
+1614,['red'],"['dalmatian', 'patternless']",2612019.jpeg
+1615,"['lavender', 'red']","['harlequin', 'portholes', 'pos red', 'pos lavender']",2238721.jpeg
+1616,['dark'],"['harlequin', 'pinstripe']",2675712.jpeg
+1617,['lavender'],['harlequin'],2675470.jpeg
+1618,['red'],[],2675450.jpeg
+1619,['dark'],"['dalmatian', 'partial pinstripe', 'phantom']",2675414.jpeg
+1620,['dark'],['dalmatian'],2212238.jpeg
+1621,['yellow'],['pinstripe'],2675375.jpeg
+1622,['dark'],"['extreme harlequin', 'harlequin', 'tri-color']",2618798.jpeg
+1623,['lavender'],"['extreme harlequin', 'harlequin']",2618719.jpeg
+1624,['red'],"['quad-stripe', 'empty back']",2618714.jpeg
+1625,['cream'],"['extreme harlequin', 'tri-color']",2611550.jpeg
+1626,['dark'],"['pinstripe', 'quad-stripe']",2618686.jpeg
+1627,['dark'],"['extreme harlequin', 'harlequin', 'partial pinstripe', 'snowflake']",2618677.jpeg
+1628,"['cream', 'dark']","['extreme harlequin', 'harlequin']",2618672.jpeg
+1629,['red'],[],2559275.jpeg
+1630,['cream'],"['extreme harlequin', 'harlequin']",2283570.jpeg
+1631,['red'],"['portholes', 'phantom']",2618601.jpeg
+1632,['red'],[],1973605.jpeg
+1633,['red'],"['portholes', 'bi-color', 'phantom']",2103585.jpeg
+1634,['cream'],"['portholes', 'pos red', 'pos lavender', 'drippy']",2103572.jpeg
+1635,['cream'],"['extreme harlequin', 'harlequin']",2428309.jpeg
+1636,['red'],['lilly white'],2611209.jpeg
+1637,['yellow'],"['extreme harlequin', 'tri-color']",2611212.jpeg
+1638,['dark'],['quad-stripe'],2500777.jpeg
+1639,['yellow'],"['extreme harlequin', 'tri-color']",2611165.jpeg
+1640,['cream'],['tri-color'],2611130.jpeg
+1641,['red'],"['pos red', 'drippy']",2103507.jpeg
+1642,['cream'],"['extreme harlequin', 'drippy']",1446692.jpeg
+1643,['yellow'],['flame'],2455579.jpeg
+1644,"['cream', 'red']","['pin-dashed', 'tri-color']",2618138.jpeg
+1645,"['cream', 'red', 'yellow']",[],2610985.jpeg
+1646,"['cream', 'lavender']","['extreme harlequin', 'harlequin', 'crowned']",2224904.jpeg
+1647,['red'],"['harlequin', 'pinstripe', 'empty back']",2674465.jpeg
+1648,['yellow'],['pinstripe'],2674456.jpeg
+1649,['yellow'],"['pinstripe', 'snowflake', 'tri-color']",2048605.jpeg
+1650,['yellow'],"['extreme harlequin', 'pinstripe', 'snowflake', 'tri-color']",2048567.jpeg
+1651,['yellow'],"['brindle', 'dalmatian', 'ink spot']",1471014.jpeg
+1652,['dark'],"['harlequin', 'pinstripe', 'quad-stripe', 'snowflake', 'tri-color']",2573238.jpeg
+1653,['red'],"['solid back', 'drippy', 'lilly white']",2631562.jpeg
+1654,['yellow'],"['harlequin', 'pinstripe', 'reverse pinstripe', 'kneecaps', 'crowned', 'white tip']",2322733.jpeg
+1655,['lavender'],"['dalmatian', 'harlequin']",1557882.jpeg
+1656,['red'],"['harlequin', 'white wall']",2617557.jpeg
+1657,['dark'],['extreme harlequin'],2573063.jpeg
+1658,['red'],"['tri-color', 'drippy']",2398350.jpeg
+1659,['cream'],"['extreme harlequin', 'tri-color']",2398335.jpeg
+1660,['yellow'],"['dalmatian', 'super dalmatian', 'ink spot', 'red spot']",2673477.jpeg
+1661,['lavender'],['extreme harlequin'],1405902.jpeg
+1662,['red'],['pinstripe'],2488743.jpeg
+1663,"['cream', 'red']",['pinstripe'],2488778.jpeg
+1664,"['cream', 'dark']",['pinstripe'],2488746.jpeg
+1665,['cream'],['pinstripe'],2488727.jpeg
+1666,"['cream', 'red']","['extreme harlequin', 'white wall']",2488748.jpeg
+1667,"['cream', 'dark']","['pinstripe', 'reverse pinstripe']",2488764.jpeg
+1668,"['cream', 'dark']",['extreme harlequin'],2488768.jpeg
+1669,['dark'],"['pinstripe', 'quad-stripe']",2488731.jpeg
+1670,['yellow'],"['bold stripe tigers', 'brindle', 'dalmatian', 'pos super dalmatian', 'tiger']",2488758.jpeg
+1671,"['cream', 'red']",['pinstripe'],2488785.jpeg
+1672,['red'],"['portholes', 'bi-color', 'patternless']",2488741.jpeg
+1673,"['cream', 'dark']",['pinstripe'],2488735.jpeg
+1674,['dark'],['pinstripe'],2488780.jpeg
+1675,"['cream', 'dark']",['pinstripe'],2488771.jpeg
+1676,['dark'],[],2610103.jpeg
+1677,['red'],['pinstripe'],2631096.jpeg
+1678,['red'],['drippy'],2495579.jpeg
+1679,['red'],"['dalmatian', 'super dalmatian', 'red spot', 'portholes']",2264443.jpeg
+1680,['red'],[],2356522.jpeg
+1681,"['red', 'yellow']",['tiger'],2587794.jpeg
+1682,['cream'],['extreme harlequin'],2442883.jpeg
+1683,['yellow'],['drippy'],2495551.jpeg
+1684,['red'],"['dalmatian', 'harlequin', 'pin-dashed', 'red spot', 'portholes']",2572724.jpeg
+1685,['red'],"['dalmatian', 'red spot']",2624601.jpeg
+1686,['lavender'],['pinstripe'],2624597.jpeg
+1687,['lavender'],['harlequin'],2624594.jpeg
+1688,['dark'],['tangerine'],2624589.jpeg
+1689,['dark'],['tangerine'],2624585.jpeg
+1690,['dark'],['harlequin'],2624581.jpeg
+1691,"['cream', 'yellow']",['pinstripe'],2624573.jpeg
+1692,['red'],['harlequin'],2587669.jpeg
+1693,"['cream', 'yellow']",['pinstripe'],2624570.jpeg
+1694,['lavender'],['pinstripe'],2624567.jpeg
+1695,['red'],['extreme harlequin'],2495427.jpeg
+1696,['yellow'],"['pinstripe', 'phantom']",2624541.jpeg
+1697,"['cream', 'yellow']","['partial pinstripe', 'pinstripe', 'pos drippy', 'drippy']",2495379.jpeg
+1698,"['cream', 'yellow']",['pinstripe'],2624527.jpeg
+1699,['yellow'],"['pinstripe', 'phantom']",2624525.jpeg
+1700,"['cream', 'red']",['snowflake'],2624522.jpeg
+1701,['red'],"['white out', 'phantom']",2624505.jpeg
+1702,['yellow'],"['brindle', 'partial pinstripe', 'reverse pinstripe']",2495327.jpeg
+1703,['cream'],"['pinstripe', 'white out']",2624483.jpeg
+1704,['yellow'],"['pinstripe', 'tiger']",2587582.jpeg
+1705,['red'],['phantom'],2624479.jpeg
+1706,['red'],['phantom'],2624477.jpeg
+1707,['cream'],"['partial pinstripe', 'pinstripe', 'tri-color', 'pos tri-color', 'drippy']",2495300.jpeg
+1708,['red'],['pinstripe'],2673131.jpeg
+1709,['dark'],"['harlequin', 'tri-color']",1654805.jpeg
+1710,['dark'],"['dalmatian', 'harlequin', 'partial pinstripe', 'pinstripe']",1300626.jpeg
+1711,['red'],['phantom'],2624386.jpeg
+1712,['cream'],['pinstripe'],2624383.jpeg
+1713,['cream'],"['pinstripe', 'white out']",2624371.jpeg
+1714,['dark'],['harlequin'],2354511.jpeg
+1715,['dark'],"['pinstripe', 'white wall', 'tri-color']",2624360.jpeg
+1716,['red'],"['pinstripe', 'white out']",2624355.jpeg
+1717,['dark'],['dalmatian'],2616754.jpeg
+1718,['red'],[],2673020.jpeg
+1719,"['cream', 'yellow']",['phantom'],2495104.jpeg
+1720,"['lavender', 'red']",['harlequin'],2479809.jpeg
+1721,['dark'],['harlequin'],2479787.jpeg
+1722,['red'],"['drippy', 'lilly white', 'phantom']",2256198.jpeg
+1723,['red'],"['lilly white', 'phantom']",2479814.jpeg
+1724,['red'],"['partial pinstripe', 'pinstripe']",2609734.jpeg
+1725,['red'],"['partial pinstripe', 'pinstripe']",2609729.jpeg
+1726,"['dark', 'red']","['dalmatian', 'flame']",2609713.jpeg
+1727,"['dark', 'red', 'yellow']",['dalmatian'],2494968.jpeg
+1728,['olive'],['patternless'],2609709.jpeg
+1729,"['dark', 'red']",['harlequin'],2494935.jpeg
+1730,['yellow'],"['pinstripe', 'white out', 'crowned']",2572274.jpeg
+1731,"['cream', 'dark', 'lavender']","['extreme harlequin', 'harlequin', 'kneecaps']",2494905.jpeg
+1732,['red'],[],2354076.jpeg
+1733,['cream'],"['extreme harlequin', 'snowflake', 'drippy']",2025609.jpeg
+1734,['red'],['dalmatian'],2354068.jpeg
+1735,['red'],['harlequin'],2672772.jpeg
+1736,['dark'],['dalmatian'],2616350.jpeg
+1737,['red'],['harlequin'],2672678.jpeg
+1738,['dark'],"['extreme harlequin', 'harlequin', 'tiger', 'tri-color']",2672674.jpeg
+1739,"['dark', 'red']","['extreme harlequin', 'tiger']",2672614.jpeg
+1740,['dark'],['pinstripe'],2539274.jpeg
+1741,['dark'],"['soft scale', 'phantom']",2672580.jpeg
+1742,"['cream', 'lavender', 'red']","['harlequin', 'portholes']",2672562.jpeg
+1743,['red'],"['dalmatian', 'super dalmatian', 'ink spot']",2609377.jpeg
+1744,['yellow'],['partial pinstripe'],2672537.jpeg
+1745,['dark'],"['harlequin', 'pinstripe', 'drippy']",2672530.jpeg
+1746,['red'],"['portholes', 'phantom']",2672492.jpeg
+1747,['cream'],"['pinstripe', 'drippy']",2609344.jpeg
+1748,['yellow'],"['pinstripe', 'quad-stripe', 'fringing', 'kneecaps', 'drippy', 'lilly white', 'empty back', 'white tip', 'phantom']",2672414.jpeg
+1749,['dark'],"['brindle', 'harlequin']",2672403.jpeg
+1750,['red'],"['pin-dashed', 'portholes', 'crowned', 'phantom']",2317587.jpeg
+1751,"['cream', 'red']","['extreme harlequin', 'harlequin', 'tri-color']",2348479.jpeg
+1752,['dark'],"['het phantom', 'drippy', 'lilly white', 'white tip']",2672317.jpeg
+1753,['red'],['drippy'],2348466.jpeg
+1754,"['cream', 'dark']","['dalmatian', 'harlequin']",2672268.jpeg
+1755,['dark'],['solid back'],2348451.jpeg
+1756,['lavender'],['pinstripe'],2348437.jpeg
+1757,['dark'],"['dalmatian', 'harlequin', 'portholes']",2672244.jpeg
+1758,"['cream', 'dark', 'red']","['dalmatian', 'portholes']",2672217.jpeg
+1759,"['cream', 'red']","['snowflake', 'fringing', 'kneecaps', 'phantom']",2296771.jpeg
+1760,['cream'],"['quad-stripe', 'reverse pinstripe', 'fringing', 'kneecaps']",2296766.jpeg
+1761,['dark'],"['extreme harlequin', 'harlequin']",2348405.jpeg
+1762,"['cream', 'dark']","['tipped crests', 'lilly white', 'white tip']",2348394.jpeg
+1763,['red'],['pinstripe'],2672190.jpeg
+1764,['cream'],[],2672186.jpeg
+1765,"['dark', 'red']","['extreme harlequin', 'harlequin', 'tiger']",2672175.jpeg
+1766,['dark'],"['pinstripe', 'quad-stripe']",2615830.jpeg
+1767,['red'],"['extreme harlequin', 'harlequin']",2348361.jpeg
+1768,['yellow'],"['white out', 'white tip']",2310610.jpeg
+1769,['red'],"['pinstripe', 'lilly white']",2672136.jpeg
+1770,['cream'],"['extreme harlequin', 'white wall', 'drippy']",2672134.jpeg
+1771,"['cream', 'red']","['flame', 'harlequin']",2672116.jpeg
+1772,['dark'],['pinstripe'],2348314.jpeg
+1773,['red'],"['dalmatian', 'pinstripe', 'lilly white']",2672111.jpeg
+1774,"['dark', 'lavender', 'red']","['pinstripe', 'lilly white']",2672092.jpeg
+1775,"['red', 'yellow']","['pinstripe', 'portholes']",2494386.jpeg
+1776,['dark'],['harlequin'],2348253.jpeg
+1777,['dark'],"['pinstripe', 'quad-stripe', 'drippy']",2672006.jpeg
+1778,['yellow'],['dalmatian'],2325605.jpeg
+1779,['dark'],"['het phantom', 'fringing', 'kneecaps', 'white wall', 'drippy', 'lilly white', 'white tip']",2629974.jpeg
+1780,['yellow'],"['dalmatian', 'flame']",2396963.jpeg
+1781,['red'],"['fringing', 'drippy', 'lilly white', 'white tip', 'phantom']",2629945.jpeg
+1782,['red'],"['harlequin', 'soft scale']",2396885.jpeg
+1783,['lavender'],['extreme harlequin'],2556160.jpeg
+1784,"['cream', 'dark']","['pinstripe', 'quad-stripe']",2531828.jpeg
+1785,['red'],"['extreme harlequin', 'harlequin']",2400390.jpeg
+1786,"['red', 'yellow']",['tri-color'],2400485.jpeg
+1787,['dark'],['extreme harlequin'],2570924.jpeg
+1788,['cream'],"['harlequin', 'snowflake', 'blushing', 'tri-color']",2441706.jpeg
+1789,"['red', 'yellow']","['pinstripe', 'drippy']",2671127.jpeg
+1790,"['cream', 'dark', 'red']","['pin-dashed', 'tipped crests', 'tri-color']",2671085.jpeg
+1791,"['cream', 'dark']","['extreme harlequin', 'pin-dashed', 'tri-color']",2671068.jpeg
+1792,['red'],"['harlequin', 'fringing', 'kneecaps']",2295948.jpeg
+1793,"['cream', 'red', 'yellow']","['extreme harlequin', 'het phantom', 'snowflake', 'fringing', 'kneecaps', 'tri-color']",2295932.jpeg
+1794,"['cream', 'dark']","['extreme harlequin', 'pin-dashed']",2671008.jpeg
+1795,['yellow'],"['extreme harlequin', 'harlequin', 'pinstripe']",2555462.jpeg
+1796,['dark'],[],2307022.jpeg
+1797,"['cream', 'dark']","['harlequin', 'pinstripe', 'quad-stripe', 'snowflake', 'drippy']",2193971.jpeg
+1798,['yellow'],"['dalmatian', 'peppered', 'super dalmatian']",1563081.jpeg
+1799,['cream'],"['harlequin', 'pinstripe', 'crowned', 'tri-color']",2493510.jpeg
+1800,['dark'],['harlequin'],2353253.jpeg
+1801,['red'],"['harlequin', 'partial pinstripe', 'snowflake', 'portholes']",2614697.jpeg
+1802,['red'],"['dalmatian', 'pinstripe']",2046503.jpeg
+1803,['dark'],['pinstripe'],2046493.jpeg
+1804,['red'],"['brindle', 'dalmatian']",2023987.jpeg
+1805,['red'],"['dalmatian', 'harlequin']",2353196.jpeg
+1806,['yellow'],"['pos brindle', 'pinstripe', 'reverse pinstripe', 'fringing', 'kneecaps']",2353184.jpeg
+1807,['lavender'],[],2144486.jpeg
+1808,['dark'],['harlequin'],2670664.jpeg
+1809,"['cream', 'yellow']",['harlequin'],1996226.jpeg
+1810,['dark'],[],2144477.jpeg
+1811,"['lavender', 'yellow']",['harlequin'],2670659.jpeg
+1812,['lavender'],"['harlequin', 'drippy']",2670653.jpeg
+1813,['dark'],['phantom'],2383792.jpeg
+1814,"['cream', 'dark']",['extreme harlequin'],2554849.jpeg
+1815,['lavender'],['harlequin'],2569863.jpeg
+1816,['cream'],['pinstripe'],2569853.jpeg
+1817,"['cream', 'yellow']",[],2670500.jpeg
+1818,['yellow'],"['dalmatian', 'harlequin', 'reverse pinstripe', 'ink spot']",2440912.jpeg
+1819,"['cream', 'red']",['creamsicle'],2670461.jpeg
+1820,"['cream', 'lavender']","['extreme harlequin', 'tri-color']",2670439.jpeg
+1821,"['cream', 'lavender']",['extreme harlequin'],2670432.jpeg
+1822,['dark'],"['dalmatian', 'pos flame']",2347301.jpeg
+1823,['dark'],['harlequin'],2670415.jpeg
+1824,['dark'],['harlequin'],2670397.jpeg
+1825,"['cream', 'dark']","['harlequin', 'white out']",2670321.jpeg
+1826,['lavender'],"['extreme harlequin', 'drippy']",2492891.jpeg
+1827,['yellow'],"['brindle', 'dalmatian']",2607476.jpeg
+1828,['red'],"['harlequin', 'pinstripe', 'portholes', 'tri-color']",2424552.jpeg
+1829,['red'],['phantom'],2607469.jpeg
+1830,['red'],['phantom'],2607460.jpeg
+1831,['red'],['tiger'],2607436.jpeg
+1832,['dark'],['crowned'],2273652.jpeg
+1833,"['cream', 'yellow']","['tiger', 'phantom']",1670695.jpeg
+1834,['red'],"['white wall', 'drippy']",2669934.jpeg
+1835,['red'],"['white wall', 'tri-color', 'drippy']",2669905.jpeg
+1836,['red'],[],2669854.jpeg
+1837,['red'],['extreme harlequin'],2669840.jpeg
+1838,['dark'],['harlequin'],2533183.jpeg
+1839,['cream'],"['extreme harlequin', 'drippy']",2191058.jpeg
+1840,['yellow'],[],2324320.jpeg
+1841,['yellow'],"['fringing', 'kneecaps']",2324313.jpeg
+1842,"['red', 'yellow']","['extreme harlequin', 'fringing', 'kneecaps']",2324308.jpeg
+1843,['yellow'],"['fringing', 'kneecaps']",2324301.jpeg
+1844,['lavender'],['harlequin'],2417528.jpeg
+1845,"['cream', 'yellow']","['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2294591.jpeg
+1846,['cream'],"['extreme harlequin', 'fringing', 'kneecaps', 'cold fusion']",2294581.jpeg
+1847,['yellow'],"['snowflake', 'tri-color']",2324295.jpeg
+1848,['yellow'],"['ink spot', 'fringing']",2324293.jpeg
+1849,['yellow'],[],2324287.jpeg
+1850,['yellow'],"['fringing', 'kneecaps']",2324280.jpeg
+1851,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2294526.jpeg
+1852,['cream'],"['fringing', 'kneecaps']",2324277.jpeg
+1853,['yellow'],[],2324275.jpeg
+1854,"['cream', 'lavender']","['harlequin', 'pinstripe', 'solid back', 'fringing', 'kneecaps']",2294509.jpeg
+1855,['yellow'],['kneecaps'],2324273.jpeg
+1856,['yellow'],[],2324265.jpeg
+1857,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2294493.jpeg
+1858,['cream'],"['extreme harlequin', 'pinstripe', 'snowflake', 'fringing']",2294487.jpeg
+1859,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2294481.jpeg
+1860,['cream'],"['fringing', 'kneecaps']",2324258.jpeg
+1861,"['cream', 'yellow']","['extreme harlequin', 'fringing', 'kneecaps']",2294477.jpeg
+1862,"['cream', 'yellow']","['extreme harlequin', 'tri-color']",2294470.jpeg
+1863,['cream'],"['extreme harlequin', 'pinstripe']",2294437.jpeg
+1864,['cream'],['extreme harlequin'],2294423.jpeg
+1865,"['cream', 'yellow']","['extreme harlequin', 'fringing']",2294412.jpeg
+1866,['yellow'],['extreme harlequin'],2294396.jpeg
+1867,['lavender'],['pinstripe'],2436110.jpeg
+1868,['dark'],[],2669473.jpeg
+1869,"['cream', 'yellow']","['extreme harlequin', 'tri-color']",2294368.jpeg
+1870,['red'],"['super dalmatian', 'ink spot', 'oil spot']",2294348.jpeg
+1871,['yellow'],[],2294322.jpeg
+1872,['yellow'],[],2294308.jpeg
+1873,"['red', 'yellow']","['extreme harlequin', 'fringing', 'kneecaps']",2294287.jpeg
+1874,['yellow'],['snowflake'],2294266.jpeg
+1875,['red'],['extreme harlequin'],2245120.jpeg
+1876,['cream'],"['extreme harlequin', 'drippy']",2188661.jpeg
+1877,['yellow'],[],2294187.jpeg
+1878,['yellow'],[],2294177.jpeg
+1879,['red'],"['extreme harlequin', 'solid back']",2294170.jpeg
+1880,['yellow'],['tri-color'],2294151.jpeg
+1881,['yellow'],"['dalmatian', 'super dalmatian', 'ink spot']",2491938.jpeg
+1882,['yellow'],['tri-color'],2294127.jpeg
+1883,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2294116.jpeg
+1884,['red'],"['dalmatian', 'red spot']",762660.jpeg
+1885,['cream'],['extreme harlequin'],2669246.jpeg
+1886,['yellow'],"['harlequin', 'fringing', 'kneecaps']",2293996.jpeg
+1887,['cream'],"['extreme harlequin', 'reverse pinstripe', 'snowflake', 'fringing', 'kneecaps']",2293967.jpeg
+1888,['yellow'],"['harlequin', 'fringing', 'kneecaps', 'tri-color']",2293908.jpeg
+1889,['cream'],['extreme harlequin'],2293839.jpeg
+1890,['yellow'],[],2293569.jpeg
+1891,['red'],"['dalmatian', 'pinstripe', 'ink spot', 'phantom']",2583065.jpeg
+1892,['red'],['portholes'],2583055.jpeg
+1893,"['cream', 'lavender']",['drippy'],2356518.jpeg
+1894,['lavender'],['tri-color'],2357889.jpeg
+1895,['red'],['dalmatian'],2669117.jpeg
+1896,['red'],"['brindle', 'tiger', 'furred', 'phantom']",2010870.jpeg
+1897,['lavender'],['extreme harlequin'],2244708.jpeg
+1898,['lavender'],[],2512403.jpeg
+1899,['red'],"['extreme harlequin', 'tri-color']",2606248.jpeg
+1900,['dark'],"['dalmatian', 'harlequin']",2582848.jpeg
+1901,['yellow'],"['extreme harlequin', 'tri-color']",2293514.jpeg
+1902,['yellow'],['extreme harlequin'],2293511.jpeg
+1903,['yellow'],"['extreme harlequin', 'tri-color']",2293508.jpeg
+1904,"['cream', 'yellow']","['extreme harlequin', 'tri-color']",2293505.jpeg
+1905,['lavender'],"['extreme harlequin', 'tangerine', 'white wall', 'soft scale', 'empty back', 'super stripe']",2512259.jpeg
+1906,['yellow'],[],2293497.jpeg
+1907,['yellow'],"['extreme harlequin', 'tri-color']",2293492.jpeg
+1908,['yellow'],['extreme harlequin'],2293463.jpeg
+1909,['cream'],[],2293459.jpeg
+1910,['dark'],"['fringing', 'kneecaps', 'phantom']",2293456.jpeg
+1911,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps']",2293452.jpeg
+1912,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2293447.jpeg
+1913,['cream'],"['fringing', 'kneecaps']",2293440.jpeg
+1914,['dark'],"['portholes', 'fringing', 'phantom']",2293436.jpeg
+1915,['cream'],"['extreme harlequin', 'fringing']",2293432.jpeg
+1916,['cream'],['extreme harlequin'],2293405.jpeg
+1917,['yellow'],['extreme harlequin'],2293403.jpeg
+1918,"['cream', 'yellow']","['extreme harlequin', 'fringing', 'tri-color']",2293399.jpeg
+1919,['yellow'],"['extreme harlequin', 'fringing', 'tri-color']",2293394.jpeg
+1920,['yellow'],"['fringing', 'kneecaps', 'tri-color']",2293344.jpeg
+1921,['yellow'],['extreme harlequin'],2293334.jpeg
+1922,['cream'],"['harlequin', 'pinstripe']",2315733.jpeg
+1923,['red'],"['het phantom', 'pinstripe', 'quad-stripe', 'pos red']",2548540.jpeg
+1924,['dark'],['tiger'],2548255.jpeg
+1925,['red'],"['lilly white', 'cappuccino']",2548063.jpeg
+1926,['dark'],['harlequin'],2534756.jpeg
+1927,['dark'],['partial pinstripe'],2534750.jpeg
+1928,"['cream', 'red']","['harlequin', 'pinstripe']",2394161.jpeg
+1929,['red'],['harlequin'],2667672.jpeg
+1930,['red'],['lilly white'],2605415.jpeg
+1931,"['dark', 'yellow']","['harlequin', 'pinstripe', 'tri-color']",2421954.jpeg
+1932,['dark'],"['portholes', 'phantom']",2421919.jpeg
+1933,['yellow'],"['dalmatian', 'super dalmatian', 'ink spot']",2511485.jpeg
+1934,['red'],"['soft scale', 'empty back', 'phantom']",2667585.jpeg
+1935,['yellow'],['pinstripe'],1985891.jpeg
+1936,['dark'],"['extreme harlequin', 'harlequin', 'snowflake', 'drippy']",2234097.jpeg
+1937,"['cream', 'red']","['extreme harlequin', 'harlequin', 'pinstripe', 'snowflake', 'portholes', 'drippy']",2244299.jpeg
+1938,"['cream', 'red']","['extreme harlequin', 'harlequin', 'pinstripe', 'snowflake', 'portholes', 'tangerine', 'drippy']",2244304.jpeg
+1939,['red'],"['pos red', 'drippy', 'lilly white']",2490821.jpeg
+1940,"['lavender', 'red']","['harlequin', 'pos red', 'pos lavender', 'drippy']",2490774.jpeg
+1941,['red'],"['portholes', 'pos red', 'bi-color']",2490755.jpeg
+1942,['dark'],"['extreme harlequin', 'drippy']",2315530.jpeg
+1943,"['red', 'yellow']",['dalmatian'],2667435.jpeg
+1944,['cream'],['pinstripe'],2667427.jpeg
+1945,['dark'],"['harlequin', 'partial pinstripe', 'pinstripe', 'tri-color']",1300621.jpeg
+1946,['dark'],['harlequin'],2667235.jpeg
+1947,['red'],"['harlequin', 'pinstripe', 'quad-stripe', 'portholes', 'fringing', 'kneecaps', 'tri-color', 'drippy', 'soft scale', 'empty back', 'white tip']",2666792.jpeg
+1948,['red'],"['harlequin', 'pinstripe', 'quad-stripe', 'portholes', 'fringing', 'kneecaps', 'tri-color', 'soft scale', 'empty back', 'white tip']",2666817.jpeg
+1949,['red'],"['pinstripe', 'quad-stripe', 'portholes', 'fringing', 'kneecaps', 'tri-color', 'drippy', 'soft scale', 'empty back', 'white tip']",2666846.jpeg
+1950,['red'],"['harlequin', 'pinstripe', 'quad-stripe', 'portholes', 'fringing', 'kneecaps', 'tri-color', 'drippy', 'soft scale', 'empty back', 'white tip']",2666884.jpeg
+1951,['red'],"['harlequin', 'pinstripe', 'quad-stripe', 'portholes', 'fringing', 'kneecaps', 'tri-color', 'drippy', 'soft scale', 'empty back', 'white tip']",2666870.jpeg
+1952,['red'],"['harlequin', 'pinstripe', 'quad-stripe', 'portholes', 'fringing', 'kneecaps', 'tri-color', 'drippy', 'soft scale', 'empty back', 'white tip']",2666901.jpeg
+1953,['red'],[],2554228.jpeg
+1954,['red'],['brindle'],2605055.jpeg
+1955,['dark'],['quad-stripe'],2605044.jpeg
+1956,['dark'],"['dalmatian', 'pinstripe']",2604989.jpeg
+1957,['dark'],['tri-color'],2315341.jpeg
+1958,['red'],"['harlequin', 'portholes', 'tangerine']",2421510.jpeg
+1959,['lavender'],"['pinstripe', 'white out']",2626455.jpeg
+1960,['lavender'],['crowned'],2421474.jpeg
+1961,['red'],['lilly white'],2604779.jpeg
+1962,['red'],['extreme harlequin'],2566733.jpeg
+1963,['red'],[],2243761.jpeg
+1964,"['dark', 'red']","['pinstripe', 'quad-stripe', 'fringing', 'kneecaps', 'tri-color', 'soft scale', 'empty back', 'white tip']",2666907.jpeg
+1965,['yellow'],"['dalmatian', 'pinstripe', 'tiger', 'phantom']",2350951.jpeg
+1966,['lavender'],"['snowflake', 'tri-color']",2243710.jpeg
+1967,['yellow'],[],2666858.jpeg
+1968,['yellow'],['pinstripe'],2666814.jpeg
+1969,"['cream', 'red']","['harlequin', 'snowflake', 'fringing', 'kneecaps']",2292280.jpeg
+1970,['yellow'],"['extreme harlequin', 'tri-color']",2292272.jpeg
+1971,"['cream', 'dark']",['harlequin'],2666610.jpeg
+1972,['yellow'],['extreme harlequin'],2292259.jpeg
+1973,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2292254.jpeg
+1974,['dark'],['harlequin'],2666564.jpeg
+1975,['dark'],"['extreme harlequin', 'harlequin', 'pinstripe', 'quad-stripe', 'pos black']",2604280.jpeg
+1976,"['dark', 'yellow']","['brindle', 'dalmatian', 'super dalmatian', 'pos super dalmatian', 'tiger']",2604267.jpeg
+1977,['dark'],"['extreme harlequin', 'partial pinstripe', 'pos partial pinstripe', 'pinstripe', 'quad-stripe', 'tri-color', 'drippy']",2604243.jpeg
+1978,['dark'],"['extreme harlequin', 'pos extreme harlequin', 'harlequin', 'pinstripe', 'pos dark', 'drippy']",2604235.jpeg
+1979,['dark'],"['extreme harlequin', 'pos extreme harlequin', 'harlequin', 'tri-color', 'drippy']",2604218.jpeg
+1980,['yellow'],"['brindle', 'dalmatian']",2604188.jpeg
+1981,['red'],"['dalmatian', 'red spot', 'portholes']",2666398.jpeg
+1982,['yellow'],[],2666397.jpeg
+1983,['dark'],"['dalmatian', 'super dalmatian', 'pos super dalmatian', 'portholes', 'pos dark', 'phantom']",2604171.jpeg
+1984,['yellow'],"['harlequin', 'pinstripe', 'tri-color', 'phantom']",2604160.jpeg
+1985,['yellow'],[],2666359.jpeg
+1986,['red'],"['extreme harlequin', 'tri-color']",2532929.jpeg
+1987,"['cream', 'red']","['pinstripe', 'snowflake', 'fringing']",2292068.jpeg
+1988,['yellow'],['tri-color'],2292063.jpeg
+1989,['yellow'],"['extreme harlequin', 'tri-color']",2292048.jpeg
+1990,['cream'],"['extreme harlequin', 'fringing']",2292042.jpeg
+1991,['yellow'],['fringing'],2292032.jpeg
+1992,['red'],"['portholes', 'patternless']",2666287.jpeg
+1993,['yellow'],['extreme harlequin'],2292027.jpeg
+1994,['red'],['patternless'],2666263.jpeg
+1995,['red'],['partial pinstripe'],2666233.jpeg
+1996,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2291906.jpeg
+1997,['red'],"['super dalmatian', 'oil spot', 'red spot']",1917762.jpeg
+1998,['cream'],"['extreme harlequin', 'fringing']",2291900.jpeg
+1999,['yellow'],['extreme harlequin'],2291890.jpeg
+2000,['red'],[],2666190.jpeg
+2001,['yellow'],['extreme harlequin'],2291858.jpeg
+2002,['red'],"['flame', 'pinstripe']",2233058.jpeg
+2003,['red'],"['harlequin', 'pinstripe']",2233039.jpeg
+2004,['dark'],"['fringing', 'kneecaps', 'phantom']",2291854.jpeg
+2005,['cream'],"['extreme harlequin', 'fringing', 'kneecaps']",2291840.jpeg
+2006,['dark'],"['portholes', 'phantom']",2666090.jpeg
+2007,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2291832.jpeg
+2008,['yellow'],['extreme harlequin'],2291826.jpeg
+2009,['cream'],"['extreme harlequin', 'pinstripe', 'fringing', 'kneecaps']",2291815.jpeg
+2010,['yellow'],"['extreme harlequin', 'fringing']",2291802.jpeg
+2011,['yellow'],['extreme harlequin'],2291794.jpeg
+2012,['yellow'],"['extreme harlequin', 'tri-color']",2291787.jpeg
+2013,['yellow'],['tri-color'],2291783.jpeg
+2014,['cream'],"['extreme harlequin', 'reverse pinstripe', 'fringing']",2291777.jpeg
+2015,['yellow'],"['extreme harlequin', 'fringing']",2291762.jpeg
+2016,['red'],"['super dalmatian', 'red spot', 'soft scale']",2603871.jpeg
+2017,['yellow'],"['extreme harlequin', 'kneecaps']",2291754.jpeg
+2018,['yellow'],"['extreme harlequin', 'snowflake', 'fringing', 'kneecaps']",1917588.jpeg
+2019,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps']",2291745.jpeg
+2020,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2291736.jpeg
+2021,['yellow'],"['fringing', 'kneecaps', 'tri-color']",2291667.jpeg
+2022,['yellow'],['extreme harlequin'],1917414.jpeg
+2023,['cream'],"['pinstripe', 'fringing', 'kneecaps']",2291662.jpeg
+2024,['lavender'],['tri-color'],2665777.jpeg
+2025,['yellow'],"['extreme harlequin', 'reverse pinstripe', 'fringing', 'kneecaps', 'tri-color']",2291656.jpeg
+2026,['yellow'],"['extreme harlequin', 'tri-color']",2291619.jpeg
+2027,['red'],"['harlequin', 'partial pinstripe', 'snowflake', 'drippy']",2610829.jpeg
+2028,['red'],"['snowflake', 'white wall', 'drippy', 'lilly white']",2665672.jpeg
+2029,['cream'],['pinstripe'],2129905.jpeg
+2030,"['dark', 'lavender']",['flame'],2140780.jpeg
+2031,['dark'],['extreme harlequin'],2565590.jpeg
+2032,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps', 'tri-color']",2129887.jpeg
+2033,['dark'],"['dalmatian', 'extreme harlequin', 'tri-color']",2349817.jpeg
+2034,['yellow'],['extreme harlequin'],2129885.jpeg
+2035,"['dark', 'red']","['dalmatian', 'partial pinstripe', 'pos orange']",2665465.jpeg
+2036,['yellow'],"['dalmatian', 'phantom']",2585174.jpeg
+2037,"['red', 'yellow']","['dalmatian', 'harlequin', 'partial pinstripe']",1899604.jpeg
+2038,['cream'],['dalmatian'],2603316.jpeg
+2039,['yellow'],['harlequin'],2436613.jpeg
+2040,['red'],"['dalmatian', 'bi-color']",1963639.jpeg
+2041,"['cream', 'lavender']",['extreme harlequin'],1485375.jpeg
+2042,['lavender'],[],2344381.jpeg
+2043,['yellow'],"['dalmatian', 'tiger']",2436590.jpeg
+2044,"['cream', 'red']",[],2322124.jpeg
+2045,"['cream', 'lavender', 'yellow']","['harlequin', 'pinstripe']",2593629.jpeg
+2046,['cream'],"['extreme harlequin', 'harlequin', 'drippy']",2593633.jpeg
+2047,['dark'],['flame'],2602852.jpeg
+2048,['lavender'],"['extreme harlequin', 'harlequin', 'tri-color', 'drippy']",2597891.jpeg
+2049,"['cream', 'dark', 'lavender']","['extreme harlequin', 'harlequin']",2590165.jpeg
+2050,['red'],"['brindle', 'tiger', 'portholes', 'phantom', 'patternless']",1769254.jpeg
+2051,['red'],"['brindle', 'dalmatian']",2349196.jpeg
+2052,['dark'],"['harlequin', 'pinstripe', 'quad-stripe', 'tangerine']",2602966.jpeg
+2053,['red'],['bi-color'],2423246.jpeg
+2054,['red'],['phantom'],2386771.jpeg
+2055,['lavender'],"['harlequin', 'pinstripe']",2530899.jpeg
+2056,['lavender'],"['harlequin', 'pinstripe', 'quad-stripe']",2530946.jpeg
+2057,['dark'],"['pinstripe', 'quad-stripe', 'crowned']",2530985.jpeg
+2058,['dark'],"['pinstripe', 'quad-stripe']",2525772.jpeg
+2059,['red'],['phantom'],2407127.jpeg
+2060,['dark'],['pinstripe'],2530965.jpeg
+2061,['red'],"['dalmatian', 'harlequin']",2525788.jpeg
+2062,['red'],"['harlequin', 'partial pinstripe']",2488514.jpeg
+2063,['red'],[],2665015.jpeg
+2064,['yellow'],['quad-stripe'],2599151.jpeg
+2065,['olive'],['harlequin'],2599201.jpeg
+2066,['olive'],"['harlequin', 'portholes']",2599027.jpeg
+2067,['lavender'],"['extreme harlequin', 'drippy']",2242268.jpeg
+2068,['yellow'],"['brindle', 'dalmatian']",2602452.jpeg
+2069,['red'],"['dalmatian', 'bi-color']",2602440.jpeg
+2070,"['lavender', 'red']",['harlequin'],2508515.jpeg
+2071,['red'],['extreme harlequin'],2508500.jpeg
+2072,['dark'],"['pinstripe', 'white out']",2664591.jpeg
+2073,"['cream', 'lavender']","['dalmatian', 'extreme harlequin', 'harlequin', 'pinstripe', 'snowflake']",2308504.jpeg
+2074,['yellow'],"['extreme harlequin', 'solid back', 'snowflake', 'fringing', 'kneecaps']",2129044.jpeg
+2075,['lavender'],"['dalmatian', 'drippy']",2018831.jpeg
+2076,['red'],['tri-color'],2664495.jpeg
+2077,['cream'],[],2129018.jpeg
+2078,['dark'],['phantom'],2129002.jpeg
+2079,['yellow'],['tri-color'],2128996.jpeg
+2080,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps']",2128993.jpeg
+2081,"['red', 'yellow']","['harlequin', 'tri-color']",2128984.jpeg
+2082,['dark'],['extreme harlequin'],2564155.jpeg
+2083,['red'],"['white wall', 'tri-color']",2253122.jpeg
+2084,['dark'],['quad-stripe'],2020070.jpeg
+2085,"['dark', 'red']",['harlequin'],2270424.jpeg
+2086,"['dark', 'yellow']",[],2253093.jpeg
+2087,['red'],[],2253100.jpeg
+2088,"['dark', 'yellow']","['flame', 'tri-color']",2170695.jpeg
+2089,"['dark', 'yellow']",['tri-color'],2253136.jpeg
+2090,"['dark', 'yellow']",['tri-color'],2270412.jpeg
+2091,['lavender'],['tri-color'],2313905.jpeg
+2092,['dark'],"['extreme harlequin', 'tri-color']",2123967.jpeg
+2093,['dark'],"['harlequin', 'tri-color']",2487641.jpeg
+2094,['yellow'],"['extreme harlequin', 'tri-color']",2128905.jpeg
+2095,['dark'],"['portholes', 'fringing', 'phantom', 'patternless']",2128901.jpeg
+2096,['cream'],"['extreme harlequin', 'snowflake', 'fringing', 'kneecaps']",2128890.jpeg
+2097,"['cream', 'red']","['harlequin', 'partial pinstripe', 'portholes']",2602034.jpeg
+2098,['lavender'],['extreme harlequin'],2123920.jpeg
+2099,['red'],"['harlequin', 'partial pinstripe']",2487589.jpeg
+2100,"['cream', 'lavender']","['pos lavender', 'drippy']",2487517.jpeg
+2101,['red'],['harlequin'],2664097.jpeg
+2102,"['cream', 'red']",['extreme harlequin'],2601921.jpeg
+2103,['red'],"['portholes', 'bi-color', 'phantom']",2664054.jpeg
+2104,['cream'],"['harlequin', 'tri-color']",2601889.jpeg
+2105,['red'],"['dalmatian', 'super dalmatian', 'oil spot', 'red spot']",2357312.jpeg
+2106,['yellow'],"['dalmatian', 'pinstripe', 'quad-stripe', 'reverse pinstripe']",2074071.jpeg
+2107,['yellow'],"['pinstripe', 'quad-stripe', 'reverse pinstripe']",2348404.jpeg
+2108,"['cream', 'red']",['pinstripe'],2601863.jpeg
+2109,['cream'],"['pinstripe', 'drippy']",2663944.jpeg
+2110,['dark'],"['pinstripe', 'phantom']",2359811.jpeg
+2111,"['cream', 'dark']",['harlequin'],2368891.jpeg
+2112,['lavender'],"['extreme harlequin', 'harlequin', 'white out', 'white wall', 'tri-color']",2368843.jpeg
+2113,"['cream', 'dark', 'red']","['white wall', 'tri-color']",2368885.jpeg
+2114,"['dark', 'lavender']","['extreme harlequin', 'harlequin']",2368852.jpeg
+2115,"['cream', 'dark', 'lavender']","['harlequin', 'white out']",2384023.jpeg
+2116,"['dark', 'red']","['tiger', 'tri-color']",2359845.jpeg
+2117,['red'],"['portholes', 'phantom']",2663847.jpeg
+2118,['cream'],[],2270451.jpeg
+2119,['yellow'],['pinstripe'],2530537.jpeg
+2120,['red'],['extreme harlequin'],2663776.jpeg
+2121,['dark'],['harlequin'],2663770.jpeg
+2122,['dark'],"['extreme harlequin', 'harlequin']",2241325.jpeg
+2123,['red'],['flame'],2270397.jpeg
+2124,['dark'],"['extreme harlequin', 'harlequin', 'snowflake']",2663746.jpeg
+2125,['dark'],"['flame', 'harlequin']",2663736.jpeg
+2126,['cream'],['pinstripe'],1998285.jpeg
+2127,['dark'],"['harlequin', 'partial pinstripe']",2176335.jpeg
+2128,['red'],"['pinstripe', 'phantom']",2176760.jpeg
+2129,"['cream', 'lavender']","['harlequin', 'partial pinstripe']",2175937.jpeg
+2130,['cream'],[],2175959.jpeg
+2131,"['dark', 'red']",[],2663729.jpeg
+2132,['red'],"['harlequin', 'pinstripe']",1998273.jpeg
+2133,['red'],"['harlequin', 'pinstripe']",2178835.jpeg
+2134,['dark'],"['harlequin', 'pinstripe', 'tri-color']",2178291.jpeg
+2135,['dark'],['pinstripe'],2178301.jpeg
+2136,"['cream', 'dark']",['harlequin'],2176662.jpeg
+2137,['red'],['bi-color'],2178731.jpeg
+2138,['red'],"['harlequin', 'partial pinstripe']",2178744.jpeg
+2139,"['dark', 'red', 'yellow']","['empty back', 'white tip', 'phantom']",2663680.jpeg
+2140,['red'],"['dalmatian', 'phantom']",2270333.jpeg
+2141,['yellow'],[],2547135.jpeg
+2142,['red'],"['dalmatian', 'super dalmatian', 'ink spot', 'oil spot', 'red spot']",2663660.jpeg
+2143,['dark'],['harlequin'],2270321.jpeg
+2144,['dark'],"['tiger', 'phantom']",2601551.jpeg
+2145,['red'],"['harlequin', 'pos red', 'tri-color', 'pos tri-color', 'pos drippy', 'drippy']",2487290.jpeg
+2146,['red'],['flame'],2541283.jpeg
+2147,"['dark', 'red']",['tri-color'],2541279.jpeg
+2148,['red'],"['dalmatian', 'red spot']",2541363.jpeg
+2149,['cream'],"['dalmatian', 'harlequin', 'drippy']",2563341.jpeg
+2150,['red'],"['dalmatian', 'super dalmatian', 'oil spot', 'red spot']",2663618.jpeg
+2151,['red'],"['brindle', 'phantom']",2270295.jpeg
+2152,"['dark', 'red']","['extreme harlequin', 'harlequin', 'tri-color']",2601479.jpeg
+2153,['cream'],"['dalmatian', 'harlequin', 'drippy']",2563234.jpeg
+2154,['yellow'],"['flame', 'pos flame', 'reverse pinstripe', 'phantom']",2270279.jpeg
+2155,['dark'],"['harlequin', 'pinstripe']",2563213.jpeg
+2156,['dark'],"['tiger', 'phantom']",2601462.jpeg
+2157,['yellow'],['phantom'],2663300.jpeg
+2158,['red'],['phantom'],2663319.jpeg
+2159,"['cream', 'dark']","['harlequin', 'partial pinstripe', 'tri-color']",2270258.jpeg
+2160,"['cream', 'dark']","['dalmatian', 'pinstripe', 'quad-stripe']",2563093.jpeg
+2161,"['cream', 'dark']","['harlequin', 'partial pinstripe']",2563060.jpeg
+2162,['red'],"['harlequin', 'partial pinstripe']",2601311.jpeg
+2163,['yellow'],"['harlequin', 'pinstripe']",2562979.jpeg
+2164,"['cream', 'red']","['harlequin', 'pinstripe', 'quad-stripe']",2468547.jpeg
+2165,['dark'],['tri-color'],2468530.jpeg
+2166,['yellow'],"['pinstripe', 'quad-stripe']",2468523.jpeg
+2167,['dark'],['tri-color'],2468509.jpeg
+2168,['dark'],"['white wall', 'tri-color']",2468507.jpeg
+2169,['dark'],['tri-color'],2315803.jpeg
+2170,['yellow'],"['pinstripe', 'quad-stripe', 'phantom']",2315795.jpeg
+2171,['red'],"['portholes', 'phantom']",2307011.jpeg
+2172,['yellow'],['harlequin'],2306991.jpeg
+2173,['red'],['harlequin'],2306725.jpeg
+2174,['red'],"['white wall', 'tri-color']",2306609.jpeg
+2175,['red'],"['super dalmatian', 'ink spot', 'oil spot']",2663223.jpeg
+2176,['lavender'],"['flame', 'pos harlequin', 'fringing', 'kneecaps']",2270093.jpeg
+2177,['red'],"['harlequin', 'pinstripe']",2347827.jpeg
+2178,['red'],['super dalmatian'],2486847.jpeg
+2179,['dark'],['pinstripe'],1960920.jpeg
+2180,['dark'],['pinstripe'],2662664.jpeg
+2181,['red'],[],2662589.jpeg
+2182,"['cream', 'yellow']","['brindle', 'harlequin', 'drippy']",2562406.jpeg
+2183,['red'],"['dalmatian', 'pinstripe']",1824407.jpeg
+2184,['yellow'],[],2458270.jpeg
+2185,['yellow'],['dalmatian'],2458256.jpeg
+2186,['red'],"['dalmatian', 'portholes', 'phantom']",2274063.jpeg
+2187,['red'],"['dalmatian', 'pinstripe']",2320675.jpeg
+2188,['lavender'],"['dalmatian', 'red spot', 'tri-color']",2526424.jpeg
+2189,['dark'],['harlequin'],2390701.jpeg
+2190,['red'],"['partial pinstripe', 'tri-color', 'drippy']",2600468.jpeg
+2191,"['cream', 'dark']","['extreme harlequin', 'harlequin', 'white wall', 'tri-color']",2273998.jpeg
+2192,['dark'],['patternless'],2598415.jpeg
+2193,"['cream', 'lavender']","['extreme harlequin', 'harlequin', 'drippy']",2486041.jpeg
+2194,['dark'],['harlequin'],2485925.jpeg
+2195,['yellow'],['reverse pinstripe'],2662079.jpeg
+2196,['yellow'],['quad-stripe'],2662063.jpeg
+2197,"['cream', 'red']","['harlequin', 'pinstripe', 'crowned']",1650017.jpeg
+2198,['yellow'],[],1649999.jpeg
+2199,['dark'],"['harlequin', 'partial pinstripe']",2173042.jpeg
+2200,['yellow'],['quad-stripe'],2173089.jpeg
+2201,['red'],"['pos red', 'drippy']",2485652.jpeg
+2202,['yellow'],"['pinstripe', 'quad-stripe']",2173029.jpeg
+2203,"['cream', 'red']","['extreme harlequin', 'harlequin']",1913562.jpeg
+2204,['red'],['extreme harlequin'],2599926.jpeg
+2205,['red'],[],2485541.jpeg
+2206,['red'],"['dalmatian', 'extreme harlequin', 'harlequin', 'portholes', 'drippy']",2561773.jpeg
+2207,['dark'],"['extreme harlequin', 'portholes', 'tri-color']",2566659.jpeg
+2208,"['lavender', 'red']","['extreme harlequin', 'red spot']",2566883.jpeg
+2209,['lavender'],['tri-color'],2566838.jpeg
+2210,"['cream', 'lavender']",['tri-color'],2559345.jpeg
+2211,"['cream', 'lavender']",['tri-color'],2559345.jpeg
+2212,['lavender'],['portholes'],2567003.jpeg
+2213,['lavender'],['tri-color'],2567276.jpeg
+2214,['lavender'],['tri-color'],2567376.jpeg
+2215,['lavender'],"['extreme harlequin', 'tri-color']",2567152.jpeg
+2216,['red'],"['dalmatian', 'harlequin']",1232147.jpeg
+2217,['yellow'],"['pinstripe', 'quad-stripe', 'drippy']",2561713.jpeg
+2218,"['red', 'yellow']",[],1456526.jpeg
+2219,['red'],"['dalmatian', 'pin-dashed', 'portholes']",2661795.jpeg
+2220,['red'],"['harlequin', 'portholes']",2661788.jpeg
+2221,"['lavender', 'red']","['snowflake', 'pos lavender', 'lilly white']",2599814.jpeg
+2222,['lavender'],['tri-color'],2312566.jpeg
+2223,['red'],['dalmatian'],2661697.jpeg
+2224,"['dark', 'red']","['extreme harlequin', 'harlequin']",2661691.jpeg
+2225,"['lavender', 'yellow']","['harlequin', 'pinstripe', 'reverse pinstripe']",2661683.jpeg
+2226,['yellow'],"['extreme harlequin', 'fringing']",1959529.jpeg
+2227,['red'],"['pin-dashed', 'portholes']",2661673.jpeg
+2228,"['red', 'yellow']","['extreme harlequin', 'fringing', 'kneecaps']",1959473.jpeg
+2229,['yellow'],"['extreme harlequin', 'tri-color']",1959447.jpeg
+2230,['red'],"['portholes', 'phantom']",2661605.jpeg
+2231,['lavender'],"['extreme harlequin', 'tri-color']",2661593.jpeg
+2232,['yellow'],[],2067916.jpeg
+2233,['lavender'],['harlequin'],2661576.jpeg
+2234,['red'],"['harlequin', 'portholes', 'drippy']",2484908.jpeg
+2235,['yellow'],[],2067898.jpeg
+2236,['yellow'],"['brindle', 'extreme harlequin', 'harlequin']",2661513.jpeg
+2237,['red'],['tiger'],2320010.jpeg
+2238,['yellow'],"['pinstripe', 'solid back', 'fringing']",2067869.jpeg
+2239,['yellow'],"['dalmatian', 'ink spot', 'oil spot']",2067861.jpeg
+2240,['yellow'],['extreme harlequin'],2067848.jpeg
+2241,['dark'],['quad-stripe'],2661455.jpeg
+2242,['yellow'],[],2067834.jpeg
+2243,['yellow'],[],2067825.jpeg
+2244,['dark'],"['pinstripe', 'pos crowned', 'tri-color']",2661421.jpeg
+2245,['red'],"['extreme harlequin', 'partial pinstripe']",2067807.jpeg
+2246,['yellow'],['extreme harlequin'],2067803.jpeg
+2247,"['red', 'yellow']",['harlequin'],2067778.jpeg
+2248,['dark'],"['tiger', 'phantom']",2067784.jpeg
+2249,['red'],"['extreme harlequin', 'quad-stripe', 'crowned', 'creamsicle', 'drippy']",1677279.jpeg
+2250,['yellow'],"['pinstripe', 'fringing', 'kneecaps']",2067761.jpeg
+2251,"['cream', 'dark']","['extreme harlequin', 'harlequin']",1677352.jpeg
+2252,"['cream', 'red']","['extreme harlequin', 'drippy']",1677269.jpeg
+2253,['yellow'],['extreme harlequin'],2067755.jpeg
+2254,['red'],['extreme harlequin'],2067753.jpeg
+2255,['lavender'],"['harlequin', 'drippy']",2484549.jpeg
+2256,['yellow'],['extreme harlequin'],2067657.jpeg
+2257,['red'],"['portholes', 'phantom']",2067647.jpeg
+2258,['red'],"['harlequin', 'pinstripe']",2599086.jpeg
+2259,"['cream', 'red']","['harlequin', 'snowflake', 'drippy']",2484341.jpeg
+2260,['red'],['dalmatian'],2599047.jpeg
+2261,['yellow'],['pinstripe'],2598996.jpeg
+2262,['red'],[],2346486.jpeg
+2263,['red'],['patternless'],2598988.jpeg
+2264,['cream'],['harlequin'],2598948.jpeg
+2265,['red'],"['harlequin', 'drippy']",2484107.jpeg
+2266,['lavender'],"['pinstripe', 'white wall', 'tri-color', 'white tip']",2243403.jpeg
+2267,['red'],"['extreme harlequin', 'portholes', 'pos red', 'drippy']",2484032.jpeg
+2268,['yellow'],"['snowflake', 'crowned']",2284294.jpeg
+2269,"['cream', 'dark']","['pinstripe', 'kneecaps']",1611237.jpeg
+2270,"['dark', 'yellow']","['kneecaps', 'tri-color']",1611275.jpeg
+2271,['yellow'],"['dalmatian', 'pinstripe']",2308427.jpeg
+2272,['yellow'],"['extreme harlequin', 'tri-color']",2067553.jpeg
+2273,['red'],"['portholes', 'bi-color']",2483994.jpeg
+2274,['red'],"['harlequin', 'fringing', 'kneecaps']",2067549.jpeg
+2275,['yellow'],[],1549263.jpeg
+2276,"['cream', 'lavender', 'red']","['harlequin', 'drippy']",2483967.jpeg
+2277,['yellow'],"['extreme harlequin', 'fringing']",2067517.jpeg
+2278,['lavender'],"['partial pinstripe', 'white out']",2612833.jpeg
+2279,['cream'],['pinstripe'],2612832.jpeg
+2280,['cream'],"['extreme harlequin', 'pinstripe', 'white out']",2612828.jpeg
+2281,['yellow'],"['quad-stripe', 'snowflake', 'fringing', 'kneecaps']",2067505.jpeg
+2282,"['cream', 'lavender']","['extreme harlequin', 'pinstripe', 'white out']",2612823.jpeg
+2283,['yellow'],['harlequin'],2067499.jpeg
+2284,['yellow'],"['harlequin', 'tri-color']",2067493.jpeg
+2285,"['cream', 'yellow']","['pinstripe', 'quad-stripe']",2311968.jpeg
+2286,['red'],['reverse pinstripe'],1264196.jpeg
+2287,['yellow'],"['super dalmatian', 'tiger', 'ink spot']",2660549.jpeg
+2288,['dark'],"['dalmatian', 'phantom']",2420115.jpeg
+2289,['yellow'],"['pinstripe', 'reverse pinstripe', 'portholes']",2660506.jpeg
+2290,['cream'],"['extreme harlequin', 'tri-color']",2483510.jpeg
+2291,['yellow'],['drippy'],2483506.jpeg
+2292,"['cream', 'red']",['pinstripe'],2619872.jpeg
+2293,"['dark', 'olive']","['harlequin', 'portholes']",2521334.jpeg
+2294,"['dark', 'olive']",['harlequin'],2521338.jpeg
+2295,['red'],"['harlequin', 'pinstripe']",2575192.jpeg
+2296,['red'],"['harlequin', 'pinstripe']",2575167.jpeg
+2297,['cream'],['pinstripe'],2559986.jpeg
+2298,['red'],['super dalmatian'],2559982.jpeg
+2299,['cream'],['pinstripe'],2559980.jpeg
+2300,['olive'],"['dalmatian', 'red spot', 'portholes']",2510955.jpeg
+2301,['yellow'],['reverse pinstripe'],2513573.jpeg
+2302,['yellow'],['tiger'],2521321.jpeg
+2303,['yellow'],"['tiger', 'portholes']",2521310.jpeg
+2304,['yellow'],"['tiger', 'portholes']",2521302.jpeg
+2305,['yellow'],"['reverse pinstripe', 'tiger']",2513601.jpeg
+2306,"['dark', 'red']","['harlequin', 'portholes']",2518890.jpeg
+2307,['olive'],['harlequin'],2510905.jpeg
+2308,['yellow'],['tiger'],2511202.jpeg
+2309,['dark'],['harlequin'],2511146.jpeg
+2310,['yellow'],"['tiger', 'portholes']",2510939.jpeg
+2311,['yellow'],"['dalmatian', 'patternless']",1547996.jpeg
+2312,"['dark', 'red']",['harlequin'],2518862.jpeg
+2313,['dark'],"['harlequin', 'partial pinstripe']",2513558.jpeg
+2314,['olive'],"['harlequin', 'red spot']",2511024.jpeg
+2315,['dark'],['harlequin'],2521351.jpeg
+2316,"['dark', 'red']",['harlequin'],2518894.jpeg
+2317,['dark'],"['pin-dashed', 'pinstripe', 'axanthic']",2660367.jpeg
+2318,['red'],"['het axanthic', 'phantom']",2136914.jpeg
+2319,"['dark', 'red']",[],2144421.jpeg
+2320,['dark'],[],2271820.jpeg
+2321,['red'],['harlequin'],2271749.jpeg
+2322,['red'],"['harlequin', 'partial pinstripe', 'snowflake', 'drippy']",2483107.jpeg
+2323,"['lavender', 'red']","['harlequin', 'partial pinstripe', 'pinstripe', 'snowflake', 'lilly white']",2597893.jpeg
+2324,['yellow'],['quad-stripe'],2605208.jpeg
+2325,['red'],"['extreme harlequin', 'harlequin']",2597870.jpeg
+2326,['dark'],"['flame', 'portholes']",2597867.jpeg
+2327,['dark'],"['harlequin', 'partial pinstripe']",2198943.jpeg
+2328,['red'],"['harlequin', 'pinstripe']",2200232.jpeg
+2329,['dark'],"['harlequin', 'partial pinstripe']",2277018.jpeg
+2330,"['dark', 'red']",['dalmatian'],2237201.jpeg
+2331,['lavender'],[],2605157.jpeg
+2332,['dark'],['harlequin'],2605037.jpeg
+2333,['red'],"['dalmatian', 'red spot']",2604897.jpeg
+2334,['yellow'],['super dalmatian'],2279362.jpeg
+2335,['red'],[],2525949.jpeg
+2336,['dark'],"['dalmatian', 'harlequin']",2659749.jpeg
+2337,"['lavender', 'red']","['extreme harlequin', 'drippy']",2311269.jpeg
+2338,['yellow'],"['brindle', 'pin-dashed', 'tiger']",2659705.jpeg
+2339,['dark'],['harlequin'],2659656.jpeg
+2340,['yellow'],['flame'],2659628.jpeg
+2341,['yellow'],"['dalmatian', 'flame', 'pinstripe', 'kneecaps']",2315990.jpeg
+2342,['dark'],[],2095257.jpeg
+2343,['red'],['patternless'],2224060.jpeg
+2344,['cream'],"['extreme harlequin', 'fringing', 'tri-color']",2125479.jpeg
+2345,['red'],"['harlequin', 'partial pinstripe']",2388196.jpeg
+2346,"['red', 'yellow']",['harlequin'],2659470.jpeg
+2347,['lavender'],['harlequin'],927793.jpeg
+2348,['yellow'],"['extreme harlequin', 'fringing', 'kneecaps']",2125419.jpeg
+2349,['red'],"['harlequin', 'partial pinstripe']",2388137.jpeg
+2350,['red'],"['portholes', 'crowned']",2659416.jpeg
+2351,['olive'],[],2659374.jpeg
+2352,['red'],"['lilly white', 'phantom']",2431647.jpeg
+2353,['yellow'],[],2659334.jpeg
+2354,['red'],[],2659324.jpeg
+2355,"['cream', 'dark']",['harlequin'],2596709.jpeg
+2356,['dark'],"['dalmatian', 'harlequin', 'portholes']",2659181.jpeg
+2357,['red'],"['extreme harlequin', 'white wall', 'tri-color']",1404098.jpeg
+2358,['dark'],"['dalmatian', 'harlequin', 'portholes']",2659146.jpeg
+2359,['dark'],['harlequin'],2659031.jpeg
+2360,['red'],"['super dalmatian', 'red spot']",2540664.jpeg
+2361,['red'],"['red spot', 'lilly white']",2596431.jpeg
+2362,['red'],['dalmatian'],2540598.jpeg
+2363,['lavender'],"['extreme harlequin', 'harlequin', 'crowned']",2645603.jpeg
+2364,['red'],"['harlequin', 'pinstripe', 'quad-stripe', 'crowned']",2651679.jpeg
+2365,['red'],"['extreme harlequin', 'harlequin', 'pin-dashed']",2651915.jpeg
+2366,['red'],"['harlequin', 'pinstripe', 'tailless']",2653552.jpeg
+2367,['red'],"['harlequin', 'portholes']",2658848.jpeg
+2368,['red'],"['dalmatian', 'extreme harlequin', 'harlequin', 'pin-dashed', 'snowflake']",2596605.jpeg
+2369,['dark'],"['extreme harlequin', 'harlequin', 'pin-dashed']",2595203.jpeg
+2370,['lavender'],"['extreme harlequin', 'harlequin', 'snowflake', 'tri-color', 'drippy']",2339059.jpeg
+2371,['yellow'],"['brindle', 'reverse pinstripe']",2658888.jpeg
+2372,['dark'],[],2658851.jpeg
+2373,"['dark', 'red']",['tri-color'],1835409.jpeg
+2374,['dark'],[],2658753.jpeg
+2375,['cream'],"['extreme harlequin', 'harlequin', 'snowflake']",2658735.jpeg
+2376,['red'],"['extreme harlequin', 'pinstripe', 'tri-color']",2331837.jpeg
+2377,['dark'],[],2658603.jpeg
+2378,['dark'],"['dalmatian', 'phantom']",2603111.jpeg
+2379,['dark'],"['dalmatian', 'portholes', 'phantom']",2603109.jpeg
+2380,['dark'],"['harlequin', 'pinstripe']",2037870.jpeg
+2381,['red'],['harlequin'],2093579.jpeg
+2382,['yellow'],['pinstripe'],2387327.jpeg
+2383,['red'],"['portholes', 'phantom']",2266553.jpeg
+2384,['red'],['flame'],2658404.jpeg
+2385,['lavender'],['extreme harlequin'],2658402.jpeg
+2386,['dark'],['harlequin'],2658358.jpeg
+2387,['red'],"['extreme harlequin', 'harlequin', 'snowflake', 'drippy']",2658336.jpeg
+2388,['red'],[],2617043.jpeg
+2389,['red'],"['dalmatian', 'lilly white']",2133018.jpeg
+2390,"['cream', 'olive']","['tangerine', 'tri-color']",1398670.jpeg
+2391,['olive'],"['harlequin', 'snowflake', 'tangerine']",2276415.jpeg
+2392,['red'],"['tiger', 'portholes', 'phantom']",1983745.jpeg
+2393,"['cream', 'dark']","['brindle', 'dalmatian', 'harlequin']",2557138.jpeg
+2394,['yellow'],"['pinstripe', 'white wall', 'creamsicle', 'drippy']",714705.jpeg
+2395,['dark'],"['fringing', 'kneecaps', 'drippy']",2657841.jpeg
+2396,['dark'],"['extreme harlequin', 'tangerine']",2616292.jpeg
+2397,['dark'],"['extreme harlequin', 'cold fusion']",1954927.jpeg
+2398,['red'],['patternless'],2267130.jpeg
+2399,['dark'],"['extreme harlequin', 'white out', 'snowflake', 'white wall', 'drippy', 'white tip']",2616191.jpeg
+2400,"['dark', 'yellow']","['dalmatian', 'harlequin']",2657575.jpeg
+2401,['red'],['dalmatian'],2657405.jpeg
+2402,['yellow'],"['dalmatian', 'super dalmatian', 'ink spot']",2657394.jpeg
+2403,['red'],['dalmatian'],2594636.jpeg
+2404,['red'],['dalmatian'],2343609.jpeg
+2405,['red'],"['dalmatian', 'red spot']",2343584.jpeg
+2406,['red'],['tri-color'],2594567.jpeg
+2407,['yellow'],"['dalmatian', 'super dalmatian', 'tiger', 'ink spot']",2556318.jpeg
+2408,['red'],"['harlequin', 'partial pinstripe']",2386338.jpeg
+2409,['dark'],['flame'],2657065.jpeg
+2410,['dark'],['harlequin'],2657027.jpeg
+2411,['red'],"['dalmatian', 'peppered', 'quad-stripe', 'reverse pinstripe']",2657001.jpeg
+2412,['red'],"['phantom', 'patternless']",2656998.jpeg
+2413,['yellow'],['flame'],2656990.jpeg
+2414,['red'],['phantom'],2656973.jpeg
+2415,"['cream', 'dark']","['brindle', 'dalmatian', 'harlequin']",2556208.jpeg
+2416,['dark'],"['extreme harlequin', 'pin-dashed', 'tri-color']",2656921.jpeg
+2417,['red'],['harlequin'],2656918.jpeg
+2418,['dark'],"['dalmatian', 'harlequin', 'pinstripe', 'quad-stripe', 'fringing']",2656879.jpeg
+2419,['red'],"['dalmatian', 'harlequin', 'fringing', 'tri-color']",2656858.jpeg
+2420,['red'],"['brindle', 'reverse pinstripe', 'snowflake']",2656834.jpeg
+2421,['red'],['phantom'],2556133.jpeg
+2422,['yellow'],"['harlequin', 'pinstripe', 'drippy']",2556040.jpeg
+2423,['dark'],"['tiger', 'portholes']",2555967.jpeg
+2424,['dark'],"['brindle', 'harlequin', 'tri-color']",2555893.jpeg
+2425,['dark'],['dalmatian'],2656584.jpeg
+2426,['red'],"['super dalmatian', 'red spot']",2309139.jpeg
+2427,['red'],['bi-color'],2656525.jpeg
+2428,['red'],['lilly white'],2656512.jpeg
+2429,['red'],"['brindle', 'dalmatian', 'phantom']",2656493.jpeg
+2430,['red'],"['snowflake', 'lilly white']",2656481.jpeg
+2431,['red'],"['dalmatian', 'ink spot', 'phantom']",2656459.jpeg
+2432,['lavender'],"['extreme harlequin', 'harlequin', 'pinstripe', 'snowflake', 'blonde']",2309049.jpeg
+2433,['dark'],"['harlequin', 'pinstripe']",1654865.jpeg
+2434,['cream'],"['harlequin', 'snowflake', 'white wall', 'tri-color', 'drippy']",714590.jpeg
+2435,['red'],"['extreme harlequin', 'pinstripe']",2428437.jpeg
+2436,['red'],['phantom'],2269921.jpeg
+2437,['red'],['harlequin'],2269916.jpeg
+2438,['red'],"['lilly white', 'phantom']",2269914.jpeg
+2439,['yellow'],"['pinstripe', 'quad-stripe']",1471947.jpeg
+2440,['dark'],"['extreme harlequin', 'tiger']",2337436.jpeg
+2441,"['cream', 'lavender']","['extreme harlequin', 'drippy']",2131237.jpeg
+2442,['cream'],"['brindle', 'dalmatian', 'harlequin', 'pinstripe', 'super dalmatian']",2385610.jpeg
+2443,['dark'],[],2656014.jpeg
+2444,['red'],"['extreme harlequin', 'harlequin', 'tri-color']",2656002.jpeg
+2445,['cream'],"['harlequin', 'tri-color']",2342987.jpeg
+2446,['red'],['dalmatian'],2655950.jpeg
+2447,['red'],['harlequin'],2600738.jpeg
+2448,['red'],"['super dalmatian', 'red spot', 'phantom']",2600717.jpeg
+2449,['dark'],['pinstripe'],2600700.jpeg
+2450,['red'],['harlequin'],2655883.jpeg
+2451,['red'],['flame'],2655806.jpeg
+2452,['dark'],"['harlequin', 'pinstripe']",2593444.jpeg
+2453,['dark'],['pinstripe'],1526024.jpeg
+2454,['red'],['phantom'],2600396.jpeg
+2455,['dark'],['tri-color'],2655595.jpeg
+2456,['lavender'],[],2655574.jpeg
+2457,['lavender'],['pinstripe'],2374409.jpeg
+2458,['dark'],['harlequin'],2600216.jpeg
+2459,['red'],[],2477713.jpeg
+2460,['red'],['lilly white'],2477708.jpeg
+2461,['yellow'],"['super dalmatian', 'tiger']",2374382.jpeg
+2462,['dark'],['tri-color'],2593075.jpeg
+2463,['yellow'],"['dalmatian', 'reverse pinstripe', 'red spot', 'paradox']",2477695.jpeg
+2464,['yellow'],"['dalmatian', 'super dalmatian']",2374356.jpeg
+2465,['red'],"['dalmatian', 'pinstripe']",2593047.jpeg
+2466,"['dark', 'red']","['pin-dashed', 'tiger']",2477680.jpeg
+2467,['dark'],[],2593032.jpeg
+2468,['lavender'],"['extreme harlequin', 'drippy']",2536799.jpeg
+2469,"['dark', 'red']",['pinstripe'],2592983.jpeg
+2470,['dark'],[],2592961.jpeg
+2471,['cream'],"['het phantom', 'quad-stripe']",2655366.jpeg
+2472,['yellow'],"['extreme harlequin', 'drippy']",2590524.jpeg
+2473,"['lavender', 'yellow']",['harlequin'],2592937.jpeg
+2474,['dark'],['harlequin'],2342548.jpeg
+2475,['dark'],"['harlequin', 'white wall', 'tri-color']",2342541.jpeg
+2476,"['cream', 'yellow']","['het phantom', 'quad-stripe', 'crowned']",2655340.jpeg
+2477,['lavender'],['harlequin'],2301415.jpeg
+2478,['lavender'],"['harlequin', 'ink spot']",2299643.jpeg
+2479,['lavender'],"['harlequin', 'ink spot']",2299622.jpeg
+2480,['red'],['pinstripe'],2512414.jpeg
+2481,['red'],"['dalmatian', 'red spot']",2512475.jpeg
+2482,['dark'],['pinstripe'],2655163.jpeg
+2483,['red'],"['tri-color', 'drippy']",2592657.jpeg
+2484,['red'],['portholes'],2592634.jpeg
+2485,['red'],"['extreme harlequin', 'portholes']",2654776.jpeg
+2486,['lavender'],[],2553746.jpeg
+2487,['red'],"['harlequin', 'white out']",2553580.jpeg
+2488,['lavender'],"['pinstripe', 'pos quad-stripe']",2591996.jpeg
+2489,['lavender'],['dalmatian'],2654217.jpeg
+2490,['red'],"['white out', 'tangerine', 'white wall', 'phantom', 'super soft scale']",2654181.jpeg
+2491,['red'],"['pinstripe', 'portholes', 'tri-color']",2591879.jpeg
+2492,['dark'],[],2131264.jpeg
+2493,['dark'],[],2131252.jpeg
+2494,['red'],['extreme harlequin'],1593818.jpeg
+2495,"['dark', 'red']","['white wall', 'tri-color']",2654112.jpeg
+2496,['red'],"['pos quad-stripe', 'empty back']",2591769.jpeg
+2497,['yellow'],"['dalmatian', 'super dalmatian', 'ink spot']",2591764.jpeg
+2498,['cream'],"['tangerine', 'white wall', 'soft scale', 'empty back', 'super stripe']",2654097.jpeg
+2499,['red'],"['tri-color', 'lilly white']",2591740.jpeg
+2500,['red'],['phantom'],2654052.jpeg
+2501,['red'],"['pinstripe', 'tri-color']",2591698.jpeg
+2502,['lavender'],"['white out', 'soft scale', 'phantom']",2654045.jpeg
+2503,['red'],"['dalmatian', 'white out', 'portholes']",2654018.jpeg
+2504,['lavender'],['extreme harlequin'],2552797.jpeg
+2505,['lavender'],['harlequin'],2421753.jpeg
+2506,['lavender'],[],2653922.jpeg
+2507,['yellow'],"['brindle', 'harlequin']",2591468.jpeg
+2508,['yellow'],"['brindle', 'dalmatian', 'super dalmatian']",2591461.jpeg
+2509,['yellow'],['dalmatian'],2213447.jpeg
+2510,['lavender'],"['extreme harlequin', 'tri-color']",2472104.jpeg
+2511,['lavender'],['extreme harlequin'],2653728.jpeg
+2512,"['cream', 'yellow']",[],2130552.jpeg
+2513,['red'],"['harlequin', 'partial pinstripe', 'tri-color']",2130403.jpeg
+2514,['red'],"['harlequin', 'tri-color']",2130425.jpeg
+2515,['yellow'],['tiger'],2130299.jpeg
+2516,['red'],['flame'],2130862.jpeg
+2517,"['cream', 'red']",['partial pinstripe'],2130543.jpeg
+2518,['yellow'],"['partial pinstripe', 'reverse pinstripe']",2130471.jpeg
+2519,['red'],"['dalmatian', 'super dalmatian', 'ink spot', 'red spot']",2007606.jpeg
+2520,['dark'],"['extreme harlequin', 'fringing', 'tri-color', 'white tip']",1829461.jpeg
+2521,"['red', 'yellow']","['dalmatian', 'reverse pinstripe', 'furred', 'super stripe', 'phantom']",2428246.jpeg
+2522,"['dark', 'yellow']",['harlequin'],2453054.jpeg
+2523,['lavender'],"['pinstripe', 'white wall', 'tri-color']",2428181.jpeg
+2524,['red'],['pinstripe'],2428150.jpeg
+2525,['red'],"['dalmatian', 'partial pinstripe', 'pinstripe', 'ink spot']",2428141.jpeg
+2526,['yellow'],"['brindle', 'partial pinstripe', 'quad-stripe', 'reverse pinstripe', 'phantom']",2428098.jpeg
+2527,"['cream', 'dark']","['harlequin', 'quad-stripe', 'kneecaps']",2476223.jpeg
+2528,"['cream', 'dark']","['dalmatian', 'harlequin', 'tangerine']",2476206.jpeg
+2529,['cream'],"['dalmatian', 'harlequin']",2476179.jpeg
+2530,['dark'],"['harlequin', 'quad-stripe', 'kneecaps', 'tangerine']",2476169.jpeg
+2531,"['cream', 'dark']","['harlequin', 'pinstripe', 'quad-stripe', 'pos quad-stripe']",2476157.jpeg
+2532,['dark'],"['extreme harlequin', 'harlequin', 'pinstripe', 'quad-stripe']",2233998.jpeg
+2533,['dark'],"['quad-stripe', 'tangerine']",2590469.jpeg
+2534,['yellow'],"['super dalmatian', 'portholes']",2652950.jpeg
+2535,['yellow'],"['portholes', 'phantom']",2652948.jpeg
+2536,['yellow'],"['het phantom', 'quad-stripe', 'crowned']",2590457.jpeg
+2537,['dark'],"['brindle', 'harlequin', 'tri-color']",2652929.jpeg
+2538,['red'],['pinstripe'],2372644.jpeg
+2539,['dark'],"['extreme harlequin', 'harlequin']",2372630.jpeg
+2540,"['dark', 'red']","['harlequin', 'quad-stripe', 'fringing']",2652871.jpeg
+2541,['red'],"['flame', 'bi-color']",2652853.jpeg
+2542,['red'],"['dalmatian', 'phantom']",2652829.jpeg
+2543,['red'],['tri-color'],2652827.jpeg
+2544,['yellow'],"['dalmatian', 'bi-color']",2652823.jpeg
+2545,['yellow'],"['brindle', 'peppered', 'fringing', 'tipped crests']",2652815.jpeg
+2546,['olive'],"['tiger', 'phantom']",2597924.jpeg
+2547,['dark'],['harlequin'],2652683.jpeg
+2548,['dark'],"['harlequin', 'pinstripe', 'quad-stripe']",2652671.jpeg
+2549,['red'],['extreme harlequin'],2336378.jpeg
+2550,['lavender'],"['dalmatian', 'extreme harlequin', 'ink spot']",2280509.jpeg
+2551,['yellow'],"['dalmatian', 'tiger', 'tri-color']",2253739.jpeg
+2552,['red'],['lilly white'],2387298.jpeg
+2553,['cream'],['extreme harlequin'],2046215.jpeg
+2554,['red'],"['brindle', 'peppered', 'portholes']",2652659.jpeg
+2555,['red'],['reverse pinstripe'],2652647.jpeg
+2556,['red'],"['dalmatian', 'portholes', 'phantom']",2652618.jpeg
+2557,"['dark', 'red']","['harlequin', 'pinstripe', 'quad-stripe']",2652605.jpeg
+2558,['yellow'],"['brindle', 'dalmatian']",2652586.jpeg
+2559,"['cream', 'dark']",['extreme harlequin'],1529710.jpeg
+2560,"['dark', 'red']","['harlequin', 'tri-color']",2652562.jpeg
+2561,['dark'],['harlequin'],2652503.jpeg
+2562,['dark'],"['harlequin', 'partial pinstripe', 'white wall', 'tri-color']",2652494.jpeg
+2563,['red'],['dalmatian'],2652464.jpeg
+2564,['yellow'],"['brindle', 'dalmatian']",2652432.jpeg
+2565,['yellow'],['dalmatian'],2534021.jpeg
+2566,['red'],"['portholes', 'phantom']",2652412.jpeg
+2567,"['dark', 'red']","['harlequin', 'partial pinstripe']",2652377.jpeg
+2568,['red'],"['brindle', 'quad-stripe', 'reverse pinstripe']",2652371.jpeg
+2569,['red'],"['harlequin', 'partial pinstripe', 'tri-color']",2652357.jpeg
+2570,['yellow'],"['dalmatian', 'peppered']",2652322.jpeg
+2571,['yellow'],"['portholes', 'crowned']",2427432.jpeg
+2572,"['dark', 'red']","['harlequin', 'portholes']",2652304.jpeg
+2573,['dark'],['pinstripe'],2652295.jpeg
+2574,['dark'],"['pinstripe', 'white wall', 'tri-color']",2427420.jpeg
+2575,['dark'],"['dalmatian', 'phantom']",2652280.jpeg
+2576,['red'],"['dalmatian', 'tiger']",2652260.jpeg
+2577,['red'],"['brindle', 'fringing']",2652234.jpeg
+2578,['red'],"['pinstripe', 'tangerine', 'tri-color']",2427371.jpeg
+2579,['dark'],"['harlequin', 'pinstripe']",2551201.jpeg
+2580,"['cream', 'red']","['harlequin', 'pinstripe']",2551179.jpeg
+2581,['lavender'],"['partial pinstripe', 'pinstripe', 'white wall', 'tri-color']",2427320.jpeg
+2582,"['red', 'yellow']","['harlequin', 'partial pinstripe', 'reverse pinstripe']",2652041.jpeg
+2583,['dark'],"['pinstripe', 'super stripe']",2427247.jpeg
+2584,['yellow'],[],2226885.jpeg
+2585,"['red', 'yellow']","['pinstripe', 'drippy']",2551038.jpeg
+2586,['red'],"['dalmatian', 'portholes']",2551002.jpeg
+2587,['yellow'],"['fringing', 'phantom']",2651977.jpeg
+2588,['red'],"['harlequin', 'portholes']",2651967.jpeg
+2589,['olive'],['phantom'],1851371.jpeg
+2590,"['cream', 'red']","['dalmatian', 'harlequin']",2550936.jpeg
+2591,['lavender'],"['harlequin', 'snowflake']",2651925.jpeg
+2592,['yellow'],"['pinstripe', 'quad-stripe', 'drippy']",2550886.jpeg
+2593,['dark'],['quad-stripe'],2472128.jpeg
+2594,['red'],"['harlequin', 'pin-dashed', 'portholes']",2406733.jpeg
+2595,"['lavender', 'red', 'yellow']","['dalmatian', 'pinstripe', 'reverse pinstripe', 'snowflake', 'white wall', 'lilly white', 'empty back', 'phantom']",2651853.jpeg
+2596,['red'],"['portholes', 'fringing', 'kneecaps', 'bi-color', 'phantom', 'patternless']",2516548.jpeg
+2597,['yellow'],[],2371843.jpeg
+2598,['dark'],[],2651392.jpeg
+2599,['olive'],"['dalmatian', 'pinstripe', 'crowned']",2462419.jpeg
+2600,"['dark', 'lavender']","['dalmatian', 'peppered', 'phantom']",2462381.jpeg
+2601,['red'],"['dalmatian', 'lilly white', 'empty back']",2462428.jpeg
+2602,"['dark', 'lavender']","['harlequin', 'bi-color']",2478035.jpeg
+2603,"['dark', 'lavender']","['dalmatian', 'snowflake', 'furred', 'bi-color']",2478041.jpeg
+2604,['red'],"['dalmatian', 'snowflake', 'portholes']",2487757.jpeg
+2605,['dark'],"['tipped crests', 'white wall', 'tri-color', 'white tip']",2371413.jpeg
+2606,['red'],"['snowflake', 'portholes', 'drippy']",2587127.jpeg
+2607,['red'],['lilly white'],2587091.jpeg
+2608,['yellow'],"['flame', 'harlequin']",2651090.jpeg
+2609,['dark'],[],2358036.jpeg
+2610,"['dark', 'red']","['dalmatian', 'tiger', 'phantom']",2650977.jpeg
+2611,['red'],['harlequin'],2650957.jpeg
+2612,['red'],"['pinstripe', 'snowflake']",2650941.jpeg
+2613,['red'],"['dalmatian', 'bi-color', 'phantom']",2650914.jpeg
+2614,['dark'],"['harlequin', 'pinstripe']",1654832.jpeg
+2615,['red'],"['dalmatian', 'portholes', 'phantom']",2650888.jpeg
+2616,['red'],['patternless'],2588235.jpeg
+2617,['red'],['extreme harlequin'],2650740.jpeg
+2618,['red'],"['extreme harlequin', 'white wall']",2513545.jpeg
+2619,['red'],"['lilly white', 'phantom']",2588050.jpeg
+2620,['dark'],[],2588045.jpeg
+2621,['red'],['tri-color'],2587909.jpeg
+2622,['yellow'],"['dalmatian', 'flame', 'partial pinstripe', 'portholes']",2587893.jpeg
+2623,['dark'],"['harlequin', 'partial pinstripe', 'tri-color']",2587881.jpeg
+2624,['red'],"['het phantom', 'tri-color']",2595913.jpeg
+2625,['dark'],"['soft scale', 'phantom']",2549401.jpeg
+2626,"['red', 'yellow']","['pinstripe', 'quad-stripe']",2549373.jpeg
+2627,"['cream', 'dark', 'red']","['harlequin', 'pinstripe']",2549368.jpeg
+2628,"['dark', 'red']",['tailless'],2650489.jpeg
+2629,"['cream', 'red']","['harlequin', 'white wall']",2248077.jpeg
+2630,"['cream', 'lavender']","['extreme harlequin', 'harlequin', 'snowflake', 'drippy']",2587769.jpeg
+2631,['red'],[],2650341.jpeg
+2632,['red'],"['dalmatian', 'phantom']",2313781.jpeg
+2633,['red'],"['brindle', 'dalmatian']",2314060.jpeg
+2634,['dark'],[],2314077.jpeg
+2635,['yellow'],"['flame', 'portholes']",2587483.jpeg
+2636,['red'],"['pinstripe', 'quad-stripe', 'crowned']",2179368.jpeg
+2637,['lavender'],"['pinstripe', 'quad-stripe']",2453408.jpeg
+2638,['dark'],['harlequin'],2650140.jpeg
+2639,['dark'],['harlequin'],2650133.jpeg
+2640,"['cream', 'yellow']",[],2650125.jpeg
+2641,['yellow'],['patternless'],2531151.jpeg
+2642,['dark'],"['dalmatian', 'tri-color']",2129015.jpeg
+2643,"['cream', 'red']","['dalmatian', 'harlequin']",2547985.jpeg
+2644,['red'],"['quad-stripe', 'drippy']",2586800.jpeg
+2645,['yellow'],"['empty back', 'phantom']",2586742.jpeg
+2646,['lavender'],"['pinstripe', 'white out']",2586667.jpeg
+2647,['dark'],['pinstripe'],2483093.jpeg
+2648,"['cream', 'yellow']",[],2483081.jpeg
+2649,['red'],['extreme harlequin'],2586635.jpeg
+2650,['red'],[],2586625.jpeg
+2651,['red'],"['dalmatian', 'red spot']",2174464.jpeg
+2652,['dark'],['pinstripe'],2649502.jpeg
+2653,['red'],"['harlequin', 'pinstripe']",2649490.jpeg
+2654,['yellow'],"['dalmatian', 'pin-dashed', 'cluster spots']",2174438.jpeg
+2655,['dark'],['harlequin'],2649480.jpeg
+2656,['cream'],"['pinstripe', 'mocha']",2174429.jpeg
+2657,['red'],"['dalmatian', 'super dalmatian', 'phantom']",2530613.jpeg
+2658,['dark'],['tri-color'],2649398.jpeg
+2659,['dark'],"['pinstripe', 'tri-color']",2594507.jpeg
+2660,['dark'],['harlequin'],2594466.jpeg
+2661,['red'],"['harlequin', 'portholes', 'drippy']",2594374.jpeg
+2662,['lavender'],"['pin-dashed', 'white wall', 'tri-color']",2586132.jpeg
+2663,['red'],"['snowflake', 'blushing', 'pos crowned', 'drippy']",2586088.jpeg
+2664,['red'],['patternless'],2401157.jpeg
+2665,['red'],['flame'],2585694.jpeg
+2666,['red'],"['harlequin', 'drippy']",2648678.jpeg
+2667,['red'],"['harlequin', 'super dalmatian', 'drippy']",2648672.jpeg
+2668,['red'],['dalmatian'],2648662.jpeg
+2669,['lavender'],"['dalmatian', 'quad-stripe']",2648657.jpeg
+2670,['dark'],"['dalmatian', 'harlequin', 'tri-color']",2302825.jpeg
+2671,['red'],"['harlequin', 'portholes']",2302813.jpeg
+2672,['red'],"['partial pinstripe', 'phantom']",1654803.jpeg
+2673,['yellow'],"['brindle', 'phantom']",2323518.jpeg
+2674,['red'],['extreme harlequin'],2585482.jpeg
+2675,['yellow'],"['partial pinstripe', 'portholes', 'drippy']",1300624.jpeg
+2676,['dark'],"['harlequin', 'drippy']",1654824.jpeg
+2677,['red'],"['brindle', 'dalmatian', 'partial pinstripe', 'portholes', 'phantom']",1654863.jpeg
+2678,['dark'],"['harlequin', 'partial pinstripe', 'portholes']",1654810.jpeg
+2679,['red'],"['brindle', 'dalmatian', 'phantom']",1300622.jpeg
+2680,['dark'],"['harlequin', 'pinstripe', 'portholes', 'tri-color']",1300625.jpeg
+2681,['red'],"['portholes', 'bi-color']",1654852.jpeg
+2682,['dark'],"['extreme harlequin', 'tri-color']",1654807.jpeg
+2683,['yellow'],"['brindle', 'pinstripe', 'portholes', 'phantom']",1654809.jpeg
+2684,['dark'],"['harlequin', 'pinstripe', 'portholes', 'tri-color']",1654813.jpeg
+2685,['dark'],"['harlequin', 'pinstripe', 'portholes']",1654819.jpeg
+2686,['red'],"['pinstripe', 'lilly white']",1884490.jpeg
+2687,['cream'],['extreme harlequin'],2260683.jpeg
+2688,['dark'],"['harlequin', 'partial pinstripe']",2648402.jpeg
+2689,['yellow'],['phantom'],2401218.jpeg
+2690,['yellow'],"['reverse pinstripe', 'portholes', 'phantom']",2401241.jpeg
+2691,['yellow'],"['snowflake', 'portholes', 'phantom']",2401286.jpeg
+2692,"['dark', 'red']","['extreme harlequin', 'tri-color']",995224.jpeg
+2693,['red'],['harlequin'],1760982.jpeg
+2694,"['cream', 'red']","['extreme harlequin', 'harlequin', 'creamsicle']",927947.jpeg
+2695,['dark'],['pinstripe'],1884318.jpeg
+2696,['dark'],"['white out', 'white wall', 'tri-color', 'drippy']",1761018.jpeg
+2697,['lavender'],"['dalmatian', 'pinstripe', 'ink spot', 'bi-color']",561644.jpeg
+2698,['yellow'],"['dalmatian', 'quad-stripe', 'phantom']",2229715.jpeg
+2699,['yellow'],"['dalmatian', 'pinstripe', 'portholes', 'phantom']",1876791.jpeg
+2700,['yellow'],"['partial pinstripe', 'phantom']",2029416.jpeg
+2701,['yellow'],"['quad-stripe', 'phantom']",2029407.jpeg
+2702,['yellow'],"['quad-stripe', 'phantom']",2023942.jpeg
+2703,['yellow'],"['partial pinstripe', 'quad-stripe', 'phantom']",2229729.jpeg
+2704,['yellow'],"['quad-stripe', 'phantom']",1828606.jpeg
+2705,['yellow'],"['dalmatian', 'pos quad-stripe', 'phantom']",2023939.jpeg
+2706,"['lavender', 'red']","['dalmatian', 'super dalmatian', 'red spot']",2648376.jpeg
+2707,['red'],['extreme harlequin'],2648371.jpeg
+2708,['red'],"['pos dalmatian', 'portholes', 'patternless']",2648349.jpeg
+2709,['dark'],"['harlequin', 'partial pinstripe']",2273210.jpeg
+2710,['yellow'],['extreme harlequin'],2648221.jpeg
+2711,['dark'],"['extreme harlequin', 'harlequin', 'tailless']",2003308.jpeg
+2712,"['dark', 'red']","['tiger', 'phantom']",2584659.jpeg
+2713,['dark'],"['harlequin', 'tri-color']",2584641.jpeg
+2714,['red'],"['harlequin', 'empty back']",2584625.jpeg
+2715,['red'],"['harlequin', 'tri-color']",2584567.jpeg
+2716,"['cream', 'dark']","['snowflake', 'drippy']",2528891.jpeg
+2717,['lavender'],"['harlequin', 'drippy']",2647534.jpeg
+2718,['yellow'],['harlequin'],2647545.jpeg
+2719,['lavender'],['flame'],1883825.jpeg
+2720,['red'],"['harlequin', 'cold fusion']",1763618.jpeg
+2721,['red'],"['harlequin', 'pinstripe', 'cold fusion']",1763573.jpeg
+2722,['dark'],"['harlequin', 'fringing', 'kneecaps']",1883791.jpeg
+2723,['red'],['dalmatian'],2584206.jpeg
+2724,['lavender'],"['harlequin', 'pinstripe']",1763399.jpeg
+2725,['lavender'],"['harlequin', 'pinstripe']",1763376.jpeg
+2726,['dark'],['harlequin'],2647965.jpeg
+2727,['red'],['phantom'],2647940.jpeg
+2728,['red'],"['extreme harlequin', 'pin-dashed']",1763347.jpeg
+2729,['red'],"['dalmatian', 'tiger']",2647928.jpeg
+2730,['red'],['phantom'],1763281.jpeg
+2731,['red'],[],2260072.jpeg
+2732,['red'],['extreme harlequin'],2647861.jpeg
+2733,"['dark', 'lavender']",[],2647797.jpeg
+2734,['yellow'],"['partial pinstripe', 'reverse pinstripe']",1825114.jpeg
+2735,['red'],"['extreme harlequin', 'tri-color']",2647782.jpeg
+2736,['dark'],['extreme harlequin'],2583732.jpeg
+2737,"['cream', 'dark']",[],2223709.jpeg
+2738,['dark'],"['pos black', 'pos dark', 'phantom']",2647543.jpeg
+2739,"['lavender', 'red']",['quad-stripe'],2647413.jpeg
+2740,['cream'],['tri-color'],2592311.jpeg
+2741,['dark'],"['pinstripe', 'drippy']",2647393.jpeg
+2742,['red'],"['dalmatian', 'flame']",2592299.jpeg
+2743,['yellow'],"['brindle', 'dalmatian', 'partial pinstripe']",2337371.jpeg
+2744,['lavender'],"['pinstripe', 'quad-stripe', 'fringing', 'kneecaps']",2643367.jpeg
+2745,['dark'],['pinstripe'],2485871.jpeg
+2746,['dark'],"['tri-color', 'drippy']",2357849.jpeg
+2747,['red'],[],2646784.jpeg
+2748,['red'],[],2646764.jpeg
+2749,['red'],['extreme harlequin'],2646749.jpeg
+2750,['yellow'],"['brindle', 'pinstripe', 'quad-stripe', 'reverse pinstripe', 'furred']",2510514.jpeg
+2751,['yellow'],['pinstripe'],2420123.jpeg
+2752,['dark'],[],2527020.jpeg
+2753,['red'],"['lilly white', 'phantom']",2527009.jpeg
+2754,['dark'],"['harlequin', 'pinstripe']",1654843.jpeg
+2755,['red'],"['lilly white', 'phantom']",2526995.jpeg
+2756,['dark'],"['harlequin', 'partial pinstripe']",1654845.jpeg
+2757,['dark'],['harlequin'],2526969.jpeg
+2758,['dark'],['harlequin'],1300630.jpeg
+2759,['dark'],['harlequin'],2496123.jpeg
+2760,['red'],['harlequin'],2496147.jpeg
+2761,['dark'],"['harlequin', 'partial pinstripe']",2646380.jpeg
+2762,['red'],"['harlequin', 'kneecaps', 'blushing']",2646343.jpeg
+2763,"['cream', 'red']","['pos dalmatian', 'harlequin', 'blushing', 'pos furred']",2646337.jpeg
+2764,['dark'],['harlequin'],2646332.jpeg
+2765,['dark'],['quad-stripe'],2358403.jpeg
+2766,['red'],"['harlequin', 'pinstripe', 'portholes', 'kneecaps', 'blushing']",2646318.jpeg
+2767,['red'],"['dalmatian', 'oil spot', 'red spot', 'pos portholes', 'pos fringing', 'blushing', 'furred']",1063790.jpeg
+2768,['dark'],[],2526608.jpeg
+2769,['red'],"['lilly white', 'phantom']",2526594.jpeg
+2770,['dark'],"['lilly white', 'phantom']",2526588.jpeg
+2771,['red'],"['brindle', 'lilly white', 'phantom']",2646119.jpeg
+2772,['red'],"['lilly white', 'phantom']",2646101.jpeg
+2773,['red'],"['extreme harlequin', 'harlequin']",2581759.jpeg
+2774,['dark'],['pinstripe'],2581751.jpeg
+2775,['lavender'],['tri-color'],2646081.jpeg
+2776,['dark'],"['tangerine', 'tri-color']",2421744.jpeg
+2777,['red'],"['soft scale', 'phantom']",2421726.jpeg
+2778,['red'],['dalmatian'],2421720.jpeg
+2779,['red'],"['extreme harlequin', 'harlequin', 'pinstripe', 'snowflake']",2646040.jpeg
+2780,['dark'],['pinstripe'],2581669.jpeg
+2781,['red'],['harlequin'],2421634.jpeg
+2782,['dark'],"['pinstripe', 'white out']",2581647.jpeg
+2783,['red'],[],2581588.jpeg
+2784,['dark'],['portholes'],2421546.jpeg
+2785,['red'],['dalmatian'],2581559.jpeg
+2786,['dark'],"['portholes', 'phantom']",2581534.jpeg
+2787,['red'],"['flame', 'partial pinstripe']",1881227.jpeg
+2788,['red'],"['lilly white', 'phantom']",2581500.jpeg
+2789,['dark'],['tri-color'],2581484.jpeg
+2790,['dark'],"['extreme harlequin', 'harlequin', 'pin-dashed', 'fringing', 'white wall', 'tri-color', 'white tip']",2510199.jpeg
+2791,['yellow'],['dalmatian'],2510109.jpeg
+2792,['yellow'],"['flame', 'partial pinstripe']",1881184.jpeg
+2793,['yellow'],['pinstripe'],2581439.jpeg
+2794,['yellow'],"['brindle', 'dalmatian', 'pinstripe']",2073864.jpeg
+2795,['dark'],['harlequin'],2402498.jpeg
+2796,['lavender'],['quad-stripe'],2402482.jpeg
+2797,['lavender'],"['pinstripe', 'quad-stripe', 'tri-color']",2073822.jpeg
+2798,['red'],"['extreme harlequin', 'harlequin']",2073797.jpeg
+2799,['dark'],['phantom'],2073857.jpeg
+2800,['yellow'],"['dalmatian', 'pinstripe', 'quad-stripe', 'reverse pinstripe']",2073841.jpeg
+2801,['dark'],[],2402578.jpeg
+2802,['dark'],"['pinstripe', 'tri-color']",2402507.jpeg
+2803,['dark'],['extreme harlequin'],2402535.jpeg
+2804,['dark'],"['dalmatian', 'extreme harlequin']",2402565.jpeg
+2805,['red'],[],2402570.jpeg
+2806,['yellow'],"['harlequin', 'partial pinstripe']",2402538.jpeg
+2807,['yellow'],"['brindle', 'phantom']",1881084.jpeg
+2808,['dark'],['tri-color'],2581299.jpeg
+2809,['red'],"['extreme harlequin', 'het phantom']",2581268.jpeg
+2810,"['dark', 'red']","['dalmatian', 'portholes']",2645648.jpeg
+2811,"['dark', 'red']","['dalmatian', 'portholes']",2645639.jpeg
+2812,['dark'],['dalmatian'],2645625.jpeg
+2813,['red'],['dalmatian'],2645620.jpeg
+2814,['red'],"['harlequin', 'pinstripe']",2377724.jpeg
+2815,['olive'],"['brindle', 'dalmatian']",2421069.jpeg
+2816,['red'],"['dalmatian', 'bi-color']",2377640.jpeg
+2817,['dark'],"['harlequin', 'pinstripe']",2377637.jpeg
+2818,['yellow'],"['harlequin', 'pinstripe']",2377601.jpeg
+2819,['red'],"['dalmatian', 'bi-color']",2377581.jpeg
+2820,"['cream', 'dark']",[],2645551.jpeg
+2821,"['dark', 'red']","['dalmatian', 'phantom']",2645547.jpeg
+2822,['red'],['flame'],1730060.jpeg
+2823,"['dark', 'red']","['dalmatian', 'drippy']",2645417.jpeg
+2824,['lavender'],[],2580793.jpeg
+2825,['red'],"['harlequin', 'partial pinstripe']",2507704.jpeg
+2826,['red'],"['tiger', 'phantom']",2525394.jpeg
+2827,['olive'],"['extreme harlequin', 'het phantom']",2525337.jpeg
+2828,['lavender'],['het phantom'],2525276.jpeg
+2829,['red'],"['dalmatian', 'super dalmatian', 'ink spot', 'phantom']",2580564.jpeg
+2830,['red'],"['dalmatian', 'red spot', 'portholes']",2580554.jpeg
+2831,['red'],['harlequin'],2580500.jpeg
+2832,['yellow'],['harlequin'],2580413.jpeg
+2833,"['cream', 'dark']","['harlequin', 'snowflake']",2525077.jpeg
+2834,['red'],[],2125215.jpeg
+2835,['red'],[],2332492.jpeg
+2836,['dark'],[],2580093.jpeg
+2837,['dark'],"['harlequin', 'portholes']",2524522.jpeg
+2838,['dark'],"['extreme harlequin', 'harlequin']",2298282.jpeg
+2839,['dark'],"['harlequin', 'partial pinstripe']",2524474.jpeg
+2840,['dark'],"['harlequin', 'partial pinstripe']",2323264.jpeg
+2841,['dark'],"['harlequin', 'pinstripe', 'portholes', 'tri-color']",2524417.jpeg
+2842,['dark'],['pinstripe'],2310533.jpeg
+2843,['yellow'],['pinstripe'],2640160.jpeg
+2844,['red'],"['pinstripe', 'lilly white']",2639988.jpeg
+2845,['red'],['harlequin'],2639977.jpeg
+2846,['red'],"['pinstripe', 'lilly white']",2310380.jpeg
+2847,"['cream', 'dark']","['partial pinstripe', 'pinstripe', 'quad-stripe', 'crowned', 'tangerine', 'tri-color']",2644741.jpeg
+2848,['yellow'],"['partial pinstripe', 'pinstripe']",2310458.jpeg
+2849,['yellow'],"['brindle', 'dalmatian', 'partial pinstripe', 'pinstripe', 'phantom']",2310462.jpeg
+2850,['cream'],"['extreme harlequin', 'tri-color', 'drippy']",1759225.jpeg
+2851,"['dark', 'yellow']",['pinstripe'],2420086.jpeg
+2852,['dark'],"['portholes', 'phantom']",2420063.jpeg
+2853,"['dark', 'yellow']","['snowflake', 'portholes']",2644456.jpeg
+2854,['yellow'],['drippy'],2644422.jpeg
+2855,['dark'],['pinstripe'],2124391.jpeg
+2856,['dark'],['harlequin'],2578986.jpeg
+2857,['olive'],[],2644258.jpeg
+2858,['yellow'],"['partial pinstripe', 'pin-dashed', 'pinstripe']",2640183.jpeg
+2859,['yellow'],['pinstripe'],2640149.jpeg
+2860,['red'],"['pinstripe', 'lilly white']",2639995.jpeg
+2861,['yellow'],"['brindle', 'dalmatian', 'partial pinstripe', 'pinstripe', 'empty back', 'phantom']",2639922.jpeg
+2862,['yellow'],"['brindle', 'dalmatian', 'partial pinstripe', 'pinstripe']",2639911.jpeg
+2863,['red'],"['super dalmatian', 'red spot']",2296149.jpeg
+2864,"['cream', 'dark']",['extreme harlequin'],2644189.jpeg
+2865,"['cream', 'dark']",['extreme harlequin'],2644175.jpeg
+2866,"['cream', 'red']",['portholes'],2332750.jpeg
+2867,['red'],[],2435664.jpeg
+2868,['red'],"['solid back', 'crowned', 'drippy', 'lilly white']",2644079.jpeg
+2869,"['cream', 'dark']","['harlequin', 'pinstripe']",2523274.jpeg
+2870,['red'],[],2643531.jpeg
+2871,['cream'],"['harlequin', 'partial pinstripe', 'portholes', 'fringing', 'kneecaps']",2262555.jpeg
+2872,['cream'],"['flame', 'pin-dashed', 'kneecaps']",2262529.jpeg
+2873,['cream'],"['flame', 'kneecaps']",2262486.jpeg
+2874,['cream'],"['harlequin', 'partial pinstripe', 'portholes', 'fringing', 'kneecaps']",2262564.jpeg
+2875,['dark'],['flame'],2262523.jpeg
+2876,['cream'],"['harlequin', 'partial pinstripe', 'portholes', 'kneecaps']",2262586.jpeg
+2877,['cream'],"['harlequin', 'partial pinstripe', 'portholes', 'kneecaps']",2262589.jpeg
+2878,['olive'],"['dalmatian', 'phantom']",2643492.jpeg
+2879,['red'],"['portholes', 'phantom']",2643488.jpeg
+2880,['lavender'],['harlequin'],2643482.jpeg
+2881,['dark'],['flame'],2643473.jpeg
+2882,['red'],"['portholes', 'phantom']",2643468.jpeg
+2883,['yellow'],"['partial pinstripe', 'phantom']",2643443.jpeg
+2884,['yellow'],['reverse pinstripe'],2643437.jpeg
+2885,['dark'],"['pinstripe', 'tri-color']",2639796.jpeg
+2886,['red'],"['portholes', 'het axanthic']",2643418.jpeg
+2887,['red'],"['super dalmatian', 'portholes']",2643414.jpeg
+2888,['yellow'],"['brindle', 'portholes', 'phantom']",2643410.jpeg
+2889,['dark'],[],2577820.jpeg
+2890,['yellow'],[],2643321.jpeg
+2891,['red'],"['dalmatian', 'flame']",2577666.jpeg
+2892,['olive'],"['tiger', 'phantom']",2643225.jpeg
+2893,['red'],['lilly white'],2642855.jpeg
+2894,['red'],['tiger'],2642850.jpeg
+2895,"['cream', 'yellow']","['dalmatian', 'harlequin', 'partial pinstripe']",1898401.jpeg
+2896,['yellow'],"['pinstripe', 'quad-stripe', 'reverse pinstripe', 'phantom']",1898414.jpeg
+2897,['yellow'],"['harlequin', 'partial pinstripe', 'reverse pinstripe', 'portholes', 'kneecaps']",1898503.jpeg
+2898,['yellow'],"['partial pinstripe', 'quad-stripe']",1462270.jpeg
+2899,['red'],"['extreme harlequin', 'harlequin', 'partial pinstripe', 'kneecaps']",1611209.jpeg
+2900,['dark'],"['pinstripe', 'quad-stripe', 'kneecaps']",1611289.jpeg
+2901,['red'],"['partial pinstripe', 'quad-stripe', 'fringing']",1898427.jpeg
+2902,"['cream', 'dark']",['harlequin'],2480450.jpeg
+2903,['dark'],['extreme harlequin'],2480431.jpeg
+2904,['dark'],['harlequin'],2480224.jpeg
+2905,['yellow'],"['brindle', 'tiger', 'phantom']",2642691.jpeg
+2906,['red'],"['harlequin', 'quad-stripe']",2576942.jpeg
+2907,['red'],"['white out', 'white wall', 'drippy', 'white tip']",2566112.jpeg
+2908,['yellow'],"['brindle', 'pin-dashed', 'tiger', 'portholes', 'kneecaps']",1931117.jpeg
+2909,['yellow'],"['dalmatian', 'peppered', 'reverse pinstripe', 'portholes', 'phantom']",1611304.jpeg
+2910,['dark'],"['lilly white', 'white tip']",2641940.jpeg
+2911,['red'],[],2491909.jpeg
+2912,['red'],"['harlequin', 'het phantom', 'tri-color']",2504211.jpeg
+2913,"['dark', 'red']","['dalmatian', 'phantom']",2505210.jpeg
+2914,['yellow'],"['dalmatian', 'quad-stripe']",2505201.jpeg
+2915,['lavender'],[],2505197.jpeg
+2916,"['cream', 'dark', 'lavender']",[],2504221.jpeg
+2917,['dark'],['harlequin'],2641782.jpeg
+2918,['dark'],"['partial pinstripe', 'pinstripe', 'portholes', 'tri-color', 'white tip']",2253791.jpeg
+2919,"['dark', 'red']","['pinstripe', 'quad-stripe']",2254571.jpeg
+2920,['yellow'],"['dalmatian', 'oil spot']",2277546.jpeg
+2921,['red'],"['harlequin', 'blushing', 'crowned']",2293461.jpeg
+2922,['lavender'],"['pinstripe', 'quad-stripe', 'blushing', 'crowned']",2393319.jpeg
+2923,['yellow'],"['brindle', 'tiger']",2640188.jpeg
+2924,['yellow'],"['dalmatian', 'phantom']",2006897.jpeg
+2925,['yellow'],"['partial pinstripe', 'pinstripe']",2310453.jpeg
+2926,['dark'],[],2640810.jpeg
+2927,['red'],"['dalmatian', 'red spot', 'portholes', 'phantom']",2575100.jpeg
+2928,['lavender'],['pinstripe'],2639822.jpeg
+2929,['yellow'],['pinstripe'],2640141.jpeg
+2930,['dark'],[],2574946.jpeg
+2931,['cream'],"['harlequin', 'pin-dashed', 'portholes', 'kneecaps']",2262440.jpeg
+2932,['red'],"['harlequin', 'pin-dashed', 'kneecaps']",2262424.jpeg
+2933,['red'],"['dalmatian', 'harlequin', 'pin-dashed', 'portholes', 'fringing', 'kneecaps']",2262412.jpeg
+2934,['red'],"['harlequin', 'partial pinstripe', 'portholes', 'fringing', 'kneecaps']",2262416.jpeg
+2935,['red'],"['dalmatian', 'flame', 'pin-dashed', 'kneecaps']",2262447.jpeg
+2936,['cream'],"['harlequin', 'pin-dashed', 'portholes', 'fringing', 'kneecaps']",2262551.jpeg
+2937,['cream'],"['dalmatian', 'flame', 'pin-dashed', 'kneecaps']",2262462.jpeg
+2938,['red'],"['super dalmatian', 'ink spot']",2243012.jpeg
+2939,['red'],['harlequin'],2406561.jpeg
+2940,['dark'],['partial pinstripe'],2640257.jpeg
+2941,['dark'],['pinstripe'],2640082.jpeg
+2942,['red'],"['dalmatian', 'super dalmatian', 'red spot']",2638601.jpeg
+2943,['cream'],['harlequin'],2499707.jpeg
+2944,['cream'],['harlequin'],2499697.jpeg
+2945,"['cream', 'lavender']",[],2499764.jpeg
+2946,['dark'],[],2574249.jpeg
+2947,['red'],"['super dalmatian', 'oil spot', 'red spot', 'cluster spots']",2496988.jpeg
+2948,['red'],"['super dalmatian', 'ink spot', 'oil spot']",2497160.jpeg
+2949,['red'],"['extreme harlequin', 'harlequin', 'blushing', 'white wall', 'tri-color', 'white tip']",1785807.jpeg
+2950,['dark'],"['portholes', 'phantom']",2574173.jpeg
+2951,['yellow'],['drippy'],2574163.jpeg
+2952,"['dark', 'lavender', 'red']",['harlequin'],2317397.jpeg
+2953,['dark'],"['harlequin', 'pinstripe', 'crowned']",2639664.jpeg
+2954,"['dark', 'red']","['pos extreme harlequin', 'harlequin', 'partial pinstripe', 'crowned', 'pos black']",2639609.jpeg
+2955,['yellow'],['extreme harlequin'],2639424.jpeg
+2956,['red'],"['portholes', 'phantom']",2639356.jpeg
+2957,['cream'],['harlequin'],2639166.jpeg
+2958,['lavender'],"['portholes', 'drippy']",2458519.jpeg
+2959,"['cream', 'lavender']",[],2345365.jpeg
+2960,['red'],['quad-stripe'],2345414.jpeg
+2961,['red'],[],2345372.jpeg
+2962,['dark'],['pinstripe'],2572562.jpeg
+2963,['yellow'],"['dalmatian', 'furred']",2638043.jpeg
+2964,['red'],['super dalmatian'],2572420.jpeg
+2965,['cream'],"['pos brindle', 'dalmatian', 'harlequin', 'drippy']",2637957.jpeg
+2966,['red'],['flame'],2572382.jpeg
+2967,['red'],"['super dalmatian', 'oil spot', 'red spot', 'pos portholes']",2637841.jpeg
+2968,['lavender'],"['quad-stripe', 'white wall', 'drippy']",2572335.jpeg
+2969,['cream'],"['harlequin', 'partial pinstripe', 'portholes']",2637732.jpeg
+2970,['yellow'],"['dalmatian', 'harlequin', 'pinstripe', 'reverse pinstripe', 'blushing']",2637644.jpeg
+2971,['red'],"['pinstripe', 'ink spot']",2401931.jpeg
+2972,['red'],['dalmatian'],2401906.jpeg
+2973,['yellow'],"['lilly white', 'phantom']",2571783.jpeg
+2974,['yellow'],"['extreme harlequin', 'harlequin', 'drippy']",2232981.jpeg
+2975,['cream'],['brindle'],2257675.jpeg
+2976,['red'],['creamsicle'],2633617.jpeg
+2977,['red'],['pinstripe'],2632596.jpeg
+2978,['dark'],['tri-color'],2529228.jpeg
+2979,['yellow'],['harlequin'],2475101.jpeg
+2980,['lavender'],['quad-stripe'],2632134.jpeg
+2981,"['dark', 'lavender']","['harlequin', 'tangerine']",2630958.jpeg
+2982,['lavender'],"['extreme harlequin', 'tri-color']",2630939.jpeg
+2983,['lavender'],"['harlequin', 'tri-color']",2630932.jpeg
+2984,['lavender'],"['harlequin', 'pinstripe', 'tri-color']",2630913.jpeg
+2985,['lavender'],[],2630839.jpeg
+2986,['lavender'],[],2630832.jpeg
+2987,['lavender'],[],2630815.jpeg
+2988,['lavender'],['harlequin'],2630787.jpeg
+2989,['lavender'],"['harlequin', 'tri-color']",2630770.jpeg
+2990,['lavender'],"['harlequin', 'tri-color']",2630760.jpeg
+2991,['dark'],['harlequin'],2630747.jpeg
+2992,['yellow'],"['tiger', 'phantom']",2630732.jpeg
+2993,['lavender'],['extreme harlequin'],2630708.jpeg
+2994,['red'],"['dalmatian', 'harlequin']",2630689.jpeg
+2995,['lavender'],['extreme harlequin'],2630677.jpeg
+2996,['lavender'],['harlequin'],2630673.jpeg
+2997,['red'],"['dalmatian', 'harlequin']",2630666.jpeg
+2998,['lavender'],"['harlequin', 'tri-color']",2630633.jpeg
+2999,"['dark', 'lavender']","['harlequin', 'tangerine']",2630577.jpeg
+3000,"['dark', 'lavender']","['harlequin', 'tangerine']",2630565.jpeg
+3001,['red'],['extreme harlequin'],2630544.jpeg
+3002,['red'],"['harlequin', 'tiger', 'snowflake', 'tri-color']",2337401.jpeg
+3003,['yellow'],['quad-stripe'],2416376.jpeg
+3004,['red'],[],2562111.jpeg
+3005,['red'],['dalmatian'],2627890.jpeg
+3006,['dark'],['pinstripe'],2627852.jpeg
+3007,['red'],"['dalmatian', 'red spot']",2277140.jpeg
+3008,['red'],"['dalmatian', 'super dalmatian', 'ink spot']",2095002.jpeg
+3009,['red'],"['harlequin', 'portholes']",2388500.jpeg
+3010,['red'],"['dalmatian', 'super dalmatian', 'ink spot']",1888636.jpeg
+3011,"['cream', 'red']","['extreme harlequin', 'harlequin', 'pinstripe', 'snowflake', 'portholes', 'drippy']",2244289.jpeg
+3012,['dark'],"['harlequin', 'partial pinstripe']",2619852.jpeg
+3013,['red'],"['extreme harlequin', 'harlequin', 'snowflake', 'drippy']",2622674.jpeg
+3014,['red'],"['extreme harlequin', 'pin-dashed']",2622054.jpeg
+3015,"['dark', 'red']",['drippy'],2612944.jpeg
+3016,['red'],['harlequin'],2612938.jpeg
+3017,['red'],"['phantom', 'patternless']",2612829.jpeg
+3018,['yellow'],['dalmatian'],2610686.jpeg
+3019,['olive'],['dalmatian'],2610643.jpeg
+3020,"['cream', 'red']",['harlequin'],2609665.jpeg
+3021,['dark'],['harlequin'],2539502.jpeg
+3022,['red'],['pinstripe'],2539461.jpeg
+3023,['red'],"['pinstripe', 'drippy']",2539450.jpeg
+3024,['red'],['dalmatian'],2237181.jpeg
+3025,['red'],"['harlequin', 'pinstripe']",2235464.jpeg
+3026,['dark'],"['harlequin', 'pinstripe']",2159428.jpeg
+3027,['dark'],"['harlequin', 'pinstripe']",2159411.jpeg
+3028,['red'],['harlequin'],2159409.jpeg
+3029,['red'],['pinstripe'],2609516.jpeg
+3030,"['red', 'yellow']",['pinstripe'],2609506.jpeg
+3031,['dark'],"['pinstripe', 'drippy']",2609477.jpeg
+3032,['red'],"['dalmatian', 'super dalmatian', 'ink spot', 'oil spot']",2497154.jpeg
+3033,['red'],"['dalmatian', 'peppered', 'super dalmatian', 'red spot']",2497087.jpeg
+3034,"['dark', 'red']","['extreme harlequin', 'kneecaps', 'tri-color', 'white tip']",1785979.jpeg
+3035,['red'],"['harlequin', 'pinstripe', 'quad-stripe', 'tri-color', 'drippy', 'soft scale', 'empty back', 'white tip']",2512893.jpeg
+3036,['red'],"['super dalmatian', 'ink spot', 'oil spot', 'red spot', 'blushing', 'orange tip']",2497168.jpeg
+3037,"['dark', 'red']","['pinstripe', 'quad-stripe', 'snowflake', 'kneecaps', 'tri-color', 'orange tip']",1807747.jpeg
+3038,['red'],"['dalmatian', 'red spot']",2496964.jpeg
+3039,['dark'],['tri-color'],2609458.jpeg
+3040,"['dark', 'red']","['pinstripe', 'quad-stripe', 'tri-color']",1807723.jpeg
+3041,"['dark', 'yellow']","['extreme harlequin', 'harlequin']",2372507.jpeg
+3042,"['dark', 'yellow']",['harlequin'],2373232.jpeg
+3043,"['dark', 'red']","['extreme harlequin', 'kneecaps', 'white wall', 'tri-color']",1785928.jpeg
+3044,['red'],"['super dalmatian', 'ink spot', 'oil spot', 'red spot']",2496976.jpeg
+3045,['red'],"['harlequin', 'pinstripe']",2609446.jpeg
+3046,['red'],"['harlequin', 'pinstripe', 'tri-color', 'drippy']",2512864.jpeg
+3047,['red'],"['pinstripe', 'quad-stripe', 'tri-color']",2512844.jpeg
+3048,['red'],"['pinstripe', 'quad-stripe', 'tri-color']",2512854.jpeg
+3049,['dark'],['tri-color'],2609431.jpeg
+3050,['red'],"['harlequin', 'pinstripe', 'tri-color', 'drippy', 'soft scale', 'empty back', 'white tip']",2512896.jpeg
+3051,['red'],"['dalmatian', 'portholes']",2605735.jpeg
+3052,['dark'],[],2604740.jpeg
+3053,['dark'],['harlequin'],1981292.jpeg
+3054,"['cream', 'red']",['pinstripe'],2604228.jpeg
+3055,['yellow'],['dalmatian'],2191878.jpeg
+3056,['red'],['creamsicle'],2602726.jpeg
+3057,['red'],[],2602715.jpeg
+3058,['cream'],['pinstripe'],2600024.jpeg
+3059,"['dark', 'olive']",['phantom'],2597453.jpeg
+3060,['red'],"['portholes', 'bi-color']",2595307.jpeg
+3061,['cream'],['pinstripe'],2594377.jpeg
+3062,"['cream', 'dark']",['pinstripe'],2594364.jpeg
+3063,"['cream', 'dark']","['extreme harlequin', 'harlequin']",2594153.jpeg
+3064,['red'],"['dalmatian', 'red spot', 'phantom']",1556396.jpeg
+3065,['red'],['tri-color'],2591585.jpeg
+3066,['yellow'],[],2590127.jpeg
+3067,['red'],[],2504048.jpeg
+3068,"['lavender', 'red']","['dalmatian', 'quad-stripe', 'super dalmatian']",2584537.jpeg
+3069,['dark'],[],2583641.jpeg
+3070,['yellow'],['harlequin'],2578244.jpeg
+3071,['lavender'],"['harlequin', 'portholes', 'pos lavender', 'tri-color']",2119589.jpeg
+3072,['dark'],"['partial pinstripe', 'tri-color']",2573659.jpeg
+3073,['red'],['pinstripe'],2571714.jpeg
+3074,"['cream', 'red']",['extreme harlequin'],2571703.jpeg
+3075,['red'],['extreme harlequin'],2571672.jpeg
+3076,"['cream', 'dark']",['extreme harlequin'],2571603.jpeg
+3077,['red'],[],2570308.jpeg
+3078,['cream'],"['extreme harlequin', 'white tip']",2569442.jpeg
+3079,['red'],"['pinstripe', 'tri-color']",2569428.jpeg
+3080,['yellow'],['pinstripe'],1897296.jpeg
+3081,['dark'],['harlequin'],2562425.jpeg
+3082,['red'],['harlequin'],2453737.jpeg
+3083,['dark'],"['harlequin', 'pinstripe']",2562034.jpeg
+3084,['yellow'],[],2416375.jpeg
+3085,['lavender'],"['fringing', 'white wall', 'tri-color']",2394656.jpeg
+3086,['lavender'],['harlequin'],2394608.jpeg
+3087,"['lavender', 'red']",['harlequin'],2394624.jpeg
+3088,['yellow'],"['pinstripe', 'quad-stripe', 'reverse pinstripe']",2394765.jpeg
+3089,"['cream', 'red']",['soft scale'],2395235.jpeg
+3090,['lavender'],['kneecaps'],2395221.jpeg
+3091,['red'],"['pinstripe', 'reverse pinstripe']",2395269.jpeg
+3092,"['cream', 'red']","['harlequin', 'blushing']",2395105.jpeg
+3093,['red'],"['super dalmatian', 'ink spot', 'oil spot']",2554359.jpeg
+3094,['dark'],['harlequin'],2551708.jpeg
+3095,['red'],['harlequin'],2548917.jpeg
+3096,['red'],"['dalmatian', 'harlequin']",2548607.jpeg
+3097,['yellow'],['dalmatian'],2544332.jpeg
+3098,['dark'],[],2533634.jpeg
+3099,['red'],"['oil spot', 'snowflake', 'phantom']",2532927.jpeg
+3100,['yellow'],['harlequin'],2531423.jpeg
+3101,['yellow'],"['dalmatian', 'harlequin']",2526078.jpeg
+3102,['dark'],['harlequin'],2516956.jpeg
+3103,['yellow'],"['dalmatian', 'red spot', 'portholes']",2438445.jpeg
+3104,['red'],"['dalmatian', 'extreme harlequin']",2515604.jpeg
+3105,['red'],"['dalmatian', 'extreme harlequin']",2515595.jpeg
+3106,['red'],"['dalmatian', 'extreme harlequin']",2515557.jpeg
+3107,['red'],"['dalmatian', 'extreme harlequin']",2515551.jpeg
+3108,"['red', 'yellow']",['flame'],2515503.jpeg
+3109,['red'],['partial pinstripe'],2515295.jpeg
+3110,['red'],"['dalmatian', 'extreme harlequin']",2515234.jpeg
+3111,['red'],"['dalmatian', 'extreme harlequin']",2515225.jpeg
+3112,['red'],"['dalmatian', 'extreme harlequin']",2515201.jpeg
+3113,['red'],"['dalmatian', 'extreme harlequin']",2515185.jpeg
+3114,['red'],"['dalmatian', 'harlequin']",2513804.jpeg
+3115,['red'],"['dalmatian', 'harlequin']",2513769.jpeg
+3116,['red'],"['dalmatian', 'harlequin']",2513277.jpeg
+3117,['red'],"['dalmatian', 'harlequin']",2513255.jpeg
+3118,['red'],"['dalmatian', 'harlequin']",2513197.jpeg
+3119,['dark'],['phantom'],2511383.jpeg
+3120,['dark'],['phantom'],2511237.jpeg
+3121,['red'],"['tiger', 'blushing', 'buckskin', 'bi-color', 'phantom']",2508970.jpeg
+3122,['red'],['patternless'],2501290.jpeg
+3123,['red'],['dalmatian'],2501089.jpeg
+3124,['yellow'],['dalmatian'],2501047.jpeg
+3125,['red'],['brindle'],2400570.jpeg
+3126,"['cream', 'dark']",['pinstripe'],1803190.jpeg
+3127,['red'],"['harlequin', 'pinstripe', 'tri-color']",1803219.jpeg
+3128,['red'],"['dalmatian', 'pinstripe', 'quad-stripe']",1803181.jpeg
+3129,['lavender'],['pinstripe'],1803172.jpeg
+3130,"['dark', 'red']",['harlequin'],2494660.jpeg
+3131,"['dark', 'red']",['harlequin'],2494654.jpeg
+3132,['red'],['harlequin'],2494650.jpeg
+3133,"['dark', 'red']",['harlequin'],2494640.jpeg
+3134,['yellow'],"['brindle', 'soft scale', 'phantom']",2494341.jpeg
+3135,['yellow'],"['tiger', 'soft scale', 'phantom']",2494336.jpeg
+3136,['yellow'],"['brindle', 'soft scale', 'phantom']",2494332.jpeg
+3137,['yellow'],"['soft scale', 'empty back', 'phantom']",2494325.jpeg
+3138,['yellow'],"['brindle', 'soft scale', 'phantom']",2494323.jpeg
+3139,['red'],"['flame', 'harlequin']",2324529.jpeg
+3140,['red'],"['dalmatian', 'portholes']",2477289.jpeg
+3141,['yellow'],['dalmatian'],1414561.jpeg
+3142,['red'],['pinstripe'],2466546.jpeg
+3143,['dark'],"['extreme harlequin', 'harlequin', 'pinstripe', 'white out', 'tri-color']",2462600.jpeg
+3144,['red'],"['harlequin', 'partial pinstripe', 'pinstripe']",2461285.jpeg
+3145,"['dark', 'red']","['extreme harlequin', 'harlequin', 'partial pinstripe', 'pos partial pinstripe', 'pin-dashed', 'pinstripe', 'tri-color', 'phantom']",2450433.jpeg
+3146,"['dark', 'lavender', 'yellow']","['extreme harlequin', 'harlequin', 'pinstripe', 'tri-color']",2436386.jpeg
+3147,['red'],['tiger'],2433511.jpeg
+3148,['red'],"['white wall', 'lilly white', 'phantom']",2431658.jpeg
+3149,['cream'],"['pinstripe', 'crowned']",2431617.jpeg
+3150,['yellow'],['pinstripe'],2431609.jpeg
+3151,['yellow'],['flame'],2420913.jpeg
+3152,['red'],['harlequin'],2420832.jpeg
+3153,['cream'],['pinstripe'],2322488.jpeg
+3154,['red'],['pinstripe'],2416391.jpeg
+3155,['cream'],['extreme harlequin'],2414161.jpeg
+3156,['cream'],['extreme harlequin'],2414139.jpeg
+3157,['red'],"['harlequin', 'partial pinstripe']",2414129.jpeg
+3158,['yellow'],['phantom'],2408796.jpeg
+3159,['dark'],['harlequin'],2408775.jpeg
+3160,['dark'],['flame'],2408759.jpeg
+3161,['yellow'],['harlequin'],2408742.jpeg
+3162,['dark'],"['pin-dashed', 'crowned']",2408720.jpeg
+3163,['dark'],['extreme harlequin'],2408701.jpeg
+3164,['yellow'],['harlequin'],2406811.jpeg
+3165,['dark'],['harlequin'],2406769.jpeg
+3166,['red'],['lilly white'],2346376.jpeg
+3167,['red'],['lilly white'],2340631.jpeg
+3168,['red'],['lilly white'],2340619.jpeg
+3169,['red'],['lilly white'],2340608.jpeg
+3170,['red'],['lilly white'],2340583.jpeg
+3171,['red'],['lilly white'],2340579.jpeg
+3172,['dark'],['harlequin'],2083677.jpeg
+3173,['red'],[],2083513.jpeg
+3174,['lavender'],"['dalmatian', 'flame', 'portholes']",2083443.jpeg
+3175,['red'],"['brindle', 'portholes']",2083419.jpeg
+3176,"['cream', 'lavender']",['harlequin'],2083408.jpeg
+3177,['red'],"['harlequin', 'peppered', 'lilly white']",2083393.jpeg
+3178,['yellow'],"['brindle', 'dalmatian']",2083371.jpeg
+3179,['lavender'],"['flame', 'harlequin']",2083352.jpeg
+3180,['lavender'],"['flame', 'partial pinstripe', 'portholes']",2083334.jpeg
+3181,"['dark', 'red']",['partial pinstripe'],2083303.jpeg
+3182,['red'],"['brindle', 'harlequin', 'portholes']",1967252.jpeg
+3183,"['cream', 'yellow']",['harlequin'],1880987.jpeg
+3184,['red'],"['dalmatian', 'portholes', 'bi-color']",1880952.jpeg
+3185,['red'],['pin-dashed'],1616388.jpeg
+3186,['yellow'],['harlequin'],2523692.jpeg
